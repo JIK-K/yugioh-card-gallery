@@ -1,0 +1,806 @@
+/* ═══════════════════════════════════════════════════════════
+   YUGIOH CARD CSS  —  Holographic Effects
+   
+   simeydotme 기법 충실히 재현:
+   ─ --background-x/y   : 마우스와 반비례하는 패럴렉스 bg 위치
+   ─ --pointer-x/y      : 마우스 실제 위치 (glare 중심)
+   ─ --pointer-from-center : 중심 거리 → filter brightness 조절
+   ─ --card-opacity     : hover시 1, 떠날 때 0
+   ─ sunpillar repeating-linear-gradient: 수직 무지개 기둥
+   ─ scanline: 가로 명암선으로 진짜 홀로 질감
+   ─ background-blend-mode per layer
+   ═══════════════════════════════════════════════════════════ */
+
+/* ─── CSS 변수 기본값 ─── */
+.card-item {
+  --pointer-x: 50%;
+  --pointer-y: 50%;
+  --background-x: 50%;
+  --background-y: 50%;
+  --pointer-from-center: 0;
+  --card-opacity: 0;
+  --rot-x: 0deg;
+  --rot-y: 0deg;
+
+  /* sunpillar 색상 팔레트 */
+  --sunpillar-1: hsla(2, 100%, 73%, 1);
+  --sunpillar-2: hsla(53, 100%, 69%, 1);
+  --sunpillar-3: hsla(93, 100%, 69%, 1);
+  --sunpillar-4: hsla(176, 100%, 76%, 1);
+  --sunpillar-5: hsla(228, 100%, 74%, 1);
+  --sunpillar-6: hsla(283, 100%, 73%, 1);
+
+  position: relative;
+  width: 100%;
+  aspect-ratio: 59 / 86;
+  border-radius: 8px;
+  cursor: pointer;
+  perspective: 600px;
+  z-index: 1;
+}
+
+.card-item:hover {
+  z-index: 10;
+}
+
+/* ─── 3D Tilt 래퍼 ─── */
+.card-3d {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  transform: rotateX(var(--rot-x)) rotateY(var(--rot-y));
+  transition:
+    transform 0.08s ease-out,
+    box-shadow 0.3s ease;
+  will-change: transform;
+  background: #111;
+}
+
+.card-3d img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* ─── 공통 레이어 ─── */
+.card-shine,
+.card-glare {
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+/* ─── 팝오버 ─── */
+.card-info-popover {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(calc(100% + 8px));
+  background: rgba(8, 8, 18, 0.97);
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 8px;
+  padding: 10px 14px;
+  width: max-content;
+  max-width: 220px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+  z-index: 50;
+  backdrop-filter: blur(12px);
+}
+.card-item:hover .card-info-popover {
+  opacity: 1;
+}
+
+.info-id {
+  display: block;
+  font-size: 12px;
+  letter-spacing: 0.15em;
+  color: white;
+  font-family: "Courier New", monospace;
+  margin-bottom: 4px;
+}
+.info-name {
+  font-family: "Cinzel", serif;
+  font-size: 16x;
+  font-weight: 700;
+  color: #e8e0d0;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+.info-type {
+  font-size: 12px;
+  color: #7a7a9a;
+  margin-bottom: 3px;
+}
+.info-rarity {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* ══════════════════════════════════════════════════════════
+   COMMON
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Common"] .card-3d {
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.6),
+    0 0 0 1px rgba(80, 80, 80, 0.35);
+}
+[data-rarity="Common"] .card-shine,
+[data-rarity="Common"] .card-glare {
+  display: none;
+}
+[data-rarity="Common"] .info-rarity {
+  color: #666;
+}
+
+/* ══════════════════════════════════════════════════════════
+   SHORT PRINT — 미묘한 은빛 글레어
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Short Print"] .card-3d {
+  box-shadow:
+    0 3px 14px rgba(0, 0, 0, 0.65),
+    0 0 0 1px rgba(150, 145, 175, 0.45);
+}
+
+[data-rarity="Short Print"] .card-shine {
+  background-image: linear-gradient(
+    133deg,
+    transparent 40%,
+    rgba(210, 205, 235, 0.35) 50%,
+    transparent 60%
+  );
+  background-size: 200% 200%;
+  background-position: var(--background-x) var(--background-y);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.7);
+  transition:
+    opacity 0.4s,
+    background-position 0.1s;
+}
+
+[data-rarity="Short Print"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    rgba(255, 255, 255, 0.15) 0%,
+    transparent 60%
+  );
+  mix-blend-mode: overlay;
+  opacity: calc(var(--card-opacity) * 0.8);
+  transition:
+    opacity 0.4s,
+    background-image 0.1s;
+}
+
+[data-rarity="Short Print"] .info-rarity {
+  color: #9090b8;
+}
+
+/* ══════════════════════════════════════════════════════════
+   RARE — 은박 스캔라인 홀로
+   수직 스캔라인 + 단색 shimmer
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Rare"] .card-3d {
+  box-shadow:
+    0 4px 18px rgba(0, 0, 0, 0.7),
+    0 0 0 1px rgba(190, 188, 215, 0.5),
+    0 0 12px rgba(160, 155, 210, 0.15);
+}
+
+[data-rarity="Rare"] .card-shine {
+  background-image:
+    /* scanline */
+    repeating-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0) 0px,
+      rgba(255, 255, 255, 0) 1px,
+      rgba(255, 255, 255, 0.03) 2px,
+      rgba(255, 255, 255, 0) 3px
+    ),
+    /* shimmer band */
+    linear-gradient(
+        133deg,
+        transparent 20%,
+        rgba(200, 200, 230, 0) 42%,
+        rgba(210, 210, 240, 0.5) 50%,
+        rgba(200, 200, 230, 0) 58%,
+        transparent 80%
+      );
+  background-size:
+    100% 3px,
+    200% 200%;
+  background-position:
+    0 0,
+    var(--background-x) var(--background-y);
+  background-blend-mode: overlay, color-dodge;
+  mix-blend-mode: color-dodge;
+  filter: brightness(calc(var(--pointer-from-center) * 0.3 + 0.6)) contrast(1.5)
+    saturate(1.5);
+  opacity: calc(var(--card-opacity) * 0.85);
+  transition:
+    opacity 0.4s,
+    background-position 0.1s,
+    filter 0.1s;
+}
+
+[data-rarity="Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    rgba(255, 255, 255, 0.28) 0%,
+    rgba(200, 200, 255, 0.08) 35%,
+    transparent 70%
+  );
+  mix-blend-mode: overlay;
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center));
+  transition:
+    opacity 0.3s,
+    background-image 0.08s;
+}
+
+[data-rarity="Rare"] .info-rarity {
+  color: #b0b4cc;
+  text-shadow: 0 0 8px rgba(180, 185, 230, 0.6);
+}
+
+/* ══════════════════════════════════════════════════════════
+   SUPER RARE — 표준 홀로 (sunpillar + scanline)
+   simeydotme regular-holo 기법 그대로
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Super Rare"] .card-3d {
+  box-shadow:
+    0 5px 22px rgba(0, 0, 0, 0.75),
+    0 0 0 1px rgba(100, 195, 255, 0.45);
+}
+
+[data-rarity="Super Rare"] .card-shine {
+  background-image:
+    /* sunpillar: 수직 무지개 기둥 */
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-1) calc(5% * 1),
+      var(--sunpillar-2) calc(5% * 2),
+      var(--sunpillar-3) calc(5% * 3),
+      var(--sunpillar-4) calc(5% * 4),
+      var(--sunpillar-5) calc(5% * 5),
+      var(--sunpillar-6) calc(5% * 6),
+      var(--sunpillar-1) calc(5% * 7)
+    ),
+    /* diagonal scanline */
+    repeating-linear-gradient(
+        133deg,
+        #0e152e 0%,
+        hsl(180, 10%, 60%) 3.8%,
+        hsl(180, 29%, 66%) 4.5%,
+        hsl(180, 10%, 60%) 5.2%,
+        #0e152e 10%,
+        #0e152e 12%
+      ),
+    /* radial hotspot */
+    radial-gradient(
+        farthest-corner circle at var(--pointer-x) var(--pointer-y),
+        rgba(0, 0, 0, 0.1) 12%,
+        rgba(0, 0, 0, 0.15) 20%,
+        rgba(0, 0, 0, 0.25) 120%
+      );
+  background-blend-mode: soft-light, hue, hard-light;
+  background-size:
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  background-position:
+    0% var(--background-y),
+    calc(var(--background-x) + calc(var(--background-y) * 0.2))
+      var(--background-y),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.5)) contrast(1.6)
+    saturate(2);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.9);
+  transition:
+    opacity 0.35s,
+    background-position 0.08s,
+    filter 0.08s;
+}
+
+/* shine :after — exclusion 레이어로 깊이 추가 */
+[data-rarity="Super Rare"] .card-shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      var(--sunpillar-1) calc(5% * 1),
+      var(--sunpillar-2) calc(5% * 2),
+      var(--sunpillar-3) calc(5% * 3),
+      var(--sunpillar-4) calc(5% * 4),
+      var(--sunpillar-5) calc(5% * 5),
+      var(--sunpillar-6) calc(5% * 6),
+      var(--sunpillar-1) calc(5% * 7)
+    ),
+    repeating-linear-gradient(
+      133deg,
+      #0e152e 0%,
+      hsl(180, 10%, 60%) 3.8%,
+      hsl(180, 29%, 66%) 4.5%,
+      hsl(180, 10%, 60%) 5.2%,
+      #0e152e 10%,
+      #0e152e 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.1) 12%,
+      rgba(0, 0, 0, 0.15) 20%,
+      rgba(0, 0, 0, 0.25) 120%
+    );
+  background-blend-mode: soft-light, hue, hard-light;
+  background-size:
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  background-position:
+    0% var(--background-y),
+    calc(calc(var(--background-x) + calc(var(--background-y) * 0.2)) * -1)
+      calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.9)) contrast(1.6)
+    saturate(1.25);
+  mix-blend-mode: exclusion;
+}
+
+[data-rarity="Super Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(0, 0%, 100%) 0%,
+    hsl(220, 5%, 15%) 150%
+  );
+  mix-blend-mode: multiply;
+  filter: brightness(1.2) contrast(1) saturate(0.8);
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.7);
+  transition:
+    opacity 0.3s,
+    background-image 0.08s;
+}
+
+[data-rarity="Super Rare"] .info-rarity {
+  background: linear-gradient(90deg, #6cf, #c8f, #6fc, #fc8, #6cf);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ══════════════════════════════════════════════════════════
+   ULTRA RARE — 좁은 사선 금박 줄무늬 포일
+   실제 유희왕 울트라레어의 금박 이름처럼
+   배경이 촘촘한 금색 사선 띠로 분해되는 느낌
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Ultra Rare"] .card-3d {
+  box-shadow:
+    0 6px 26px rgba(0, 0, 0, 0.8),
+    0 0 0 1px rgba(210, 170, 50, 0.6),
+    0 0 20px rgba(180, 135, 20, 0.2);
+}
+
+[data-rarity="Ultra Rare"] .card-shine {
+  background-image:
+    /* 촘촘한 금박 사선 줄무늬 */
+    repeating-linear-gradient(
+      110deg,
+      transparent 0px,
+      transparent 2px,
+      rgba(255, 215, 80, 0.4) 2px,
+      rgba(255, 235, 120, 0.5) 3px,
+      rgba(255, 215, 80, 0.4) 4px,
+      transparent 4px,
+      transparent 9px
+    ),
+    /* 마우스 따라 이동하는 골드 광택 띠 */
+    repeating-linear-gradient(
+        110deg,
+        #1a1000 0%,
+        hsl(42, 60%, 35%) 4%,
+        hsl(46, 80%, 58%) 5%,
+        hsl(50, 90%, 68%) 5.5%,
+        hsl(46, 80%, 58%) 6%,
+        hsl(42, 60%, 35%) 7%,
+        #1a1000 12%,
+        #1a1000 14%
+      ),
+    /* 포인터 위치 radial */
+    radial-gradient(
+        farthest-corner circle at var(--pointer-x) var(--pointer-y),
+        rgba(255, 220, 80, 0.15) 0%,
+        rgba(0, 0, 0, 0.2) 60%,
+        rgba(0, 0, 0, 0.35) 120%
+      );
+  background-blend-mode: overlay, color-dodge, hard-light;
+  background-size:
+    100% 100%,
+    250% 100%,
+    200% 100%;
+  background-position:
+    0 0,
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.45)) contrast(2)
+    saturate(1.8);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.88);
+  transition:
+    opacity 0.35s,
+    background-position 0.08s,
+    filter 0.08s;
+}
+
+[data-rarity="Ultra Rare"] .card-shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  background-image:
+    repeating-linear-gradient(
+      110deg,
+      transparent 0px,
+      transparent 3px,
+      rgba(255, 200, 50, 0.25) 3px,
+      rgba(255, 230, 100, 0.3) 4px,
+      rgba(255, 200, 50, 0.25) 5px,
+      transparent 5px,
+      transparent 10px
+    ),
+    repeating-linear-gradient(
+      110deg,
+      #1a1000 0%,
+      hsl(42, 60%, 35%) 4%,
+      hsl(50, 85%, 62%) 5.2%,
+      hsl(42, 60%, 35%) 6.4%,
+      #1a1000 12%,
+      #1a1000 14%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(255, 220, 80, 0.1) 0%,
+      rgba(0, 0, 0, 0.2) 60%,
+      rgba(0, 0, 0, 0.3) 120%
+    );
+  background-blend-mode: overlay, color-dodge, hard-light;
+  background-size:
+    100% 100%,
+    250% 100%,
+    200% 100%;
+  background-position:
+    0 0,
+    calc(var(--background-x) * -1) calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.8)) contrast(1.6)
+    saturate(1.2);
+  mix-blend-mode: exclusion;
+}
+
+[data-rarity="Ultra Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(48, 100%, 92%) 0%,
+    hsl(42, 20%, 12%) 150%
+  );
+  mix-blend-mode: multiply;
+  filter: brightness(1.3) contrast(1.1) saturate(0.5);
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.75);
+  transition:
+    opacity 0.3s,
+    background-image 0.08s;
+}
+
+[data-rarity="Ultra Rare"] .info-rarity {
+  background: linear-gradient(90deg, #c9a84c, #f5dc78, #c9a84c, #ffe090);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 4px rgba(200, 160, 30, 0.7));
+}
+
+/* ══════════════════════════════════════════════════════════
+   SECRET RARE — 실제 유희왕 시크릿 레어 재현
+   은빛 사선 줄무늬가 촘촘히 깔리고
+   각도에 따라 무지개빛이 살짝 비치는 느낌
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Secret Rare"] .card-3d {
+  box-shadow:
+    0 6px 28px rgba(0, 0, 0, 0.85),
+    0 0 0 1px rgba(210, 210, 230, 0.6),
+    0 0 20px rgba(180, 180, 220, 0.15);
+}
+
+[data-rarity="Secret Rare"] .card-shine {
+  background-image:
+    /* 촘촘한 은빛 사선 줄무늬 — 시크릿 레어의 핵심 */
+    repeating-linear-gradient(
+      -60deg,
+      transparent 0px,
+      transparent 2px,
+      rgba(255, 255, 255, 0.22) 2px,
+      rgba(255, 255, 255, 0.26) 3px,
+      rgba(200, 210, 255, 0.18) 3.5px,
+      transparent 4px,
+      transparent 7px
+    ),
+    /* 마우스 위치 따라 흐르는 은빛 광택 띠 */
+    repeating-linear-gradient(
+        -60deg,
+        #0c0c18 0%,
+        hsl(220, 20%, 45%) 4%,
+        hsl(210, 40%, 72%) 5%,
+        hsl(200, 50%, 82%) 5.5%,
+        hsl(210, 40%, 72%) 6%,
+        hsl(220, 20%, 45%) 7%,
+        #0c0c18 13%,
+        #0c0c18 15%
+      ),
+    /* 무지개는 은빛 위에 살짝만 */
+    radial-gradient(
+        ellipse at var(--pointer-x) var(--pointer-y),
+        hsl(0, 70%, 65%) 0%,
+        hsl(60, 70%, 62%) 20%,
+        hsl(180, 70%, 60%) 40%,
+        hsl(260, 70%, 68%) 60%,
+        hsl(320, 70%, 64%) 80%,
+        transparent 100%
+      );
+  background-blend-mode: overlay, color-dodge, screen;
+  background-size:
+    7px 7px,
+    300% 100%,
+    200% 200%;
+  background-position:
+    0 0,
+    var(--background-x) var(--background-y),
+    var(--background-x) var(--background-y);
+  /* 중심에서 멀수록 줄무늬가 더 반짝 */
+  filter: brightness(calc(var(--pointer-from-center) * 0.55 + 0.4))
+    contrast(1.6) saturate(1.4);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.92);
+  transition:
+    opacity 0.3s,
+    background-position 0.06s,
+    filter 0.06s;
+}
+
+/* ::after — 은빛 광택을 반전 방향으로 한 겹 더 올려서 깊이감 */
+[data-rarity="Secret Rare"] .card-shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  background-image:
+    repeating-linear-gradient(
+      -60deg,
+      transparent 0px,
+      transparent 2px,
+      rgba(255, 255, 255, 0.12) 2px,
+      rgba(255, 255, 255, 0.15) 3px,
+      transparent 4px,
+      transparent 7px
+    ),
+    repeating-linear-gradient(
+      -60deg,
+      #0c0c18 0%,
+      hsl(220, 20%, 42%) 4%,
+      hsl(215, 35%, 68%) 5.2%,
+      hsl(220, 20%, 42%) 6.4%,
+      #0c0c18 13%,
+      #0c0c18 15%
+    ),
+    radial-gradient(
+      ellipse at var(--pointer-x) var(--pointer-y),
+      hsl(200, 60%, 70%) 0%,
+      hsl(280, 60%, 68%) 30%,
+      hsl(40, 60%, 65%) 60%,
+      transparent 100%
+    );
+  background-blend-mode: overlay, color-dodge, screen;
+  background-size:
+    7px 7px,
+    300% 100%,
+    200% 200%;
+  background-position:
+    0 0,
+    calc(var(--background-x) * -1) calc(var(--background-y) * -1),
+    calc(var(--background-x) * -1) calc(var(--background-y) * -1);
+  filter: brightness(calc(var(--pointer-from-center) * 0.4 + 0.75))
+    contrast(1.4) saturate(1.1);
+  mix-blend-mode: exclusion;
+}
+
+[data-rarity="Secret Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    rgba(255, 255, 255, 0.55) 0%,
+    rgba(200, 210, 255, 0.1) 35%,
+    transparent 70%
+  );
+  mix-blend-mode: overlay;
+  filter: brightness(1.1) contrast(1) saturate(0.5);
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.7);
+  transition:
+    opacity 0.3s,
+    background-image 0.06s;
+}
+
+[data-rarity="Secret Rare"] .info-rarity {
+  background: linear-gradient(90deg, #c8ccdd, #ffffff, #b0b8d8, #e8eaf5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 5px rgba(180, 190, 255, 0.8));
+}
+
+/* ══════════════════════════════════════════════════════════
+   ULTIMATE RARE — sunpillar + 격자 엠보싱 + 고대비 골드
+   ══════════════════════════════════════════════════════════ */
+[data-rarity="Ultimate Rare"] .card-3d {
+  box-shadow:
+    0 8px 34px rgba(0, 0, 0, 0.88),
+    0 0 0 1px rgba(220, 175, 55, 0.65),
+    0 0 26px rgba(190, 140, 20, 0.25);
+}
+
+/* 항상 보이는 엠보싱 격자 */
+[data-rarity="Ultimate Rare"] .card-3d::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  pointer-events: none;
+  z-index: 1;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      rgba(255, 240, 180, 0.04) 3px,
+      rgba(255, 240, 180, 0.04) 4px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 3px,
+      rgba(255, 240, 180, 0.025) 3px,
+      rgba(255, 240, 180, 0.025) 4px
+    );
+  mix-blend-mode: overlay;
+}
+
+[data-rarity="Ultimate Rare"] .card-shine {
+  --sp1: hsla(42, 100%, 72%, 1);
+  --sp2: hsla(25, 100%, 62%, 1);
+  --sp3: hsla(50, 100%, 68%, 1);
+  --sp4: hsla(33, 95%, 64%, 1);
+  --sp5: hsla(55, 100%, 70%, 1);
+  --sp6: hsla(18, 90%, 58%, 1);
+
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      var(--sp1) calc(5% * 1),
+      var(--sp2) calc(5% * 2),
+      var(--sp3) calc(5% * 3),
+      var(--sp4) calc(5% * 4),
+      var(--sp5) calc(5% * 5),
+      var(--sp6) calc(5% * 6),
+      var(--sp1) calc(5% * 7)
+    ),
+    repeating-linear-gradient(
+      133deg,
+      #120a00 0%,
+      hsl(40, 40%, 52%) 3.2%,
+      hsl(46, 65%, 64%) 4%,
+      hsl(40, 40%, 52%) 4.8%,
+      #120a00 10%,
+      #120a00 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.08) 12%,
+      rgba(0, 0, 0, 0.18) 20%,
+      rgba(0, 0, 0, 0.32) 120%
+    );
+  background-blend-mode: soft-light, hue, hard-light;
+  background-size:
+    200% 700%,
+    300% 100%,
+    200% 100%;
+  background-position:
+    0% var(--background-y),
+    calc(var(--background-x) + calc(var(--background-y) * 0.2))
+      var(--background-y),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.5 + 0.5)) contrast(2)
+    saturate(3);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.95);
+  z-index: 2;
+  transition:
+    opacity 0.3s,
+    background-position 0.07s,
+    filter 0.07s;
+}
+
+[data-rarity="Ultimate Rare"] .card-shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      var(--sp1) calc(5% * 1),
+      var(--sp2) calc(5% * 2),
+      var(--sp3) calc(5% * 3),
+      var(--sp4) calc(5% * 4),
+      var(--sp5) calc(5% * 5),
+      var(--sp6) calc(5% * 6),
+      var(--sp1) calc(5% * 7)
+    ),
+    repeating-linear-gradient(
+      133deg,
+      #120a00 0%,
+      hsl(40, 40%, 52%) 3.2%,
+      hsl(46, 65%, 64%) 4%,
+      hsl(40, 40%, 52%) 4.8%,
+      #120a00 10%,
+      #120a00 12%
+    ),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      rgba(0, 0, 0, 0.08) 12%,
+      rgba(0, 0, 0, 0.18) 20%,
+      rgba(0, 0, 0, 0.32) 120%
+    );
+  background-blend-mode: soft-light, hue, hard-light;
+  background-size:
+    200% 400%,
+    195% 100%,
+    200% 100%;
+  background-position:
+    0% var(--background-y),
+    calc(calc(var(--background-x) + calc(var(--background-y) * 0.2)) * -1)
+      calc(var(--background-y) * -1),
+    var(--background-x) var(--background-y);
+  filter: brightness(calc(var(--pointer-from-center) * 0.45 + 0.9))
+    contrast(1.7) saturate(1.6);
+  mix-blend-mode: exclusion;
+}
+
+[data-rarity="Ultimate Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(46, 100%, 92%) 0%,
+    hsl(38, 18%, 12%) 150%
+  );
+  mix-blend-mode: multiply;
+  filter: brightness(1.35) contrast(1.1) saturate(0.55);
+  opacity: calc(var(--card-opacity) * var(--pointer-from-center) * 0.85);
+  z-index: 3;
+  transition:
+    opacity 0.3s,
+    background-image 0.07s;
+}
+
+[data-rarity="Ultimate Rare"] .info-rarity {
+  background: linear-gradient(90deg, #d49020, #f8e060, #d49020, #fce880);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 5px rgba(210, 145, 10, 0.75));
+}

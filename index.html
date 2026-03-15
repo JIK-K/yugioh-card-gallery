@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YUGIOH CARD GALLERY</title>
+    <link rel="stylesheet" href="css/layout.css" />
+    <link rel="stylesheet" href="css/card.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1>Yu-Gi-Oh!<br />Card Gallery</h1>
+      </div>
+      <nav class="sidebar-nav">
+        <p class="nav-item active" data-file="LOB.json">
+          푸른 눈의 백룡의 전설
+        </p>
+        <p class="nav-item" data-file="MRD.json">강철의 습격자</p>
+        <p class="nav-item" data-file="SRL.json">마법의 지배자</p>
+        <p class="nav-item" data-file="PSV.json">파라오의 사도</p>
+        <p class="nav-item" data-file="LON.json">악몽의 미궁</p>
+        <p class="nav-item" data-file="LOD.json">어둠의 유산</p>
+        <p class="nav-item" data-file="PGD.json">왕가의 수호자</p>
+        <p class="nav-item" data-file="MFC.json">매지션의 힘</p>
+        <p class="nav-item" data-file="DCR.json">암흑의 위협</p>
+        <p class="nav-item" data-file="IOC.json">혼돈의 지배</p>
+        <p class="nav-item" data-file="AST.json">천공의 성역</p>
+      </nav>
+    </aside>
+
+    <main class="main-container">
+      <div class="content-area">
+        <section class="content-header">
+          <h3>클릭하여 카드를 구경해보세요</h3>
+        </section>
+        <div class="card-display-area">
+          <div class="card-list" id="cardList"></div>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      /* ─────────────────────────────────────────
+         3D Tilt + Holographic Effect
+         card.css와 연동: --pointer-x/y, --background-x/y,
+         --pointer-from-center, --card-opacity
+      ───────────────────────────────────────── */
+      function initCardEffects() {
+        document.querySelectorAll(".card-item").forEach((card) => {
+          const MAX_ROT = 20;
+
+          card.addEventListener("mousemove", (e) => {
+            const rect = card.getBoundingClientRect();
+
+            const pctX = (e.clientX - rect.left) / rect.width;
+            const pctY = (e.clientY - rect.top) / rect.height;
+
+            const dx = pctX * 2 - 1;
+            const dy = pctY * 2 - 1;
+
+            const rotY = dx * MAX_ROT;
+            const rotX = -dy * MAX_ROT;
+
+            const posX = (pctX * 100).toFixed(1) + "%";
+            const posY = (pctY * 100).toFixed(1) + "%";
+
+            // 카드 중심에서의 거리 (0~1) → brightness 등에 사용
+            const fromCenter = Math.min(1, Math.hypot(dx, dy));
+
+            card.style.setProperty("--rot-x", rotX.toFixed(2) + "deg");
+            card.style.setProperty("--rot-y", rotY.toFixed(2) + "deg");
+            card.style.setProperty("--pointer-x", posX);
+            card.style.setProperty("--pointer-y", posY);
+            card.style.setProperty("--background-x", posX);
+            card.style.setProperty("--background-y", posY);
+            card.style.setProperty("--pointer-from-center", String(fromCenter));
+            card.style.setProperty("--card-opacity", "1");
+          });
+
+          card.addEventListener("mouseleave", () => {
+            card.style.setProperty("--rot-x", "0deg");
+            card.style.setProperty("--rot-y", "0deg");
+            card.style.setProperty("--pointer-x", "50%");
+            card.style.setProperty("--pointer-y", "50%");
+            card.style.setProperty("--background-x", "50%");
+            card.style.setProperty("--background-y", "50%");
+            card.style.setProperty("--pointer-from-center", "0");
+            card.style.setProperty("--card-opacity", "0");
+          });
+        });
+      }
+
+      /* ─── 레어도 순서 정의 ─── */
+      const RARITY_ORDER = [
+        "Common",
+        "Short Print",
+        "Rare",
+        "Super Rare",
+        "Ultra Rare",
+        "Secret Rare",
+        "Ultimate Rare",
+      ];
+
+      function sortByRarity(cards) {
+        return [...cards].sort((a, b) => {
+          const ai = RARITY_ORDER.indexOf(a.rarity);
+          const bi = RARITY_ORDER.indexOf(b.rarity);
+          // 목록에 없는 rarity는 맨 앞으로
+          const ao = ai === -1 ? -1 : ai;
+          const bo = bi === -1 ? -1 : bi;
+          return ao - bo;
+        });
+      }
+
+      /* ─── Card HTML 생성 ─── */
+      function renderCards(cards) {
+        cards = sortByRarity(cards);
+        const cardList = document.getElementById("cardList");
+        if (!cardList) return;
+
+        cardList.innerHTML = cards
+          .map(
+            (card) => `
+          <div class="card-item" data-rarity="${card.rarity}">
+            <div class="card-3d">
+              <img
+                src="https://images.ygoprodeck.com/images/cards/${card.imgId}.jpg"
+                alt="${card.name}"
+                loading="lazy"
+              />
+              <div class="card-shine"></div>
+              <div class="card-glare"></div>
+            </div>
+            <div class="card-info-popover">
+              <span class="info-id">${card.id}</span>
+              <h4 class="info-name">${card.name}</h4>
+              <p class="info-type">${card.type}</p>
+              <p class="info-rarity">${card.rarity}</p>
+            </div>
+          </div>
+        `,
+          )
+          .join("");
+
+        initCardEffects();
+      }
+
+      /* ─── Fetch ─── */
+      async function loadCards(file) {
+        const cardList = document.getElementById("cardList");
+        if (!cardList) return;
+
+        cardList.innerHTML =
+          '<p class="error" style="opacity:0.35">불러오는 중...</p>';
+
+        try {
+          const res = await fetch(`data/${file}`);
+          if (!res.ok) throw new Error("fetch failed");
+          const cards = await res.json();
+          renderCards(cards);
+        } catch (err) {
+          console.error(err);
+          cardList.innerHTML =
+            '<p class="error">데이터를 불러오는 데 실패했습니다.</p>';
+        }
+      }
+
+      /* ─── Nav ─── */
+      document.querySelectorAll(".nav-item").forEach((link) => {
+        link.addEventListener("click", (e) => {
+          e.preventDefault();
+          document
+            .querySelectorAll(".nav-item")
+            .forEach((l) => l.classList.remove("active"));
+          link.classList.add("active");
+          loadCards(link.dataset.file);
+        });
+      });
+
+      window.addEventListener("DOMContentLoaded", () => {
+        const active = document.querySelector(".nav-item.active");
+        if (active) loadCards(active.dataset.file);
+      });
+    </script>
+  </body>
+</html>
