@@ -1,0 +1,737 @@
+[
+    {
+        "id": "LON-032",
+        "name": "Amazoness Archer",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "91869203"
+    },
+    {
+        "id": "LON-008",
+        "name": "Amphibian Beast",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "67371383"
+    },
+    {
+        "id": "LON-068",
+        "name": "Aqua Spirit",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "40916023"
+    },
+    {
+        "id": "LON-096",
+        "name": "Bait Doll",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "7165085"
+    },
+    {
+        "id": "LON-064",
+        "name": "Bazoo the Soul-Eater",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "40133511"
+    },
+    {
+        "id": "LON-043",
+        "name": "Bio-Mage",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "58696829"
+    },
+    {
+        "id": "LON-086",
+        "name": "Blind Destruction",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "32015116"
+    },
+    {
+        "id": "LON-057",
+        "name": "Boneheimer",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "98456117"
+    },
+    {
+        "id": "LON-029",
+        "name": "Card of Safe Return",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "57953380"
+    },
+    {
+        "id": "LON-014",
+        "name": "Chosen One",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "21888494"
+    },
+    {
+        "id": "LON-078",
+        "name": "Collected Power",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "7565547"
+    },
+    {
+        "id": "LON-033",
+        "name": "Crimson Sentry",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "28358902"
+    },
+    {
+        "id": "LON-041",
+        "name": "Cure Mermaid",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "85802526"
+    },
+    {
+        "id": "LON-016",
+        "name": "Curse of the Masked Beast",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "94377247"
+    },
+    {
+        "id": "LON-095",
+        "name": "Cyclon Laser",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "5494820"
+    },
+    {
+        "id": "LON-038",
+        "name": "Dancing Fairy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "90925163"
+    },
+    {
+        "id": "LON-065",
+        "name": "Dark Necrofear",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "31829185"
+    },
+    {
+        "id": "LON-079",
+        "name": "Dark Spirit of the Silent",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "93599951"
+    },
+    {
+        "id": "LON-046",
+        "name": "Darklord Marie",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "57579381"
+    },
+    {
+        "id": "LON-097",
+        "name": "De-Fusion",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "95286165"
+    },
+    {
+        "id": "LON-084",
+        "name": "Deal of Phantom",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "69122763"
+    },
+    {
+        "id": "LON-088",
+        "name": "Destiny Board",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "94212438"
+    },
+    {
+        "id": "LON-085",
+        "name": "Destruction Punch",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "5616412"
+    },
+    {
+        "id": "LON-101",
+        "name": "Dragonic Attack",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "32437102"
+    },
+    {
+        "id": "LON-073",
+        "name": "Dreamsprite",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "8687195"
+    },
+    {
+        "id": "LON-055",
+        "name": "Earthbound Spirit",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "67105242"
+    },
+    {
+        "id": "LON-099",
+        "name": "Ekibyo Drakmord",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "69954399"
+    },
+    {
+        "id": "LON-040",
+        "name": "Empress Mantis",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "58818411"
+    },
+    {
+        "id": "LON-024",
+        "name": "Fairy Box",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "21598948"
+    },
+    {
+        "id": "LON-039",
+        "name": "Fairy Guardian",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "22419772"
+    },
+    {
+        "id": "LON-034",
+        "name": "Fire Princess",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "64752646"
+    },
+    {
+        "id": "LON-036",
+        "name": "Fire Sorcerer",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "27132350"
+    },
+    {
+        "id": "LON-058",
+        "name": "Flame Dancer",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "12883044"
+    },
+    {
+        "id": "LON-007",
+        "name": "Flying Fish",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "31987274"
+    },
+    {
+        "id": "LON-098",
+        "name": "Fusion Gate",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "33550694"
+    },
+    {
+        "id": "LON-010",
+        "name": "Gadget Soldier",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "86281779"
+    },
+    {
+        "id": "LON-070",
+        "name": "Garuda the Wind Spirit",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "12800777"
+    },
+    {
+        "id": "LON-000",
+        "name": "Gemini Elf",
+        "type": "Normal Monster",
+        "rarity": "Secret Rare",
+        "imgId": "69140098"
+    },
+    {
+        "id": "LON-071",
+        "name": "Gilasaurus",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "45894482"
+    },
+    {
+        "id": "LON-011",
+        "name": "Grand Tiki Elder",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "13676474"
+    },
+    {
+        "id": "LON-083",
+        "name": "Graverobber's Retribution",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "33737664"
+    },
+    {
+        "id": "LON-054",
+        "name": "Headless Knight",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "5434080"
+    },
+    {
+        "id": "LON-003",
+        "name": "Humanoid Slime",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "46821314"
+    },
+    {
+        "id": "LON-005",
+        "name": "Humanoid Worm Drake",
+        "type": "Fusion Monster",
+        "rarity": "Short Print",
+        "imgId": "5600127"
+    },
+    {
+        "id": "LON-042",
+        "name": "Hysteric Fairy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "21297224"
+    },
+    {
+        "id": "LON-027",
+        "name": "Infinite Cards",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "94163677"
+    },
+    {
+        "id": "LON-026",
+        "name": "Jam Breeding Machine",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "21770260"
+    },
+    {
+        "id": "LON-028",
+        "name": "Jam Defender",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "21558682"
+    },
+    {
+        "id": "LON-047",
+        "name": "Jar of Greed",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "83968380"
+    },
+    {
+        "id": "LON-061",
+        "name": "Jowgen the Spiritualist",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "41855169"
+    },
+    {
+        "id": "LON-062",
+        "name": "Kycoo the Ghost Destroyer",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "88240808"
+    },
+    {
+        "id": "LON-035",
+        "name": "Lady Assailant of Flames",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "90147755"
+    },
+    {
+        "id": "LON-030",
+        "name": "Lady Panther",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "38480590"
+    },
+    {
+        "id": "LON-022",
+        "name": "Lightning Blade",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "55226821"
+    },
+    {
+        "id": "LON-060",
+        "name": "Lightning Conger",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "27671321"
+    },
+    {
+        "id": "LON-050",
+        "name": "Mage Power",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "83746708"
+    },
+    {
+        "id": "LON-104",
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "rarity": "Secret Rare",
+        "imgId": "62279055"
+    },
+    {
+        "id": "LON-076",
+        "name": "Maryokutai",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "71466592"
+    },
+    {
+        "id": "LON-020",
+        "name": "Mask of Brutality",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "82432018"
+    },
+    {
+        "id": "LON-017",
+        "name": "Mask of Dispel",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "20765952"
+    },
+    {
+        "id": "LON-018",
+        "name": "Mask of Restrict",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "29549364"
+    },
+    {
+        "id": "LON-019",
+        "name": "Mask of the Accursed",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "56948373"
+    },
+    {
+        "id": "LON-015",
+        "name": "Mask of Weakness",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "57882509"
+    },
+    {
+        "id": "LON-012",
+        "name": "Melchid the Four-Face Beast",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "86569121"
+    },
+    {
+        "id": "LON-100",
+        "name": "Miracle Dig",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "6343408"
+    },
+    {
+        "id": "LON-013",
+        "name": "Nuvia the Wicked",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "12953226"
+    },
+    {
+        "id": "LON-051",
+        "name": "Offerings to the Doomed",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "19230408"
+    },
+    {
+        "id": "LON-021",
+        "name": "Return of the Doomed",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "19827717"
+    },
+    {
+        "id": "LON-006",
+        "name": "Revival Jam",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "31709826"
+    },
+    {
+        "id": "LON-081",
+        "name": "Riryoku Field",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "70344351"
+    },
+    {
+        "id": "LON-080",
+        "name": "Royal Command",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "33950246"
+    },
+    {
+        "id": "LON-048",
+        "name": "Scroll of Bewitchment",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "10352095"
+    },
+    {
+        "id": "LON-009",
+        "name": "Shining Abyss",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "87303357"
+    },
+    {
+        "id": "LON-082",
+        "name": "Skull Lair",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "6733059"
+    },
+    {
+        "id": "LON-066",
+        "name": "Soul of Purity and Light",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "77527210"
+    },
+    {
+        "id": "LON-059",
+        "name": "Spherous Lady",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "52121290"
+    },
+    {
+        "id": "LON-102",
+        "name": "Spirit Elimination",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "69832741"
+    },
+    {
+        "id": "LON-091",
+        "name": "Spirit Message \"A\"",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "94772232"
+    },
+    {
+        "id": "LON-089",
+        "name": "Spirit Message \"I\"",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "31893528"
+    },
+    {
+        "id": "LON-092",
+        "name": "Spirit Message \"L\"",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "30170981"
+    },
+    {
+        "id": "LON-090",
+        "name": "Spirit Message \"N\"",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "67287533"
+    },
+    {
+        "id": "LON-067",
+        "name": "Spirit of Flames",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "13522325"
+    },
+    {
+        "id": "LON-037",
+        "name": "Spirit of the Breeze",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "53530069"
+    },
+    {
+        "id": "LON-094",
+        "name": "Spiritualism",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "15866454"
+    },
+    {
+        "id": "LON-045",
+        "name": "St. Joan",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "21175632"
+    },
+    {
+        "id": "LON-063",
+        "name": "Summoner of Illusions",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "14644902"
+    },
+    {
+        "id": "LON-075",
+        "name": "Supply",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "44072894"
+    },
+    {
+        "id": "LON-002",
+        "name": "Swordsman of Landstar",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "3573512"
+    },
+    {
+        "id": "LON-093",
+        "name": "The Dark Door",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "30606547"
+    },
+    {
+        "id": "LON-056",
+        "name": "The Earl of Demise",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "66989694"
+    },
+    {
+        "id": "LON-087",
+        "name": "The Emperor's Holiday",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "68400115"
+    },
+    {
+        "id": "LON-044",
+        "name": "The Forgiving Maiden",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "84080939"
+    },
+    {
+        "id": "LON-053",
+        "name": "The Gross Ghost of Fled Dreams",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "68049471"
+    },
+    {
+        "id": "LON-077",
+        "name": "The Last Warrior from Another Planet",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "86099788"
+    },
+    {
+        "id": "LON-001",
+        "name": "The Masked Beast",
+        "type": "Ritual Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "49064413"
+    },
+    {
+        "id": "LON-052",
+        "name": "The Portrait's Secret",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "32541773"
+    },
+    {
+        "id": "LON-069",
+        "name": "The Rock Spirit",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "76305638"
+    },
+    {
+        "id": "LON-031",
+        "name": "The Unfriendly Amazon",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "65475294"
+    },
+    {
+        "id": "LON-072",
+        "name": "Tornado Bird",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "71283180"
+    },
+    {
+        "id": "LON-023",
+        "name": "Tornado Wall",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "18605135"
+    },
+    {
+        "id": "LON-025",
+        "name": "Torrential Tribute",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "53582587"
+    },
+    {
+        "id": "LON-049",
+        "name": "United We Stand",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "56747793"
+    },
+    {
+        "id": "LON-103",
+        "name": "Vengeful Bog Spirit",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "95220856"
+    },
+    {
+        "id": "LON-004",
+        "name": "Worm Drake",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "73216412"
+    },
+    {
+        "id": "LON-074",
+        "name": "Zombyra the Dark",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "88472456"
+    }
+]

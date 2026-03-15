@@ -1,0 +1,709 @@
+[
+    {
+        "id": "LOD-032",
+        "name": "A Feint Plan",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "68170903"
+    },
+    {
+        "id": "LOD-078",
+        "name": "A Legendary Ocean",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "295517"
+    },
+    {
+        "id": "LOD-044",
+        "name": "A Wingbeat of Giant Dragon",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "28596933"
+    },
+    {
+        "id": "LOD-086",
+        "name": "After the Struggle",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "25345186"
+    },
+    {
+        "id": "LOD-062",
+        "name": "Airknight Parshath",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "18036057"
+    },
+    {
+        "id": "LOD-029",
+        "name": "Array of Revealing Light",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "69296555"
+    },
+    {
+        "id": "LOD-071",
+        "name": "Asura Priest",
+        "type": "Spirit Monster",
+        "rarity": "Super Rare",
+        "imgId": "2134346"
+    },
+    {
+        "id": "LOD-093",
+        "name": "Bad Reaction to Simochi",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "40633297"
+    },
+    {
+        "id": "LOD-010",
+        "name": "Bark of Dark Ruler",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "41925941"
+    },
+    {
+        "id": "LOD-088",
+        "name": "Blast with Chain",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "98239899"
+    },
+    {
+        "id": "LOD-092",
+        "name": "Bottomless Trap Hole",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "29401950"
+    },
+    {
+        "id": "LOD-090",
+        "name": "Bubble Crash",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "61622107"
+    },
+    {
+        "id": "LOD-049",
+        "name": "Burst Breath",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "80163754"
+    },
+    {
+        "id": "LOD-040",
+        "name": "Cave Dragon",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "93220472"
+    },
+    {
+        "id": "LOD-084",
+        "name": "Convulsion of Nature",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "62966332"
+    },
+    {
+        "id": "LOD-081",
+        "name": "Creature Swap",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "31036355"
+    },
+    {
+        "id": "LOD-002",
+        "name": "Dark Balter the Terrible",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "80071763"
+    },
+    {
+        "id": "LOD-001",
+        "name": "Dark Ruler Ha Des",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "53982768"
+    },
+    {
+        "id": "LOD-089",
+        "name": "Disappear",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "24623598"
+    },
+    {
+        "id": "LOD-015",
+        "name": "Double Snare",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "3682106"
+    },
+    {
+        "id": "LOD-026",
+        "name": "Dragon Manipulator",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "63018132"
+    },
+    {
+        "id": "LOD-045",
+        "name": "Dragon's Gunfire",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "55991637"
+    },
+    {
+        "id": "LOD-048",
+        "name": "Dragon's Rage",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "54178050"
+    },
+    {
+        "id": "LOD-097",
+        "name": "Drop Off",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "55773067"
+    },
+    {
+        "id": "LOD-033",
+        "name": "Emergency Provisions",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "53046408"
+    },
+    {
+        "id": "LOD-023",
+        "name": "Exiled Force",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "74131780"
+    },
+    {
+        "id": "LOD-011",
+        "name": "Fatal Abacus",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "77910045"
+    },
+    {
+        "id": "LOD-075",
+        "name": "Fengsheng Mirror",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "37406863"
+    },
+    {
+        "id": "LOD-056",
+        "name": "Fiber Jar",
+        "type": "Flip Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "78706415"
+    },
+    {
+        "id": "LOD-098",
+        "name": "Fiend Comedian",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "81172176"
+    },
+    {
+        "id": "LOD-039",
+        "name": "Fiend Skull Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "66235877"
+    },
+    {
+        "id": "LOD-016",
+        "name": "Freed the Matchless General",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "49681811"
+    },
+    {
+        "id": "LOD-022",
+        "name": "Frontier Wiseman",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "38742075"
+    },
+    {
+        "id": "LOD-072",
+        "name": "Fushi No Tori",
+        "type": "Spirit Monster",
+        "rarity": "Common",
+        "imgId": "38538445"
+    },
+    {
+        "id": "LOD-079",
+        "name": "Fusion Sword Murasame Blade",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "37684215"
+    },
+    {
+        "id": "LOD-060",
+        "name": "Gradius' Option",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "14291024"
+    },
+    {
+        "id": "LOD-041",
+        "name": "Gray Wing",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "29618570"
+    },
+    {
+        "id": "LOD-068",
+        "name": "Great Long Nose",
+        "type": "Spirit Monster",
+        "rarity": "Common",
+        "imgId": "2356994"
+    },
+    {
+        "id": "LOD-077",
+        "name": "Heart of Clear Water",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "64801562"
+    },
+    {
+        "id": "LOD-070",
+        "name": "Hino-Kagu-Tsuchi",
+        "type": "Spirit Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "75745607"
+    },
+    {
+        "id": "LOD-065",
+        "name": "Inaba White Rabbit",
+        "type": "Spirit Monster",
+        "rarity": "Short Print",
+        "imgId": "77084837"
+    },
+    {
+        "id": "LOD-100",
+        "name": "Injection Fairy Lily",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "79575620"
+    },
+    {
+        "id": "LOD-099",
+        "name": "Last Turn",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "28566710"
+    },
+    {
+        "id": "LOD-003",
+        "name": "Lesser Fiend",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "16475472"
+    },
+    {
+        "id": "LOD-012",
+        "name": "Life Absorbing Machine",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "14318794"
+    },
+    {
+        "id": "LOD-038",
+        "name": "Lizard Soldier",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "20831168"
+    },
+    {
+        "id": "LOD-050",
+        "name": "Luster Dragon #2",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "17658803"
+    },
+    {
+        "id": "LOD-087",
+        "name": "Magic Reflector",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "61844784"
+    },
+    {
+        "id": "LOD-064",
+        "name": "Maharaghi",
+        "type": "Spirit Monster",
+        "rarity": "Short Print",
+        "imgId": "40695128"
+    },
+    {
+        "id": "LOD-018",
+        "name": "Marauding Captain",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "2460565"
+    },
+    {
+        "id": "LOD-021",
+        "name": "Mysterious Guard",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "1347977"
+    },
+    {
+        "id": "LOD-096",
+        "name": "Nutrient Z",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "29389368"
+    },
+    {
+        "id": "LOD-094",
+        "name": "Ominous Fortunetelling",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "56995655"
+    },
+    {
+        "id": "LOD-009",
+        "name": "Opticlops",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "14531242"
+    },
+    {
+        "id": "LOD-069",
+        "name": "Otohime",
+        "type": "Spirit Monster",
+        "rarity": "Super Short Print",
+        "imgId": "39751094"
+    },
+    {
+        "id": "LOD-058",
+        "name": "Patrician of Darkness",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "19153634"
+    },
+    {
+        "id": "LOD-004",
+        "name": "Possessed Dark Soul",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "52860176"
+    },
+    {
+        "id": "LOD-031",
+        "name": "Ready for Intercepting",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "31785398"
+    },
+    {
+        "id": "LOD-028",
+        "name": "Reinforcement of the Army",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "32807846"
+    },
+    {
+        "id": "LOD-054",
+        "name": "Robolady",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "92421852"
+    },
+    {
+        "id": "LOD-051",
+        "name": "Robotic Knight",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "44203504"
+    },
+    {
+        "id": "LOD-055",
+        "name": "Roboyarou",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "38916461"
+    },
+    {
+        "id": "LOD-091",
+        "name": "Royal Oppression",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "93016201"
+    },
+    {
+        "id": "LOD-019",
+        "name": "Ryu Senshi",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "49868263"
+    },
+    {
+        "id": "LOD-007",
+        "name": "Ryu-Kishin Clown",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "42647539"
+    },
+    {
+        "id": "LOD-083",
+        "name": "Second Coin Toss",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "36562627"
+    },
+    {
+        "id": "LOD-057",
+        "name": "Serpentine Princess",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "71829750"
+    },
+    {
+        "id": "LOD-025",
+        "name": "Shadow Tamer",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "37620434"
+    },
+    {
+        "id": "LOD-006",
+        "name": "Skull Knight #2",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "15653824"
+    },
+    {
+        "id": "LOD-080",
+        "name": "Smoke Grenade of the Thief",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "63789924"
+    },
+    {
+        "id": "LOD-014",
+        "name": "Soul Demolition",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "76297408"
+    },
+    {
+        "id": "LOD-035",
+        "name": "Spear Dragon",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "31553716"
+    },
+    {
+        "id": "LOD-036",
+        "name": "Spirit Ryu",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "67957315"
+    },
+    {
+        "id": "LOD-095",
+        "name": "Spirit's Invitation",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "92394653"
+    },
+    {
+        "id": "LOD-082",
+        "name": "Spiritual Energy Settle Machine",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "99173029"
+    },
+    {
+        "id": "LOD-076",
+        "name": "Spring of Rebirth",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "94425169"
+    },
+    {
+        "id": "LOD-046",
+        "name": "Stamping Destruction",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "81385346"
+    },
+    {
+        "id": "LOD-047",
+        "name": "Super Rejuvenation",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "27770341"
+    },
+    {
+        "id": "LOD-073",
+        "name": "Super Robolady",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "75923050"
+    },
+    {
+        "id": "LOD-074",
+        "name": "Super Roboyarou",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "1412158"
+    },
+    {
+        "id": "LOD-066",
+        "name": "Susa Soldier",
+        "type": "Spirit Monster",
+        "rarity": "Rare",
+        "imgId": "40473581"
+    },
+    {
+        "id": "LOD-027",
+        "name": "The A. Forces",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "403847"
+    },
+    {
+        "id": "LOD-037",
+        "name": "The Dragon Dwelling in the Cave",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "93346024"
+    },
+    {
+        "id": "LOD-043",
+        "name": "The Dragon's Bead",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "92408984"
+    },
+    {
+        "id": "LOD-024",
+        "name": "The Hunter with 7 Weapons",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "1525329"
+    },
+    {
+        "id": "LOD-053",
+        "name": "The Illusory Gentleman",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "83764996"
+    },
+    {
+        "id": "LOD-013",
+        "name": "The Puppet Magic of Dark Ruler",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "40703393"
+    },
+    {
+        "id": "LOD-085",
+        "name": "The Secret of the Bandit",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "99351431"
+    },
+    {
+        "id": "LOD-030",
+        "name": "The Warrior Returning Alive",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "95281259"
+    },
+    {
+        "id": "LOD-017",
+        "name": "Throwstone Unit",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "76075810"
+    },
+    {
+        "id": "LOD-059",
+        "name": "Thunder Nyan Nyan",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "70797118"
+    },
+    {
+        "id": "LOD-042",
+        "name": "Troop Dragon",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "55013285"
+    },
+    {
+        "id": "LOD-063",
+        "name": "Twin-Headed Behemoth",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "43586926"
+    },
+    {
+        "id": "LOD-008",
+        "name": "Twin-Headed Wolf",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "88132637"
+    },
+    {
+        "id": "LOD-034",
+        "name": "Tyrant Dragon",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "94568601"
+    },
+    {
+        "id": "LOD-020",
+        "name": "Warrior Dai Grepher",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "75953262"
+    },
+    {
+        "id": "LOD-005",
+        "name": "Winged Minion",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "89258225"
+    },
+    {
+        "id": "LOD-052",
+        "name": "Wolf Axwielder",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "56369281"
+    },
+    {
+        "id": "LOD-061",
+        "name": "Woodland Sprite",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "6979239"
+    },
+    {
+        "id": "LOD-067",
+        "name": "Yamata Dragon",
+        "type": "Spirit Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "76862289"
+    },
+    {
+        "id": "LOD-000",
+        "name": "Yata-Garasu",
+        "type": "Spirit Monster",
+        "rarity": "Secret Rare",
+        "imgId": "3078576"
+    }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "id": "PSV-088",
+        "name": "4-Starred Ladybug of Doom",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "83994646"
+    },
+    {
+        "id": "PSV-004",
+        "name": "7 Completed",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "86198326"
+    },
+    {
+        "id": "PSV-024",
+        "name": "Appropriate",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "48539234"
+    },
+    {
+        "id": "PSV-019",
+        "name": "Armored Glass",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "36868108"
+    },
+    {
+        "id": "PSV-054",
+        "name": "Attack and Receive",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "63689843"
+    },
+    {
+        "id": "PSV-028",
+        "name": "Backup Soldier",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "36280194"
+    },
+    {
+        "id": "PSV-103",
+        "name": "Beast of Talwar",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "11761845"
+    },
+    {
+        "id": "PSV-080",
+        "name": "Bite Shoes",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "50122883"
+    },
+    {
+        "id": "PSV-087",
+        "name": "Bombardment Beetle",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "57409948"
+    },
+    {
+        "id": "PSV-057",
+        "name": "Bubonic Vermin",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "6104968"
+    },
+    {
+        "id": "PSV-061",
+        "name": "Burning Land",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "24294108"
+    },
+    {
+        "id": "PSV-050",
+        "name": "Buster Blader",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "78193831"
+    },
+    {
+        "id": "PSV-012",
+        "name": "Call of the Haunted",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "97077563"
+    },
+    {
+        "id": "PSV-030",
+        "name": "Ceasefire",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "36468556"
+    },
+    {
+        "id": "PSV-006",
+        "name": "Chain Destruction",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "1248895"
+    },
+    {
+        "id": "PSV-062",
+        "name": "Cold Wave",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "60682203"
+    },
+    {
+        "id": "PSV-047",
+        "name": "Cyber Falcon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "30655537"
+    },
+    {
+        "id": "PSV-058",
+        "name": "Dark Bat",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "67049542"
+    },
+    {
+        "id": "PSV-043",
+        "name": "Darkfire Soldier #1",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "5388481"
+    },
+    {
+        "id": "PSV-045",
+        "name": "Darkfire Soldier #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "78861134"
+    },
+    {
+        "id": "PSV-079",
+        "name": "Deepsea Warrior",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "24128274"
+    },
+    {
+        "id": "PSV-069",
+        "name": "Dimensionhole",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "22959079"
+    },
+    {
+        "id": "PSV-026",
+        "name": "DNA Surgery",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "74701381"
+    },
+    {
+        "id": "PSV-099",
+        "name": "Dokuroyaiba",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "30325729"
+    },
+    {
+        "id": "PSV-078",
+        "name": "Drill Bug",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "88733579"
+    },
+    {
+        "id": "PSV-018",
+        "name": "Driving Snow",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "473469"
+    },
+    {
+        "id": "PSV-011",
+        "name": "Dust Tornado",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "60082869"
+    },
+    {
+        "id": "PSV-014",
+        "name": "Earthshaker",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "60866277"
+    },
+    {
+        "id": "PSV-015",
+        "name": "Enchanted Javelin",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "96355986"
+    },
+    {
+        "id": "PSV-063",
+        "name": "Fairy Meteor Crush",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "97687912"
+    },
+    {
+        "id": "PSV-041",
+        "name": "Flame Champion",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "42599677"
+    },
+    {
+        "id": "PSV-048",
+        "name": "Flying Kamakiri #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "3134241"
+    },
+    {
+        "id": "PSV-025",
+        "name": "Forced Requisition",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "74923978"
+    },
+    {
+        "id": "PSV-053",
+        "name": "Gamble",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "37313786"
+    },
+    {
+        "id": "PSV-101",
+        "name": "Gearfried the Iron Knight",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "423705"
+    },
+    {
+        "id": "PSV-009",
+        "name": "Gift of The Mystical Elf",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "98299011"
+    },
+    {
+        "id": "PSV-085",
+        "name": "Girochin Kuwagata",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "84620194"
+    },
+    {
+        "id": "PSV-094",
+        "name": "Goblin Attack Force",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "78658564"
+    },
+    {
+        "id": "PSV-089",
+        "name": "Gradius",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "10992251"
+    },
+    {
+        "id": "PSV-008",
+        "name": "Graverobber",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "61705417"
+    },
+    {
+        "id": "PSV-073",
+        "name": "Gravity Bind",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "85742772"
+    },
+    {
+        "id": "PSV-070",
+        "name": "Ground Collapse",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "90502999"
+    },
+    {
+        "id": "PSV-017",
+        "name": "Gust",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "73079365"
+    },
+    {
+        "id": "PSV-086",
+        "name": "Hayabusa Knight",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "21015833"
+    },
+    {
+        "id": "PSV-104",
+        "name": "Imperial Order",
+        "type": "Trap Card",
+        "rarity": "Secret Rare",
+        "imgId": "61740673"
+    },
+    {
+        "id": "PSV-072",
+        "name": "Infinite Dismissal",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "54109233"
+    },
+    {
+        "id": "PSV-102",
+        "name": "Insect Barrier",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "23615409"
+    },
+    {
+        "id": "PSV-068",
+        "name": "Insect Imitation",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "96965364"
+    },
+    {
+        "id": "PSV-038",
+        "name": "Inspection",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "16227556"
+    },
+    {
+        "id": "PSV-082",
+        "name": "Invitation to a Dark Sleep",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "52675689"
+    },
+    {
+        "id": "PSV-095",
+        "name": "Island Turtle",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "4042268"
+    },
+    {
+        "id": "PSV-000",
+        "name": "Jinzo",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "77585513"
+    },
+    {
+        "id": "PSV-046",
+        "name": "Kiseitai",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "4266839"
+    },
+    {
+        "id": "PSV-031",
+        "name": "Light of Intervention",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "62867251"
+    },
+    {
+        "id": "PSV-005",
+        "name": "Lightforce Sword",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "49587034"
+    },
+    {
+        "id": "PSV-064",
+        "name": "Limiter Removal",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "23171610"
+    },
+    {
+        "id": "PSV-091",
+        "name": "Mad Sword Beast",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "79870141"
+    },
+    {
+        "id": "PSV-071",
+        "name": "Magic Drain",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "59344077"
+    },
+    {
+        "id": "PSV-033",
+        "name": "Magical Hats",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "81210420"
+    },
+    {
+        "id": "PSV-029",
+        "name": "Major Riot",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "9074847"
+    },
+    {
+        "id": "PSV-022",
+        "name": "Metal Detector",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "75646520"
+    },
+    {
+        "id": "PSV-051",
+        "name": "Michizure",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "37580756"
+    },
+    {
+        "id": "PSV-052",
+        "name": "Minor Goblin Official",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "1918087"
+    },
+    {
+        "id": "PSV-016",
+        "name": "Mirror Wall",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "22359980"
+    },
+    {
+        "id": "PSV-066",
+        "name": "Monster Recovery",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "93108433"
+    },
+    {
+        "id": "PSV-040",
+        "name": "Morphing Jar #2",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "79106360"
+    },
+    {
+        "id": "PSV-044",
+        "name": "Mr. Volcano",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "31477025"
+    },
+    {
+        "id": "PSV-021",
+        "name": "Mystic Probe",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "49251811"
+    },
+    {
+        "id": "PSV-034",
+        "name": "Nobleman of Crossout",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "71044499"
+    },
+    {
+        "id": "PSV-035",
+        "name": "Nobleman of Extermination",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "17449108"
+    },
+    {
+        "id": "PSV-023",
+        "name": "Numinous Healer",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "2130625"
+    },
+    {
+        "id": "PSV-059",
+        "name": "Oni Tank T-34",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "66927994"
+    },
+    {
+        "id": "PSV-060",
+        "name": "Overdrive",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "2311603"
+    },
+    {
+        "id": "PSV-003",
+        "name": "Parasite Paracide",
+        "type": "Flip Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "27911549"
+    },
+    {
+        "id": "PSV-037",
+        "name": "Premature Burial",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "70828912"
+    },
+    {
+        "id": "PSV-039",
+        "name": "Prohibition",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "43711255"
+    },
+    {
+        "id": "PSV-065",
+        "name": "Rain of Mercy",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "66719324"
+    },
+    {
+        "id": "PSV-032",
+        "name": "Respect Play",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "8951260"
+    },
+    {
+        "id": "PSV-097",
+        "name": "Science Soldier",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "67532912"
+    },
+    {
+        "id": "PSV-075",
+        "name": "Shadow of Eyes",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "58621589"
+    },
+    {
+        "id": "PSV-067",
+        "name": "Shift",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "59560625"
+    },
+    {
+        "id": "PSV-056",
+        "name": "Skull Invitation",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "98139712"
+    },
+    {
+        "id": "PSV-092",
+        "name": "Skull Mariner",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "5265750"
+    },
+    {
+        "id": "PSV-055",
+        "name": "Solemn Wishes",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "35346968"
+    },
+    {
+        "id": "PSV-013",
+        "name": "Solomon's Lawbook",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "23471572"
+    },
+    {
+        "id": "PSV-098",
+        "name": "Souls of the Forgotten",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "4920010"
+    },
+    {
+        "id": "PSV-081",
+        "name": "Spikebot",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "87511987"
+    },
+    {
+        "id": "PSV-001",
+        "name": "Steel Ogre Grotto #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "90908427"
+    },
+    {
+        "id": "PSV-077",
+        "name": "Sword Hunter",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "51345461"
+    },
+    {
+        "id": "PSV-093",
+        "name": "The All-Seeing White Tiger",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "32269855"
+    },
+    {
+        "id": "PSV-010",
+        "name": "The Eye of Truth",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "34694160"
+    },
+    {
+        "id": "PSV-100",
+        "name": "The Fiend Megacyber",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "66362965"
+    },
+    {
+        "id": "PSV-076",
+        "name": "The Legendary Fisherman",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "3643300"
+    },
+    {
+        "id": "PSV-027",
+        "name": "The Regulation of Tribe",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "296499"
+    },
+    {
+        "id": "PSV-036",
+        "name": "The Shallow Grave",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "43434803"
+    },
+    {
+        "id": "PSV-083",
+        "name": "Thousand-Eyes Idol",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "27125110"
+    },
+    {
+        "id": "PSV-084",
+        "name": "Thousand-Eyes Restrict",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "63519819"
+    },
+    {
+        "id": "PSV-002",
+        "name": "Three-Headed Geedo",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "78423643"
+    },
+    {
+        "id": "PSV-007",
+        "name": "Time Seal",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "35316708"
+    },
+    {
+        "id": "PSV-042",
+        "name": "Twin-Headed Fire Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "78984772"
+    },
+    {
+        "id": "PSV-074",
+        "name": "Type Zero Magic Crusher",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "21237481"
+    },
+    {
+        "id": "PSV-090",
+        "name": "Vampire Baby",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "56387350"
+    },
+    {
+        "id": "PSV-096",
+        "name": "Wingweaver",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "31447217"
+    },
+    {
+        "id": "PSV-020",
+        "name": "World Suppression",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "12253117"
+    }
+]

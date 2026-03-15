@@ -1,0 +1,758 @@
+[
+    {
+        "id": "MFC-050",
+        "name": "Adhesion Trap Hole",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "62325062"
+    },
+    {
+        "id": "MFC-056",
+        "name": "Aitsu",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "48202661"
+    },
+    {
+        "id": "MFC-096",
+        "name": "Amazoness Archers",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "67987611"
+    },
+    {
+        "id": "MFC-062",
+        "name": "Amazoness Blowpiper",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "73574678"
+    },
+    {
+        "id": "MFC-060",
+        "name": "Amazoness Fighter",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "55821894"
+    },
+    {
+        "id": "MFC-059",
+        "name": "Amazoness Paladin",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "47480070"
+    },
+    {
+        "id": "MFC-084",
+        "name": "Amazoness Spellcaster",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "81325903"
+    },
+    {
+        "id": "MFC-061",
+        "name": "Amazoness Swords Woman",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "94004268"
+    },
+    {
+        "id": "MFC-063",
+        "name": "Amazoness Tiger",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "10979723"
+    },
+    {
+        "id": "MFC-034",
+        "name": "Ante",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "34236961"
+    },
+    {
+        "id": "MFC-103",
+        "name": "Anti-Spell",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "53112492"
+    },
+    {
+        "id": "MFC-066",
+        "name": "Apprentice Magician",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "9156135"
+    },
+    {
+        "id": "MFC-075",
+        "name": "Armor Exe",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "7180418"
+    },
+    {
+        "id": "MFC-032",
+        "name": "Autonomous Action Unit",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "71453557"
+    },
+    {
+        "id": "MFC-086",
+        "name": "Big Bang Shot",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "61127349"
+    },
+    {
+        "id": "MFC-071",
+        "name": "Breaker the Magical Warrior",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "71413901"
+    },
+    {
+        "id": "MFC-016",
+        "name": "Burning Beast",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "59364406"
+    },
+    {
+        "id": "MFC-081",
+        "name": "Cat's Ear Tribe",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "95841282"
+    },
+    {
+        "id": "MFC-068",
+        "name": "Chaos Command Magician",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "72630549"
+    },
+    {
+        "id": "MFC-030",
+        "name": "Combination Attack",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "8964854"
+    },
+    {
+        "id": "MFC-085",
+        "name": "Continuous Destruction Punch",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "68057622"
+    },
+    {
+        "id": "MFC-019",
+        "name": "D.D. Crazy Beast",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "48148828"
+    },
+    {
+        "id": "MFC-007",
+        "name": "Dark Blade",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "11321183"
+    },
+    {
+        "id": "MFC-083",
+        "name": "Dark Cat with White Tail",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "8634636"
+    },
+    {
+        "id": "MFC-035",
+        "name": "Dark Core",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "70231910"
+    },
+    {
+        "id": "MFC-000",
+        "name": "Dark Magician Girl",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "38033121"
+    },
+    {
+        "id": "MFC-105",
+        "name": "Dark Paladin",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "98502113"
+    },
+    {
+        "id": "MFC-078",
+        "name": "Dark Scorpion - Cliff the Trap Remover",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "6967870"
+    },
+    {
+        "id": "MFC-010",
+        "name": "Decayed Commander",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "10209545"
+    },
+    {
+        "id": "MFC-029",
+        "name": "Demotion",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "72575145"
+    },
+    {
+        "id": "MFC-015",
+        "name": "Des Dendle",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "12965761"
+    },
+    {
+        "id": "MFC-077",
+        "name": "Des Koala",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "69579761"
+    },
+    {
+        "id": "MFC-107",
+        "name": "Diffusion Wave-Motion",
+        "type": "Spell Card",
+        "rarity": "Secret Rare",
+        "imgId": "87880531"
+    },
+    {
+        "id": "MFC-023",
+        "name": "Dimension Jar",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "73414375"
+    },
+    {
+        "id": "MFC-102",
+        "name": "Disarmament",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "20727787"
+    },
+    {
+        "id": "MFC-106",
+        "name": "Double Spell",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "24096228"
+    },
+    {
+        "id": "MFC-097",
+        "name": "Dramatic Rescue",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "80193355"
+    },
+    {
+        "id": "MFC-090",
+        "name": "Emblem of Dragon Destroyer",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "6390406"
+    },
+    {
+        "id": "MFC-098",
+        "name": "Exhausting Spell",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "95451366"
+    },
+    {
+        "id": "MFC-049",
+        "name": "Formation Union",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "26931058"
+    },
+    {
+        "id": "MFC-017",
+        "name": "Freezing Beast",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "85359414"
+    },
+    {
+        "id": "MFC-028",
+        "name": "Frontline Base",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "46181000"
+    },
+    {
+        "id": "MFC-087",
+        "name": "Gather Your Mind",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "7512044"
+    },
+    {
+        "id": "MFC-012",
+        "name": "Giant Orc",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "73698349"
+    },
+    {
+        "id": "MFC-055",
+        "name": "Great Angus",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "11813953"
+    },
+    {
+        "id": "MFC-024",
+        "name": "Great Phantom Thief",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "10809984"
+    },
+    {
+        "id": "MFC-022",
+        "name": "Helping Robo for Combat",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "47025270"
+    },
+    {
+        "id": "MFC-099",
+        "name": "Hidden Spellbook",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "21840375"
+    },
+    {
+        "id": "MFC-041",
+        "name": "Huge Revolution",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "65396880"
+    },
+    {
+        "id": "MFC-091",
+        "name": "Jar Robber",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "33784505"
+    },
+    {
+        "id": "MFC-031",
+        "name": "Kaiser Colosseum",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "35059553"
+    },
+    {
+        "id": "MFC-009",
+        "name": "Kiryu",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "84814897"
+    },
+    {
+        "id": "MFC-038",
+        "name": "Kishido Spirit",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "60519422"
+    },
+    {
+        "id": "MFC-080",
+        "name": "Koitsu",
+        "type": "Union Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "69456283"
+    },
+    {
+        "id": "MFC-058",
+        "name": "Luster Dragon",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "11091375"
+    },
+    {
+        "id": "MFC-069",
+        "name": "Magical Marionette",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "8034697"
+    },
+    {
+        "id": "MFC-079",
+        "name": "Magical Merchant",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "32362575"
+    },
+    {
+        "id": "MFC-072",
+        "name": "Magical Plant Mandragola",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "7802006"
+    },
+    {
+        "id": "MFC-073",
+        "name": "Magical Scientist",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "34206604"
+    },
+    {
+        "id": "MFC-088",
+        "name": "Mass Driver",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "34906152"
+    },
+    {
+        "id": "MFC-094",
+        "name": "Mega Ton Magical Cannon",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "32062913"
+    },
+    {
+        "id": "MFC-037",
+        "name": "Metalsilver Armor",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "33114323"
+    },
+    {
+        "id": "MFC-044",
+        "name": "Meteorain",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "64274292"
+    },
+    {
+        "id": "MFC-100",
+        "name": "Miracle Restoring",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "68334074"
+    },
+    {
+        "id": "MFC-092",
+        "name": "My Body as a Shield",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "69279219"
+    },
+    {
+        "id": "MFC-021",
+        "name": "Neko Mane King",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "11021521"
+    },
+    {
+        "id": "MFC-067",
+        "name": "Old Vindictive Magician",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "45141844"
+    },
+    {
+        "id": "MFC-002",
+        "name": "Oppressed People",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "58538870"
+    },
+    {
+        "id": "MFC-026",
+        "name": "Paladin of White Dragon",
+        "type": "Ritual Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "73398797"
+    },
+    {
+        "id": "MFC-001",
+        "name": "People Running About",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "12143771"
+    },
+    {
+        "id": "MFC-047",
+        "name": "Physical Double",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "63442604"
+    },
+    {
+        "id": "MFC-045",
+        "name": "Pineapple Blast",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "90669991"
+    },
+    {
+        "id": "MFC-095",
+        "name": "Pitch-Black Power Stone",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "34029630"
+    },
+    {
+        "id": "MFC-008",
+        "name": "Pitch-Dark Dragon",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "47415292"
+    },
+    {
+        "id": "MFC-070",
+        "name": "Pixie Knight",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "35429292"
+    },
+    {
+        "id": "MFC-033",
+        "name": "Poison of the Old Man",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "8842266"
+    },
+    {
+        "id": "MFC-036",
+        "name": "Raregold Armor",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "7625614"
+    },
+    {
+        "id": "MFC-101",
+        "name": "Remove Brainwashing",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "94739788"
+    },
+    {
+        "id": "MFC-048",
+        "name": "Rivalry of Warlords",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "90846359"
+    },
+    {
+        "id": "MFC-025",
+        "name": "Roulette Barrel",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "46303688"
+    },
+    {
+        "id": "MFC-074",
+        "name": "Royal Magical Library",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "70791313"
+    },
+    {
+        "id": "MFC-013",
+        "name": "Second Goblin",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "19086954"
+    },
+    {
+        "id": "MFC-046",
+        "name": "Secret Barrel",
+        "type": "Trap Card",
+        "rarity": "Super Short Print",
+        "imgId": "27053506"
+    },
+    {
+        "id": "MFC-089",
+        "name": "Senri Eye",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "60391791"
+    },
+    {
+        "id": "MFC-065",
+        "name": "Skilled Dark Magician",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "73752131"
+    },
+    {
+        "id": "MFC-064",
+        "name": "Skilled White Magician",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "46363422"
+    },
+    {
+        "id": "MFC-057",
+        "name": "Sonic Duck",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "84696266"
+    },
+    {
+        "id": "MFC-020",
+        "name": "Spell Canceller",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "84636823"
+    },
+    {
+        "id": "MFC-043",
+        "name": "Spell Shield Type-8",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "38275183"
+    },
+    {
+        "id": "MFC-093",
+        "name": "Spellbook Organization",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "96677818"
+    },
+    {
+        "id": "MFC-104",
+        "name": "The Spell Absorbing Life",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "99517131"
+    },
+    {
+        "id": "MFC-042",
+        "name": "Thunder of Ruler",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "91781589"
+    },
+    {
+        "id": "MFC-076",
+        "name": "Tribe-Infecting Virus",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "33184167"
+    },
+    {
+        "id": "MFC-039",
+        "name": "Tribute Doll",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "2903036"
+    },
+    {
+        "id": "MFC-082",
+        "name": "Ultimate Obedient Fiend",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "32240937"
+    },
+    {
+        "id": "MFC-018",
+        "name": "Union Rider",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "11743119"
+    },
+    {
+        "id": "MFC-003",
+        "name": "United Resistance",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "85936485"
+    },
+    {
+        "id": "MFC-014",
+        "name": "Vampiric Orchis",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "46571052"
+    },
+    {
+        "id": "MFC-040",
+        "name": "Wave-Motion Cannon",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "38992735"
+    },
+    {
+        "id": "MFC-027",
+        "name": "White Dragon Ritual",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "9786492"
+    },
+    {
+        "id": "MFC-004",
+        "name": "X-Head Cannon",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "62651957"
+    },
+    {
+        "id": "MFC-051",
+        "name": "XY-Dragon Cannon",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "2111707"
+    },
+    {
+        "id": "MFC-052",
+        "name": "XYZ-Dragon Cannon",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "91998119"
+    },
+    {
+        "id": "MFC-053",
+        "name": "XZ-Tank Cannon",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "99724761"
+    },
+    {
+        "id": "MFC-005",
+        "name": "Y-Dragon Head",
+        "type": "Union Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "65622692"
+    },
+    {
+        "id": "MFC-054",
+        "name": "YZ-Tank Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "25119460"
+    },
+    {
+        "id": "MFC-006",
+        "name": "Z-Metal Tank",
+        "type": "Union Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "64500000"
+    },
+    {
+        "id": "MFC-011",
+        "name": "Zombie Tiger",
+        "type": "Union Effect Monster",
+        "rarity": "Common",
+        "imgId": "47693640"
+    }
+]

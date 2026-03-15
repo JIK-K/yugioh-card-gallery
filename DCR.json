@@ -1,0 +1,744 @@
+[
+    {
+        "id": "DCR-030",
+        "name": "A Deal with Dark Ruler",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "6850209"
+    },
+    {
+        "id": "DCR-003",
+        "name": "Acrobat Monkey",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "47372349"
+    },
+    {
+        "id": "DCR-080",
+        "name": "Agido",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "16135253"
+    },
+    {
+        "id": "DCR-095",
+        "name": "Altar for Tribute",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "21070956"
+    },
+    {
+        "id": "DCR-057",
+        "name": "Archfiend Soldier",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "49881766"
+    },
+    {
+        "id": "DCR-092",
+        "name": "Archfiend's Oath",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "22796548"
+    },
+    {
+        "id": "DCR-099",
+        "name": "Archfiend's Roar",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "56246017"
+    },
+    {
+        "id": "DCR-048",
+        "name": "Arsenal Robber",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "55348096"
+    },
+    {
+        "id": "DCR-004",
+        "name": "Arsenal Summoner",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "85489096"
+    },
+    {
+        "id": "DCR-001",
+        "name": "Battle Footballer",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "48094997"
+    },
+    {
+        "id": "DCR-097",
+        "name": "Battle-Scarred",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "94463200"
+    },
+    {
+        "id": "DCR-019",
+        "name": "Berserk Dragon",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "85605684"
+    },
+    {
+        "id": "DCR-104",
+        "name": "Blast Held by a Tribute",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "89041555"
+    },
+    {
+        "id": "DCR-022",
+        "name": "Blindly Loyal Goblin",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "35215622"
+    },
+    {
+        "id": "DCR-032",
+        "name": "Butterfly Dagger - Elma",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "69243953"
+    },
+    {
+        "id": "DCR-090",
+        "name": "Cestus of Dagla",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "28106077"
+    },
+    {
+        "id": "DCR-089",
+        "name": "Checkmate",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "69313735"
+    },
+    {
+        "id": "DCR-031",
+        "name": "Contract with Exodia",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "33244944"
+    },
+    {
+        "id": "DCR-086",
+        "name": "Contract with the Abyss",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "69035382"
+    },
+    {
+        "id": "DCR-087",
+        "name": "Contract with the Dark Master",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "96420087"
+    },
+    {
+        "id": "DCR-053",
+        "name": "Cost Down",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "23265313"
+    },
+    {
+        "id": "DCR-011",
+        "name": "Cyber Raider",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "39978267"
+    },
+    {
+        "id": "DCR-055",
+        "name": "D.D. Trainer",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "86498013"
+    },
+    {
+        "id": "DCR-027",
+        "name": "D.D. Warrior Lady",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "7572887"
+    },
+    {
+        "id": "DCR-017",
+        "name": "Dark Flare Knight",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "13722870"
+    },
+    {
+        "id": "DCR-082",
+        "name": "Dark Master - Zorc",
+        "type": "Ritual Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "97642679"
+    },
+    {
+        "id": "DCR-026",
+        "name": "Dark Scorpion - Chick the Yellow",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "61587183"
+    },
+    {
+        "id": "DCR-060",
+        "name": "Dark Scorpion - Gorg the Strong",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "48768179"
+    },
+    {
+        "id": "DCR-061",
+        "name": "Dark Scorpion - Meanae the Thorn",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "74153887"
+    },
+    {
+        "id": "DCR-098",
+        "name": "Dark Scorpion Combination",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "20858318"
+    },
+    {
+        "id": "DCR-069",
+        "name": "Darkbishop Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "35798491"
+    },
+    {
+        "id": "DCR-014",
+        "name": "Des Feral Imp",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "81985784"
+    },
+    {
+        "id": "DCR-023",
+        "name": "Despair from the Dark",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "71200730"
+    },
+    {
+        "id": "DCR-070",
+        "name": "Desrook Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "72192100"
+    },
+    {
+        "id": "DCR-100",
+        "name": "Dice Re-Roll",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "83241722"
+    },
+    {
+        "id": "DCR-015",
+        "name": "Different Dimension Dragon",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "50939127"
+    },
+    {
+        "id": "DCR-044",
+        "name": "Different Dimension Gate",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "56460688"
+    },
+    {
+        "id": "DCR-084",
+        "name": "Dragged Down into the Grave",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "16435215"
+    },
+    {
+        "id": "DCR-020",
+        "name": "Exodia Necross",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "12600382"
+    },
+    {
+        "id": "DCR-040",
+        "name": "Fairy of the Spring",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "20188127"
+    },
+    {
+        "id": "DCR-088",
+        "name": "Falling Down",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "32919136"
+    },
+    {
+        "id": "DCR-025",
+        "name": "Fear from the Dark",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "34193084"
+    },
+    {
+        "id": "DCR-045",
+        "name": "Final Attack Orders",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "52503575"
+    },
+    {
+        "id": "DCR-091",
+        "name": "Final Countdown",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "95308449"
+    },
+    {
+        "id": "DCR-096",
+        "name": "Frozen Soul",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "57069605"
+    },
+    {
+        "id": "DCR-054",
+        "name": "Gagagigo",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "49003308"
+    },
+    {
+        "id": "DCR-065",
+        "name": "Goblin of Greed",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "425934"
+    },
+    {
+        "id": "DCR-034",
+        "name": "Gravity Axe - Grarl",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "32022366"
+    },
+    {
+        "id": "DCR-063",
+        "name": "Great Maju Garzett",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "47942531"
+    },
+    {
+        "id": "DCR-008",
+        "name": "Guardian Baou",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "73544866"
+    },
+    {
+        "id": "DCR-006",
+        "name": "Guardian Ceal",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "10755153"
+    },
+    {
+        "id": "DCR-005",
+        "name": "Guardian Elma",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "74367458"
+    },
+    {
+        "id": "DCR-007",
+        "name": "Guardian Grarl",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "47150851"
+    },
+    {
+        "id": "DCR-009",
+        "name": "Guardian Kay'est",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "9633505"
+    },
+    {
+        "id": "DCR-010",
+        "name": "Guardian Tryce",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "46037213"
+    },
+    {
+        "id": "DCR-021",
+        "name": "Gyaku-Gire Panda",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "9817927"
+    },
+    {
+        "id": "DCR-085",
+        "name": "Incandescent Ordeal",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "33031674"
+    },
+    {
+        "id": "DCR-071",
+        "name": "Infernalqueen Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "8581705"
+    },
+    {
+        "id": "DCR-052",
+        "name": "Interdimensional Matter Transporter",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "36261276"
+    },
+    {
+        "id": "DCR-064",
+        "name": "Iron Blacksmith Kotetsu",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "73431236"
+    },
+    {
+        "id": "DCR-105",
+        "name": "Judgment of Anubis",
+        "type": "Trap Card",
+        "rarity": "Secret Rare",
+        "imgId": "55256016"
+    },
+    {
+        "id": "DCR-051",
+        "name": "Kaiser Glider",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "52824910"
+    },
+    {
+        "id": "DCR-078",
+        "name": "Kelbek",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "54878498"
+    },
+    {
+        "id": "DCR-077",
+        "name": "Keldo",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "80441106"
+    },
+    {
+        "id": "DCR-081",
+        "name": "Legendary Flame Lord",
+        "type": "Ritual Effect Monster",
+        "rarity": "Rare",
+        "imgId": "60258960"
+    },
+    {
+        "id": "DCR-013",
+        "name": "Little-Winguard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "90790253"
+    },
+    {
+        "id": "DCR-024",
+        "name": "Maju Garzett",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "8794435"
+    },
+    {
+        "id": "DCR-066",
+        "name": "Mefist the Infernal General",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "46820049"
+    },
+    {
+        "id": "DCR-074",
+        "name": "Metallizing Parasite - Lunatite",
+        "type": "Union Effect Monster",
+        "rarity": "Rare",
+        "imgId": "7369217"
+    },
+    {
+        "id": "DCR-018",
+        "name": "Mirage Knight",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "49217579"
+    },
+    {
+        "id": "DCR-042",
+        "name": "Morale Boost",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "93671934"
+    },
+    {
+        "id": "DCR-076",
+        "name": "Mudora",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "82108372"
+    },
+    {
+        "id": "DCR-093",
+        "name": "Mustering of the Dark Scorpions",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "68191243"
+    },
+    {
+        "id": "DCR-002",
+        "name": "Nin-Ken Dog",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "11987744"
+    },
+    {
+        "id": "DCR-043",
+        "name": "Non-Spellcasting Area",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "20065549"
+    },
+    {
+        "id": "DCR-056",
+        "name": "Ojama Green",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "12482652"
+    },
+    {
+        "id": "DCR-047",
+        "name": "Ojama Trio",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "29843091"
+    },
+    {
+        "id": "DCR-062",
+        "name": "Outstanding Dog Marron",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "11548522"
+    },
+    {
+        "id": "DCR-094",
+        "name": "Pandemonium",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "94585852"
+    },
+    {
+        "id": "DCR-058",
+        "name": "Pandemonium Watchbear",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "75375465"
+    },
+    {
+        "id": "DCR-038",
+        "name": "Precious Cards from Beyond",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "68304813"
+    },
+    {
+        "id": "DCR-103",
+        "name": "Ray of Hope",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "82529174"
+    },
+    {
+        "id": "DCR-050",
+        "name": "Really Eternal Rest",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "28121403"
+    },
+    {
+        "id": "DCR-012",
+        "name": "Reflect Bounder",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "2851070"
+    },
+    {
+        "id": "DCR-036",
+        "name": "Rod of Silence - Kay'est",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "95515060"
+    },
+    {
+        "id": "DCR-039",
+        "name": "Rod of the Mind's Eye",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "94793422"
+    },
+    {
+        "id": "DCR-102",
+        "name": "Sakuretsu Armor",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "56120475"
+    },
+    {
+        "id": "DCR-059",
+        "name": "Sasuke Samurai #2",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "11760174"
+    },
+    {
+        "id": "DCR-068",
+        "name": "Shadowknight Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "9603356"
+    },
+    {
+        "id": "DCR-016",
+        "name": "Shinato, King of a Higher Plane",
+        "type": "Ritual Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "86327225"
+    },
+    {
+        "id": "DCR-029",
+        "name": "Shinato's Ark",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "60365591"
+    },
+    {
+        "id": "DCR-033",
+        "name": "Shooting Star Bow - Ceal",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "95638658"
+    },
+    {
+        "id": "DCR-049",
+        "name": "Skill Drain",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "82732705"
+    },
+    {
+        "id": "DCR-073",
+        "name": "Skull Archfiend of Lightning",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "61370518"
+    },
+    {
+        "id": "DCR-083",
+        "name": "Spell Reproduction",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "29228529"
+    },
+    {
+        "id": "DCR-101",
+        "name": "Spell Vanishing",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "29735721"
+    },
+    {
+        "id": "DCR-046",
+        "name": "Staunch Defender",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "92854392"
+    },
+    {
+        "id": "DCR-072",
+        "name": "Terrorking Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "35975813"
+    },
+    {
+        "id": "DCR-028",
+        "name": "Thousand Needles",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "33977496"
+    },
+    {
+        "id": "DCR-041",
+        "name": "Token Thanksgiving",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "57182235"
+    },
+    {
+        "id": "DCR-075",
+        "name": "Tsukuyomi",
+        "type": "Spirit Monster",
+        "rarity": "Rare",
+        "imgId": "34853266"
+    },
+    {
+        "id": "DCR-037",
+        "name": "Twin Swords of Flashing Light - Tryce",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "21900719"
+    },
+    {
+        "id": "DCR-000",
+        "name": "Vampire Lord",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "53839837"
+    },
+    {
+        "id": "DCR-067",
+        "name": "Vilepawn Archfiend",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "73219648"
+    },
+    {
+        "id": "DCR-035",
+        "name": "Wicked-Breaking Flamberge - Baou",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "68427465"
+    },
+    {
+        "id": "DCR-079",
+        "name": "Zolga",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "16268841"
+    }
+]

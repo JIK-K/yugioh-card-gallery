@@ -1,0 +1,786 @@
+[
+    {
+        "id": "AST-070",
+        "name": "3-Hump Lacooda",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "86988864"
+    },
+    {
+        "id": "AST-091",
+        "name": "7",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "67048711"
+    },
+    {
+        "id": "AST-072",
+        "name": "Absorbing Kid from the Sky",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "49771608"
+    },
+    {
+        "id": "AST-040",
+        "name": "Amplifier",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "303660"
+    },
+    {
+        "id": "AST-029",
+        "name": "Arcane Archer of the Forest",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "55001420"
+    },
+    {
+        "id": "AST-034",
+        "name": "Archlord Zerato",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "18378582"
+    },
+    {
+        "id": "AST-055",
+        "name": "Armor Break",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "79649195"
+    },
+    {
+        "id": "AST-064",
+        "name": "Aswan Apparition",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "88236094"
+    },
+    {
+        "id": "AST-024",
+        "name": "Atomic Firefly",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "87340664"
+    },
+    {
+        "id": "AST-016",
+        "name": "Avatar of The Pot",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "99284890"
+    },
+    {
+        "id": "AST-046",
+        "name": "Backfire",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "82705573"
+    },
+    {
+        "id": "AST-053",
+        "name": "Beckoning Light",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "16255442"
+    },
+    {
+        "id": "AST-090",
+        "name": "Blessings of the Nile",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "30653113"
+    },
+    {
+        "id": "AST-022",
+        "name": "Blowback Dragon",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "25551951"
+    },
+    {
+        "id": "AST-038",
+        "name": "Burst Stream of Destruction",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "17655904"
+    },
+    {
+        "id": "AST-105",
+        "name": "Curse of Anubis",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "66742250"
+    },
+    {
+        "id": "AST-095",
+        "name": "Dark Magic Attack",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "2314238"
+    },
+    {
+        "id": "AST-096",
+        "name": "Delta Attacker",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "39719977"
+    },
+    {
+        "id": "AST-107",
+        "name": "Des Counterblow",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "39131963"
+    },
+    {
+        "id": "AST-106",
+        "name": "Desert Sunlight",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "93747864"
+    },
+    {
+        "id": "AST-068",
+        "name": "Desertapir",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "13409151"
+    },
+    {
+        "id": "AST-028",
+        "name": "Disc Fighter",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "19612721"
+    },
+    {
+        "id": "AST-102",
+        "name": "Dora of Fate",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "67464807"
+    },
+    {
+        "id": "AST-078",
+        "name": "Double Coston",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "44436472"
+    },
+    {
+        "id": "AST-054",
+        "name": "Draining Shield",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "43250041"
+    },
+    {
+        "id": "AST-087",
+        "name": "Dust Barrier",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "31476755"
+    },
+    {
+        "id": "AST-043",
+        "name": "Earthquake",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "82828051"
+    },
+    {
+        "id": "AST-073",
+        "name": "Elephant Statue of Blessing",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "85166216"
+    },
+    {
+        "id": "AST-074",
+        "name": "Elephant Statue of Disaster",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "12160911"
+    },
+    {
+        "id": "AST-076",
+        "name": "Emissary of the Afterlife",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "75043725"
+    },
+    {
+        "id": "AST-083",
+        "name": "Emissary of the Oasis",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "6103294"
+    },
+    {
+        "id": "AST-093",
+        "name": "Enchanting Fitting Room",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "30531525"
+    },
+    {
+        "id": "AST-037",
+        "name": "Enemy Controller",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "98045062"
+    },
+    {
+        "id": "AST-059",
+        "name": "Fiend Scorpion",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "26566878"
+    },
+    {
+        "id": "AST-018",
+        "name": "Gear Golem the Moving Fortress",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "30190809"
+    },
+    {
+        "id": "AST-071",
+        "name": "Ghost Knight of Jackal",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "13386503"
+    },
+    {
+        "id": "AST-056",
+        "name": "Gigobyte",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "53776525"
+    },
+    {
+        "id": "AST-031",
+        "name": "Goblin King",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "18590133"
+    },
+    {
+        "id": "AST-045",
+        "name": "Goblin Thief",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "45311864"
+    },
+    {
+        "id": "AST-001",
+        "name": "Gogiga Gagagigo",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "39674352"
+    },
+    {
+        "id": "AST-077",
+        "name": "Grave Protector",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "11448373"
+    },
+    {
+        "id": "AST-104",
+        "name": "Human-Wave Tactics",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "30353551"
+    },
+    {
+        "id": "AST-103",
+        "name": "Judgment of the Desert",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "4869446"
+    },
+    {
+        "id": "AST-019",
+        "name": "KA-2 Des Scissors",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "52768103"
+    },
+    {
+        "id": "AST-082",
+        "name": "King of the Swamp",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "79109599"
+    },
+    {
+        "id": "AST-058",
+        "name": "Kozaky",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "99171160"
+    },
+    {
+        "id": "AST-108",
+        "name": "Labyrinth of Nightmare",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "66526672"
+    },
+    {
+        "id": "AST-030",
+        "name": "Lady Ninja Yae",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "82005435"
+    },
+    {
+        "id": "AST-067",
+        "name": "Legacy Hunter",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "87010442"
+    },
+    {
+        "id": "AST-017",
+        "name": "Legendary Jujitsu Master",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "25773409"
+    },
+    {
+        "id": "AST-092",
+        "name": "Level Limit - Area B",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "3136426"
+    },
+    {
+        "id": "AST-048",
+        "name": "Light of Judgment",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "44595286"
+    },
+    {
+        "id": "AST-081",
+        "name": "Man-Thro' Tro'",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "43714890"
+    },
+    {
+        "id": "AST-111",
+        "name": "Mazera DeVille",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "6133894"
+    },
+    {
+        "id": "AST-025",
+        "name": "Mermaid Knight",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "24435369"
+    },
+    {
+        "id": "AST-005",
+        "name": "Metal Armored Bug",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "65957473"
+    },
+    {
+        "id": "AST-047",
+        "name": "Micro Ray",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "18190572"
+    },
+    {
+        "id": "AST-057",
+        "name": "Mokey Mokey",
+        "type": "Normal Monster",
+        "rarity": "Super Short Print",
+        "imgId": "27288416"
+    },
+    {
+        "id": "AST-039",
+        "name": "Monster Gate",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "43040603"
+    },
+    {
+        "id": "AST-004",
+        "name": "Mystical Shine Ball",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "39552864"
+    },
+    {
+        "id": "AST-036",
+        "name": "Mystik Wok",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "80161395"
+    },
+    {
+        "id": "AST-020",
+        "name": "Needle Burrower",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "98162242"
+    },
+    {
+        "id": "AST-080",
+        "name": "Night Assailant",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "16226786"
+    },
+    {
+        "id": "AST-052",
+        "name": "Ninjitsu Art of Transformation",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "70861343"
+    },
+    {
+        "id": "AST-066",
+        "name": "Nubian Guard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "51616747"
+    },
+    {
+        "id": "AST-035",
+        "name": "Opti-Camouflage Armor",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "44762290"
+    },
+    {
+        "id": "AST-085",
+        "name": "Order to Charge",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "78986941"
+    },
+    {
+        "id": "AST-110",
+        "name": "Order to Smash",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "39019325"
+    },
+    {
+        "id": "AST-060",
+        "name": "Pharaoh's Servant",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "52550973"
+    },
+    {
+        "id": "AST-061",
+        "name": "Pharaonic Protector",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "89959682"
+    },
+    {
+        "id": "AST-026",
+        "name": "Piranha Army",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "50823978"
+    },
+    {
+        "id": "AST-065",
+        "name": "Protector of the Sanctuary",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "24221739"
+    },
+    {
+        "id": "AST-079",
+        "name": "Regenerating Mummy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "70821187"
+    },
+    {
+        "id": "AST-015",
+        "name": "Rocket Jumper",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "53890795"
+    },
+    {
+        "id": "AST-069",
+        "name": "Sand Gambler",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "50593156"
+    },
+    {
+        "id": "AST-003",
+        "name": "Sealmaster Meisei",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "2468169"
+    },
+    {
+        "id": "AST-032",
+        "name": "Solar Flare Dragon",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "45985838"
+    },
+    {
+        "id": "AST-051",
+        "name": "Solar Ray",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "44472639"
+    },
+    {
+        "id": "AST-021",
+        "name": "Sonic Jammer",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "84550200"
+    },
+    {
+        "id": "AST-109",
+        "name": "Soul Resurrection",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "92924317"
+    },
+    {
+        "id": "AST-088",
+        "name": "Soul Reversal",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "78864369"
+    },
+    {
+        "id": "AST-011",
+        "name": "Soul-Absorbing Bone Tower",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "63012333"
+    },
+    {
+        "id": "AST-084",
+        "name": "Special Hurricane",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "42598242"
+    },
+    {
+        "id": "AST-089",
+        "name": "Spell Economics",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "4259068"
+    },
+    {
+        "id": "AST-075",
+        "name": "Spirit Caller",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "48659020"
+    },
+    {
+        "id": "AST-062",
+        "name": "Spirit of the Pharaoh",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "25343280"
+    },
+    {
+        "id": "AST-014",
+        "name": "Stone Statue of the Aztecs",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "31812496"
+    },
+    {
+        "id": "AST-086",
+        "name": "Sword of the Soul-Eater",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "5371656"
+    },
+    {
+        "id": "AST-049",
+        "name": "Talisman of Spell Sealing",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "71983925"
+    },
+    {
+        "id": "AST-044",
+        "name": "Talisman of Trap Sealing",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "19312169"
+    },
+    {
+        "id": "AST-008",
+        "name": "The Agent of Creation - Venus",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "64734921"
+    },
+    {
+        "id": "AST-009",
+        "name": "The Agent of Force - Mars",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "91123920"
+    },
+    {
+        "id": "AST-006",
+        "name": "The Agent of Judgment - Saturn",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "91345518"
+    },
+    {
+        "id": "AST-007",
+        "name": "The Agent of Wisdom - Mercury",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "38730226"
+    },
+    {
+        "id": "AST-000",
+        "name": "The End of Anubis",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "65403020"
+    },
+    {
+        "id": "AST-101",
+        "name": "The First Sarcophagus",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "31076103"
+    },
+    {
+        "id": "AST-012",
+        "name": "The Kick Man",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "90407382"
+    },
+    {
+        "id": "AST-094",
+        "name": "The Law of the Normal",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "66926224"
+    },
+    {
+        "id": "AST-042",
+        "name": "The Sanctuary in the Sky",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "56433456"
+    },
+    {
+        "id": "AST-100",
+        "name": "The Second Sarcophagus",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "4081094"
+    },
+    {
+        "id": "AST-099",
+        "name": "The Third Sarcophagus",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "78697395"
+    },
+    {
+        "id": "AST-010",
+        "name": "The Unhappy Girl",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "27618634"
+    },
+    {
+        "id": "AST-063",
+        "name": "Theban Nightmare",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "51838385"
+    },
+    {
+        "id": "AST-097",
+        "name": "Thousand Energy",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "5703682"
+    },
+    {
+        "id": "AST-098",
+        "name": "Triangle Power",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "32298781"
+    },
+    {
+        "id": "AST-027",
+        "name": "Two Thousand Needles",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "83228073"
+    },
+    {
+        "id": "AST-013",
+        "name": "Vampire Lady",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "26495087"
+    },
+    {
+        "id": "AST-050",
+        "name": "Wall of Revealing Light",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "17078030"
+    },
+    {
+        "id": "AST-002",
+        "name": "Warrior of Zera",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "66073051"
+    },
+    {
+        "id": "AST-041",
+        "name": "Weapon Change",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "10035717"
+    },
+    {
+        "id": "AST-033",
+        "name": "White Magician Pikeru",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "81383947"
+    },
+    {
+        "id": "AST-023",
+        "name": "Zaborg the Thunder Monarch",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "51945556"
+    }
+]

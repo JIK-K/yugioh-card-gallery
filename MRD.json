@@ -1,0 +1,1010 @@
+[
+    {
+        "id": "MRD-098",
+        "name": "7 Colored Fish",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "23771716"
+    },
+    {
+        "id": "MRD-082",
+        "name": "Ancient Brain",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "42431843"
+    },
+    {
+        "id": "MRD-037",
+        "name": "Ancient Elf",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "93221206"
+    },
+    {
+        "id": "MRD-050",
+        "name": "Ancient Lizard Warrior",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "43230671"
+    },
+    {
+        "id": "MRD-005",
+        "name": "Armored Lizard",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "15480588"
+    },
+    {
+        "id": "MRD-013",
+        "name": "Armored Zombie",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "20277860"
+    },
+    {
+        "id": "MRD-061",
+        "name": "Baby Dragon",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "88819587"
+    },
+    {
+        "id": "MRD-126",
+        "name": "Barrel Dragon",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "81480461"
+    },
+    {
+        "id": "MRD-064",
+        "name": "Battle Steer",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "18246479"
+    },
+    {
+        "id": "MRD-093",
+        "name": "Bickuribox",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "25655502"
+    },
+    {
+        "id": "MRD-017",
+        "name": "Big Eye",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "16768387"
+    },
+    {
+        "id": "MRD-018",
+        "name": "Black Skull Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "11901678"
+    },
+    {
+        "id": "MRD-062",
+        "name": "Blackland Fire Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "87564352"
+    },
+    {
+        "id": "MRD-118",
+        "name": "Bladefly",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "28470714"
+    },
+    {
+        "id": "MRD-034",
+        "name": "Blast Juggler",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "70138455"
+    },
+    {
+        "id": "MRD-133",
+        "name": "Block Attack",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "25880422"
+    },
+    {
+        "id": "MRD-122",
+        "name": "Blue-Winged Crown",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "41396436"
+    },
+    {
+        "id": "MRD-039",
+        "name": "Bottom Dweller",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "81386177"
+    },
+    {
+        "id": "MRD-106",
+        "name": "Cannon Soldier",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "11384280"
+    },
+    {
+        "id": "MRD-073",
+        "name": "Castle of Dark Illusions",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "62121"
+    },
+    {
+        "id": "MRD-075",
+        "name": "Catapult Turtle",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "95727991"
+    },
+    {
+        "id": "MRD-060",
+        "name": "Change of Heart",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "4031928"
+    },
+    {
+        "id": "MRD-011",
+        "name": "Cocoon of Evolution",
+        "type": "Effect Monster",
+        "rarity": "Super Short Print",
+        "imgId": "40240595"
+    },
+    {
+        "id": "MRD-078",
+        "name": "Crass Clown",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "93889755"
+    },
+    {
+        "id": "MRD-012",
+        "name": "Crawling Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "67494157"
+    },
+    {
+        "id": "MRD-105",
+        "name": "Cyber Saurus",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "89112729"
+    },
+    {
+        "id": "MRD-113",
+        "name": "Dark Elf",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "21417692"
+    },
+    {
+        "id": "MRD-038",
+        "name": "Deepsea Shark",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "28593363"
+    },
+    {
+        "id": "MRD-040",
+        "name": "Destroyer Golem",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "73481154"
+    },
+    {
+        "id": "MRD-053",
+        "name": "Disk Magician",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "76446915"
+    },
+    {
+        "id": "MRD-015",
+        "name": "Doma The Angel of Silence",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "16972957"
+    },
+    {
+        "id": "MRD-067",
+        "name": "Dragon Piper",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "55763552"
+    },
+    {
+        "id": "MRD-080",
+        "name": "Dream Clown",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "13215230"
+    },
+    {
+        "id": "MRD-048",
+        "name": "Electric Lizard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "55875323"
+    },
+    {
+        "id": "MRD-024",
+        "name": "Elegant Egotist",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "90219263"
+    },
+    {
+        "id": "MRD-046",
+        "name": "Empress Judge",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "15237615"
+    },
+    {
+        "id": "MRD-056",
+        "name": "Fake Trap",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "3027001"
+    },
+    {
+        "id": "MRD-001",
+        "name": "Feral Imp",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "41392891"
+    },
+    {
+        "id": "MRD-111",
+        "name": "Flame Cerebrus",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "60862676"
+    },
+    {
+        "id": "MRD-125",
+        "name": "Garnecia Elefantis",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "49888191"
+    },
+    {
+        "id": "MRD-000",
+        "name": "Gate Guardian",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "25833572"
+    },
+    {
+        "id": "MRD-124",
+        "name": "Gazelle the King of Mythical Beasts",
+        "type": "Normal Monster",
+        "rarity": "Super Short Print",
+        "imgId": "5818798"
+    },
+    {
+        "id": "MRD-136",
+        "name": "Germ Infection",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "24668830"
+    },
+    {
+        "id": "MRD-096",
+        "name": "Giga-Tech Wolf",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "8471389"
+    },
+    {
+        "id": "MRD-094",
+        "name": "Giltia the D. Knight",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "51828629"
+    },
+    {
+        "id": "MRD-070",
+        "name": "Great Moth",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "14141448"
+    },
+    {
+        "id": "MRD-022",
+        "name": "Ground Attacker Bugroth",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "58314394"
+    },
+    {
+        "id": "MRD-083",
+        "name": "Guardian of the Labyrinth",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "89272878"
+    },
+    {
+        "id": "MRD-008",
+        "name": "Harpie Lady",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "76812113"
+    },
+    {
+        "id": "MRD-009",
+        "name": "Harpie Lady Sisters",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "12206212"
+    },
+    {
+        "id": "MRD-142",
+        "name": "Heavy Storm",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "19613556"
+    },
+    {
+        "id": "MRD-055",
+        "name": "Hibikime",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "64501875"
+    },
+    {
+        "id": "MRD-130",
+        "name": "Horn of Heaven",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "98069388"
+    },
+    {
+        "id": "MRD-102",
+        "name": "Hoshiningen",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "67629977"
+    },
+    {
+        "id": "MRD-049",
+        "name": "Hunter Spider",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "80141480"
+    },
+    {
+        "id": "MRD-054",
+        "name": "Hyosube",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "2118022"
+    },
+    {
+        "id": "MRD-068",
+        "name": "Illusionist Faceless Mage",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "28546905"
+    },
+    {
+        "id": "MRD-101",
+        "name": "Insect Soldiers of the Sky",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "7019529"
+    },
+    {
+        "id": "MRD-072",
+        "name": "Jellyfish",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "14851496"
+    },
+    {
+        "id": "MRD-035",
+        "name": "Jinzo #7",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "32809211"
+    },
+    {
+        "id": "MRD-089",
+        "name": "Jirai Gumo",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "94773007"
+    },
+    {
+        "id": "MRD-041",
+        "name": "Kaminari Attack",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "9653271"
+    },
+    {
+        "id": "MRD-026",
+        "name": "Kazejin",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "62340868"
+    },
+    {
+        "id": "MRD-006",
+        "name": "Killer Needle",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "88979991"
+    },
+    {
+        "id": "MRD-074",
+        "name": "King of Yamimakai",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "69455834"
+    },
+    {
+        "id": "MRD-010",
+        "name": "Kojikocy",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "1184620"
+    },
+    {
+        "id": "MRD-071",
+        "name": "Kuriboh",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "40640057"
+    },
+    {
+        "id": "MRD-091",
+        "name": "Labyrinth Tank",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "99551425"
+    },
+    {
+        "id": "MRD-119",
+        "name": "Lady of Faith",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "17358176"
+    },
+    {
+        "id": "MRD-007",
+        "name": "Larvae Moth",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "87756343"
+    },
+    {
+        "id": "MRD-095",
+        "name": "Launcher Spider",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "87322377"
+    },
+    {
+        "id": "MRD-115",
+        "name": "Lava Battleguard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "20394040"
+    },
+    {
+        "id": "MRD-031",
+        "name": "Leghul",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "12472242"
+    },
+    {
+        "id": "MRD-033",
+        "name": "Leogun",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "10538007"
+    },
+    {
+        "id": "MRD-117",
+        "name": "Little Chimera",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "68658728"
+    },
+    {
+        "id": "MRD-128",
+        "name": "Magic Jammer",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "77414722"
+    },
+    {
+        "id": "MRD-036",
+        "name": "Magician of Faith",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "31560081"
+    },
+    {
+        "id": "MRD-014",
+        "name": "Mask of Darkness",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "28933734"
+    },
+    {
+        "id": "MRD-019",
+        "name": "Masked Sorcerer",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "10189126"
+    },
+    {
+        "id": "MRD-044",
+        "name": "Mega Thunderball",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "21817254"
+    },
+    {
+        "id": "MRD-110",
+        "name": "Milus Radiant",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "7489323"
+    },
+    {
+        "id": "MRD-138",
+        "name": "Mirror Force",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "44095762"
+    },
+    {
+        "id": "MRD-043",
+        "name": "Morinphen",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "55784832"
+    },
+    {
+        "id": "MRD-107",
+        "name": "Muka Muka",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "46657337"
+    },
+    {
+        "id": "MRD-114",
+        "name": "Mushroom Man #2",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "93900406"
+    },
+    {
+        "id": "MRD-103",
+        "name": "Musician King",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "56907389"
+    },
+    {
+        "id": "MRD-076",
+        "name": "Mystic Horseman",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "68516705"
+    },
+    {
+        "id": "MRD-028",
+        "name": "Mystic Lamp",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "98049915"
+    },
+    {
+        "id": "MRD-112",
+        "name": "Niwatori",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "7805359"
+    },
+    {
+        "id": "MRD-030",
+        "name": "Ocubeam",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "86088138"
+    },
+    {
+        "id": "MRD-032",
+        "name": "Ooguchi",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "58861941"
+    },
+    {
+        "id": "MRD-047",
+        "name": "Pale Beast",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "21263083"
+    },
+    {
+        "id": "MRD-137",
+        "name": "Paralyzing Potion",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "50152549"
+    },
+    {
+        "id": "MRD-023",
+        "name": "Petit Moth",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "58192742"
+    },
+    {
+        "id": "MRD-084",
+        "name": "Prevent Rat",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "549481"
+    },
+    {
+        "id": "MRD-086",
+        "name": "Princess of Tsurugi",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "51371017"
+    },
+    {
+        "id": "MRD-087",
+        "name": "Protector of the Throne",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "10071456"
+    },
+    {
+        "id": "MRD-079",
+        "name": "Pumpking the King of Ghosts",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "29155212"
+    },
+    {
+        "id": "MRD-100",
+        "name": "Punished Eagle",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "74703140"
+    },
+    {
+        "id": "MRD-051",
+        "name": "Queen's Double",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "5901497"
+    },
+    {
+        "id": "MRD-077",
+        "name": "Rabid Horseman",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "94905343"
+    },
+    {
+        "id": "MRD-042",
+        "name": "Rainbow Flower",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "21347810"
+    },
+    {
+        "id": "MRD-139",
+        "name": "Ring of Magnetism",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "20436034"
+    },
+    {
+        "id": "MRD-020",
+        "name": "Roaring Ocean Snake",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "19066538"
+    },
+    {
+        "id": "MRD-135",
+        "name": "Robbin' Goblin",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "88279736"
+    },
+    {
+        "id": "MRD-004",
+        "name": "Rock Ogre Grotto #1",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "68846917"
+    },
+    {
+        "id": "MRD-092",
+        "name": "Ryu-Kishin Powered",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "24611934"
+    },
+    {
+        "id": "MRD-066",
+        "name": "Saggi the Dark Clown",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "66602787"
+    },
+    {
+        "id": "MRD-025",
+        "name": "Sanga of the Thunder",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "25955164"
+    },
+    {
+        "id": "MRD-069",
+        "name": "Sangan",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "26202165"
+    },
+    {
+        "id": "MRD-129",
+        "name": "Seven Tools of the Bandit",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "3819470"
+    },
+    {
+        "id": "MRD-090",
+        "name": "Shadow Ghoul",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "30778711"
+    },
+    {
+        "id": "MRD-140",
+        "name": "Share the Pain",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "56830749"
+    },
+    {
+        "id": "MRD-131",
+        "name": "Shield & Sword",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "52097679"
+    },
+    {
+        "id": "MRD-123",
+        "name": "Skull Knight",
+        "type": "Fusion Monster",
+        "rarity": "Common",
+        "imgId": "2504891"
+    },
+    {
+        "id": "MRD-127",
+        "name": "Solemn Judgment",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "41420027"
+    },
+    {
+        "id": "MRD-058",
+        "name": "Soul Release",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "5758500"
+    },
+    {
+        "id": "MRD-109",
+        "name": "Star Boy",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "8201910"
+    },
+    {
+        "id": "MRD-029",
+        "name": "Steel Scorpion",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "13599884"
+    },
+    {
+        "id": "MRD-141",
+        "name": "Stim-Pack",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "83225447"
+    },
+    {
+        "id": "MRD-027",
+        "name": "Suijin",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "98434877"
+    },
+    {
+        "id": "MRD-003",
+        "name": "Summoned Skull",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "70781052"
+    },
+    {
+        "id": "MRD-063",
+        "name": "Swamp Battleguard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "40453765"
+    },
+    {
+        "id": "MRD-132",
+        "name": "Sword of Deep-Seated",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "98495314"
+    },
+    {
+        "id": "MRD-081",
+        "name": "Tainted Wisdom",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "28725004"
+    },
+    {
+        "id": "MRD-108",
+        "name": "The Bistro Butcher",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "71107816"
+    },
+    {
+        "id": "MRD-059",
+        "name": "The Cheerful Coffin",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "41142615"
+    },
+    {
+        "id": "MRD-099",
+        "name": "The Immortal of Thunder",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "84926738"
+    },
+    {
+        "id": "MRD-085",
+        "name": "The Little Swordsman of Aile",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "25109950"
+    },
+    {
+        "id": "MRD-134",
+        "name": "The Unhappy Maiden",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "51275027"
+    },
+    {
+        "id": "MRD-143",
+        "name": "Thousand Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Secret Rare",
+        "imgId": "41462083"
+    },
+    {
+        "id": "MRD-097",
+        "name": "Thunder Dragon",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "31786629"
+    },
+    {
+        "id": "MRD-065",
+        "name": "Time Wizard",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "71625222"
+    },
+    {
+        "id": "MRD-045",
+        "name": "Tongyo",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "69572024"
+    },
+    {
+        "id": "MRD-088",
+        "name": "Tremendous Fire",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "46918794"
+    },
+    {
+        "id": "MRD-052",
+        "name": "Trent",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "78780140"
+    },
+    {
+        "id": "MRD-057",
+        "name": "Tribute to the Doomed",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "79759861"
+    },
+    {
+        "id": "MRD-120",
+        "name": "Twin-Headed Thunder Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "54752875"
+    },
+    {
+        "id": "MRD-021",
+        "name": "Water Omotics",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "2483611"
+    },
+    {
+        "id": "MRD-016",
+        "name": "White Magical Hat",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "15150365"
+    },
+    {
+        "id": "MRD-002",
+        "name": "Winged Dragon, Guardian of the Fortress #1",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "87796900"
+    },
+    {
+        "id": "MRD-116",
+        "name": "Witch of the Black Forest",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "78010363"
+    },
+    {
+        "id": "MRD-121",
+        "name": "Witch's Apprentice",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "80741828"
+    },
+    {
+        "id": "MRD-104",
+        "name": "Yado Karu",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "29380133"
+    }
+]

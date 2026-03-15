@@ -1,0 +1,814 @@
+[
+    {
+        "id": "IOC-104",
+        "name": "A Hero Emerges",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "21597117"
+    },
+    {
+        "id": "IOC-081",
+        "name": "Amphibious Bugroth MK-3",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "64342551"
+    },
+    {
+        "id": "IOC-076",
+        "name": "Anti-Aircraft Flower",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "65064143"
+    },
+    {
+        "id": "IOC-072",
+        "name": "Balloon Lizard",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "39892082"
+    },
+    {
+        "id": "IOC-107",
+        "name": "Begone, Knave!",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "20374520"
+    },
+    {
+        "id": "IOC-013",
+        "name": "Berserk Gorilla",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "39168895"
+    },
+    {
+        "id": "IOC-047",
+        "name": "Big Burn",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "95472621"
+    },
+    {
+        "id": "IOC-004",
+        "name": "Big Koala",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "42129512"
+    },
+    {
+        "id": "IOC-025",
+        "name": "Black Luster Soldier - Envoy of the Beginning",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "72989439"
+    },
+    {
+        "id": "IOC-075",
+        "name": "Black Tyranno",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "38670435"
+    },
+    {
+        "id": "IOC-048",
+        "name": "Blasting the Ruins",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "21466326"
+    },
+    {
+        "id": "IOC-061",
+        "name": "Blazing Inpachi",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "5464695"
+    },
+    {
+        "id": "IOC-029",
+        "name": "Bowganian",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "52090844"
+    },
+    {
+        "id": "IOC-062",
+        "name": "Burning Algae",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "41859700"
+    },
+    {
+        "id": "IOC-085",
+        "name": "Cannonball Spear Shellfish",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "95614612"
+    },
+    {
+        "id": "IOC-052",
+        "name": "Chain Disappearance",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "57139487"
+    },
+    {
+        "id": "IOC-000",
+        "name": "Chaos Emperor Dragon - Envoy of the End",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "82301904"
+    },
+    {
+        "id": "IOC-036",
+        "name": "Chaos End",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "61044390"
+    },
+    {
+        "id": "IOC-038",
+        "name": "Chaos Greed",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "97439308"
+    },
+    {
+        "id": "IOC-017",
+        "name": "Chaos Necromancer",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "1434352"
+    },
+    {
+        "id": "IOC-023",
+        "name": "Chaos Sorcerer",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "9596126"
+    },
+    {
+        "id": "IOC-018",
+        "name": "Chaosrider Gustaph",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "47829960"
+    },
+    {
+        "id": "IOC-010",
+        "name": "Chopman the Desperate Outlaw",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "40884383"
+    },
+    {
+        "id": "IOC-015",
+        "name": "Coach Goblin",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "42541548"
+    },
+    {
+        "id": "IOC-103",
+        "name": "Compulsory Evacuation Device",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "94192409"
+    },
+    {
+        "id": "IOC-006",
+        "name": "Crimson Ninja",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "14618326"
+    },
+    {
+        "id": "IOC-106",
+        "name": "Curse of Darkness",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "84970821"
+    },
+    {
+        "id": "IOC-049",
+        "name": "Cursed Seal of the Forbidden Spell",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "58851034"
+    },
+    {
+        "id": "IOC-040",
+        "name": "D.D. Borderline",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "60912752"
+    },
+    {
+        "id": "IOC-039",
+        "name": "D.D. Designator",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "33423043"
+    },
+    {
+        "id": "IOC-012",
+        "name": "D.D. Scout Plane",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "3773196"
+    },
+    {
+        "id": "IOC-073",
+        "name": "Dark Driceratops",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "65287621"
+    },
+    {
+        "id": "IOC-065",
+        "name": "Dark Magician of Chaos",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "40737112"
+    },
+    {
+        "id": "IOC-054",
+        "name": "Dark Mirror Force",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "20522190"
+    },
+    {
+        "id": "IOC-095",
+        "name": "Dedication through Light and Darkness",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "69542930"
+    },
+    {
+        "id": "IOC-005",
+        "name": "Des Kangaroo",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "78613627"
+    },
+    {
+        "id": "IOC-101",
+        "name": "Destruction Ring",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "21219755"
+    },
+    {
+        "id": "IOC-044",
+        "name": "Dimension Distortion",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "95194279"
+    },
+    {
+        "id": "IOC-094",
+        "name": "Dimension Fusion",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "23557835"
+    },
+    {
+        "id": "IOC-108",
+        "name": "DNA Transplant",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "56769674"
+    },
+    {
+        "id": "IOC-071",
+        "name": "Don Turtle",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "3493978"
+    },
+    {
+        "id": "IOC-026",
+        "name": "Drillago",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "99050989"
+    },
+    {
+        "id": "IOC-099",
+        "name": "Earth Chant",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "59820352"
+    },
+    {
+        "id": "IOC-055",
+        "name": "Energy Drain",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "56916805"
+    },
+    {
+        "id": "IOC-070",
+        "name": "Enraged Battle Ox",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "76909279"
+    },
+    {
+        "id": "IOC-020",
+        "name": "Fenrir",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "218704"
+    },
+    {
+        "id": "IOC-102",
+        "name": "Fiend's Hand Mirror",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "58607704"
+    },
+    {
+        "id": "IOC-014",
+        "name": "Freed the Brave Wanderer",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "16556849"
+    },
+    {
+        "id": "IOC-031",
+        "name": "Fuhma Shuriken",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "9373534"
+    },
+    {
+        "id": "IOC-008",
+        "name": "Gale Lizard",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "77491079"
+    },
+    {
+        "id": "IOC-SE1",
+        "name": "Gemini Elf",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "69140098"
+    },
+    {
+        "id": "IOC-089",
+        "name": "Getsu Fuhma",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "21887179"
+    },
+    {
+        "id": "IOC-056",
+        "name": "Giga Gagagigo",
+        "type": "Normal Monster",
+        "rarity": "Short Print",
+        "imgId": "43793530"
+    },
+    {
+        "id": "IOC-021",
+        "name": "Gigantes",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "47606319"
+    },
+    {
+        "id": "IOC-066",
+        "name": "Gora Turtle of Illusion",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "42868711"
+    },
+    {
+        "id": "IOC-030",
+        "name": "Granadora",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "13944422"
+    },
+    {
+        "id": "IOC-024",
+        "name": "Gren Maju Da Eiza",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "36584821"
+    },
+    {
+        "id": "IOC-091",
+        "name": "Gryphon's Feather Duster",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "34370473"
+    },
+    {
+        "id": "IOC-087",
+        "name": "Guardian Angel Joan",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "68007326"
+    },
+    {
+        "id": "IOC-032",
+        "name": "Heart of the Underdog",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "35762283"
+    },
+    {
+        "id": "IOC-074",
+        "name": "Hyper Hammerhead",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "2671330"
+    },
+    {
+        "id": "IOC-019",
+        "name": "Inferno",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "74823665"
+    },
+    {
+        "id": "IOC-080",
+        "name": "Insect Princess",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "37957847"
+    },
+    {
+        "id": "IOC-111",
+        "name": "Invader of Darkness",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "56647086"
+    },
+    {
+        "id": "IOC-100",
+        "name": "Jade Insect Whistle",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "95214051"
+    },
+    {
+        "id": "IOC-SE4",
+        "name": "Lava Golem",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "102380"
+    },
+    {
+        "id": "IOC-027",
+        "name": "Lekunga",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "62543393"
+    },
+    {
+        "id": "IOC-083",
+        "name": "Levia-Dragon - Daedalus",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "37721209"
+    },
+    {
+        "id": "IOC-028",
+        "name": "Lord Poison",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "40320754"
+    },
+    {
+        "id": "IOC-057",
+        "name": "Mad Dog of Darkness",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "79182538"
+    },
+    {
+        "id": "IOC-SE2",
+        "name": "Magic Cylinder",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "62279055"
+    },
+    {
+        "id": "IOC-088",
+        "name": "Manju of the Ten Thousand Hands",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "95492061"
+    },
+    {
+        "id": "IOC-067",
+        "name": "Manticore of Darkness",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "77121851"
+    },
+    {
+        "id": "IOC-086",
+        "name": "Mataza the Zapper",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "22609617"
+    },
+    {
+        "id": "IOC-064",
+        "name": "Molten Zombie",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "4732017"
+    },
+    {
+        "id": "IOC-098",
+        "name": "Multiplication of Ants",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "22493811"
+    },
+    {
+        "id": "IOC-058",
+        "name": "Neo Bug",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "16587243"
+    },
+    {
+        "id": "IOC-002",
+        "name": "Ojama Black",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "79335209"
+    },
+    {
+        "id": "IOC-034",
+        "name": "Ojama Delta Hurricane!!",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "8251996"
+    },
+    {
+        "id": "IOC-001",
+        "name": "Ojama Yellow",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "42941100"
+    },
+    {
+        "id": "IOC-084",
+        "name": "Orca Mega-Fortress of Darkness",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "63120904"
+    },
+    {
+        "id": "IOC-078",
+        "name": "Pinch Hopper",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "26185991"
+    },
+    {
+        "id": "IOC-077",
+        "name": "Prickle Fairy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "91559748"
+    },
+    {
+        "id": "IOC-042",
+        "name": "Primal Seed",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "23701465"
+    },
+    {
+        "id": "IOC-041",
+        "name": "Recycle",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "96316857"
+    },
+    {
+        "id": "IOC-045",
+        "name": "Reload",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "22589918"
+    },
+    {
+        "id": "IOC-SE3",
+        "name": "Ring of Destruction",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "83555666"
+    },
+    {
+        "id": "IOC-109",
+        "name": "Robbin' Zombie",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "83258273"
+    },
+    {
+        "id": "IOC-090",
+        "name": "Ryu Kokki",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "57281778"
+    },
+    {
+        "id": "IOC-069",
+        "name": "Sacred Crane",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "30914564"
+    },
+    {
+        "id": "IOC-096",
+        "name": "Salvage",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "96947648"
+    },
+    {
+        "id": "IOC-011",
+        "name": "Sasuke Samurai #3",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "77379481"
+    },
+    {
+        "id": "IOC-059",
+        "name": "Sea Serpent Warrior of Darkness",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "42071342"
+    },
+    {
+        "id": "IOC-105",
+        "name": "Self-Destruct Button",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "57585212"
+    },
+    {
+        "id": "IOC-022",
+        "name": "Silpheed",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "73001017"
+    },
+    {
+        "id": "IOC-079",
+        "name": "Skull-Mark Ladybug",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "64306248"
+    },
+    {
+        "id": "IOC-093",
+        "name": "Smashing Ground",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "97169186"
+    },
+    {
+        "id": "IOC-046",
+        "name": "Soul Absorption",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "68073522"
+    },
+    {
+        "id": "IOC-003",
+        "name": "Soul Tiger",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "15734813"
+    },
+    {
+        "id": "IOC-051",
+        "name": "Spatial Collapse",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "20644748"
+    },
+    {
+        "id": "IOC-009",
+        "name": "Spirit of the Pot of Greed",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "4896788"
+    },
+    {
+        "id": "IOC-068",
+        "name": "Stealth Bird",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "3510565"
+    },
+    {
+        "id": "IOC-092",
+        "name": "Stray Lambs",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "60764581"
+    },
+    {
+        "id": "IOC-007",
+        "name": "Strike Ninja",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "41006930"
+    },
+    {
+        "id": "IOC-035",
+        "name": "Stumbling",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "34646691"
+    },
+    {
+        "id": "IOC-060",
+        "name": "Terrorking Salmon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "78060096"
+    },
+    {
+        "id": "IOC-063",
+        "name": "The Thing in the Crater",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "78243409"
+    },
+    {
+        "id": "IOC-043",
+        "name": "Thunder Crash",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "69196160"
+    },
+    {
+        "id": "IOC-082",
+        "name": "Torpedo Fish",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "90337190"
+    },
+    {
+        "id": "IOC-050",
+        "name": "Tower of Babel",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "94256039"
+    },
+    {
+        "id": "IOC-110",
+        "name": "Trap Jammer",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "19252988"
+    },
+    {
+        "id": "IOC-097",
+        "name": "Ultra Evolution Pill",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "22431243"
+    },
+    {
+        "id": "IOC-033",
+        "name": "Wild Nature's Release",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "61166988"
+    },
+    {
+        "id": "IOC-016",
+        "name": "Witch Doctor of Chaos",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "75946257"
+    },
+    {
+        "id": "IOC-037",
+        "name": "Yellow Luster Shield",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "4542651"
+    },
+    {
+        "id": "IOC-053",
+        "name": "Zero Gravity",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "83133491"
+    }
+]

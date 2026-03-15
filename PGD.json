@@ -1,0 +1,758 @@
+[
+    {
+        "id": "PGD-024",
+        "name": "8-Claws Scorpion",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "14261867"
+    },
+    {
+        "id": "PGD-070",
+        "name": "A Cat of Ill Omen",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "24140059"
+    },
+    {
+        "id": "PGD-068",
+        "name": "A Man with Wdjat",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "51351302"
+    },
+    {
+        "id": "PGD-073",
+        "name": "An Owl of Luck",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "23927567"
+    },
+    {
+        "id": "PGD-007",
+        "name": "Arsenal Bug",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "42364374"
+    },
+    {
+        "id": "PGD-089",
+        "name": "Banner of Courage",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "10012614"
+    },
+    {
+        "id": "PGD-095",
+        "name": "Barrel Behind the Door",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "78783370"
+    },
+    {
+        "id": "PGD-005",
+        "name": "Birdface",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "45547649"
+    },
+    {
+        "id": "PGD-033",
+        "name": "Book of Life",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "2204140"
+    },
+    {
+        "id": "PGD-035",
+        "name": "Book of Moon",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "14087893"
+    },
+    {
+        "id": "PGD-034",
+        "name": "Book of Taiyou",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "38699854"
+    },
+    {
+        "id": "PGD-043",
+        "name": "Bottomless Shifting Sand",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "76532077"
+    },
+    {
+        "id": "PGD-085",
+        "name": "Buster Rancher",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "84740193"
+    },
+    {
+        "id": "PGD-103",
+        "name": "Byser Shock",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "17597059"
+    },
+    {
+        "id": "PGD-038",
+        "name": "Call of the Mummy",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "4861205"
+    },
+    {
+        "id": "PGD-080",
+        "name": "Card Shuffle",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "12183332"
+    },
+    {
+        "id": "PGD-074",
+        "name": "Charm of Shabti",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "50412166"
+    },
+    {
+        "id": "PGD-075",
+        "name": "Cobra Jar",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "86801871"
+    },
+    {
+        "id": "PGD-032",
+        "name": "Cobraman Sakuzy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "75109441"
+    },
+    {
+        "id": "PGD-093",
+        "name": "Coffin Seller",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "65830223"
+    },
+    {
+        "id": "PGD-094",
+        "name": "Curse of Aging",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "41398771"
+    },
+    {
+        "id": "PGD-044",
+        "name": "Curse of Royal",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "2926176"
+    },
+    {
+        "id": "PGD-102",
+        "name": "D. Tribe",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "2833249"
+    },
+    {
+        "id": "PGD-047",
+        "name": "Dark Coffin",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "1804528"
+    },
+    {
+        "id": "PGD-079",
+        "name": "Dark Designator",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "78053598"
+    },
+    {
+        "id": "PGD-017",
+        "name": "Dark Dust Spirit",
+        "type": "Spirit Monster",
+        "rarity": "Short Print",
+        "imgId": "89111398"
+    },
+    {
+        "id": "PGD-056",
+        "name": "Dark Jeroid",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "90980792"
+    },
+    {
+        "id": "PGD-082",
+        "name": "Dark Room of Nightmare",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "85562745"
+    },
+    {
+        "id": "PGD-028",
+        "name": "Dark Scorpion Burglars",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "40933924"
+    },
+    {
+        "id": "PGD-087",
+        "name": "Dark Snake Syndrome",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "47233801"
+    },
+    {
+        "id": "PGD-030",
+        "name": "Des Lacooda",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "2326738"
+    },
+    {
+        "id": "PGD-027",
+        "name": "Dice Jar",
+        "type": "Flip Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "3549275"
+    },
+    {
+        "id": "PGD-083",
+        "name": "Different Dimension Capsule",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "11961740"
+    },
+    {
+        "id": "PGD-098",
+        "name": "Disturbance Strategy",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "77561728"
+    },
+    {
+        "id": "PGD-029",
+        "name": "Don Zaloog",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "76922029"
+    },
+    {
+        "id": "PGD-031",
+        "name": "Fushioh Richie",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "39711336"
+    },
+    {
+        "id": "PGD-023",
+        "name": "Giant Axe Mummy",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "78266168"
+    },
+    {
+        "id": "PGD-014",
+        "name": "Gora Turtle",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "80233946"
+    },
+    {
+        "id": "PGD-067",
+        "name": "Gravekeeper's Assailant",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "25262697"
+    },
+    {
+        "id": "PGD-066",
+        "name": "Gravekeeper's Cannonholder",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "99877698"
+    },
+    {
+        "id": "PGD-065",
+        "name": "Gravekeeper's Chief",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "62473983"
+    },
+    {
+        "id": "PGD-060",
+        "name": "Gravekeeper's Curse",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "50712728"
+    },
+    {
+        "id": "PGD-061",
+        "name": "Gravekeeper's Guard",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "37101832"
+    },
+    {
+        "id": "PGD-062",
+        "name": "Gravekeeper's Spear Soldier",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "63695531"
+    },
+    {
+        "id": "PGD-059",
+        "name": "Gravekeeper's Spy",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "24317029"
+    },
+    {
+        "id": "PGD-063",
+        "name": "Gravekeeper's Vassal",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "99690140"
+    },
+    {
+        "id": "PGD-064",
+        "name": "Gravekeeper's Watcher",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "26084285"
+    },
+    {
+        "id": "PGD-020",
+        "name": "Great Dezard",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "88989706"
+    },
+    {
+        "id": "PGD-025",
+        "name": "Guardian Sphinx",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "40659562"
+    },
+    {
+        "id": "PGD-058",
+        "name": "Helpoemer",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "76052811"
+    },
+    {
+        "id": "PGD-086",
+        "name": "Hieroglyph Lithograph",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "10248192"
+    },
+    {
+        "id": "PGD-055",
+        "name": "Inpachi",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "97923414"
+    },
+    {
+        "id": "PGD-009",
+        "name": "Jowls of Dark Demise",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "5257687"
+    },
+    {
+        "id": "PGD-054",
+        "name": "Kabazauls",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "51934376"
+    },
+    {
+        "id": "PGD-004",
+        "name": "King Tiger Wanghu",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "83986578"
+    },
+    {
+        "id": "PGD-006",
+        "name": "Kryuel",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "82642348"
+    },
+    {
+        "id": "PGD-107",
+        "name": "Lava Golem",
+        "type": "Effect Monster",
+        "rarity": "Secret Rare",
+        "imgId": "102380"
+    },
+    {
+        "id": "PGD-008",
+        "name": "Maiden of the Aqua",
+        "type": "Effect Monster",
+        "rarity": "Short Print",
+        "imgId": "17214465"
+    },
+    {
+        "id": "PGD-053",
+        "name": "Master Kyonshee",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "24530661"
+    },
+    {
+        "id": "PGD-090",
+        "name": "Metamorphosis",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "46411259"
+    },
+    {
+        "id": "PGD-036",
+        "name": "Mirage of Nightmare",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "41482598"
+    },
+    {
+        "id": "PGD-013",
+        "name": "Moisture Creature",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "75285069"
+    },
+    {
+        "id": "PGD-001",
+        "name": "Molten Behemoth",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "17192817"
+    },
+    {
+        "id": "PGD-011",
+        "name": "Mucus Yolk",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "70307656"
+    },
+    {
+        "id": "PGD-069",
+        "name": "Mystical Knight of Jackal",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "98745000"
+    },
+    {
+        "id": "PGD-097",
+        "name": "Narrow Pass",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "40172183"
+    },
+    {
+        "id": "PGD-084",
+        "name": "Necrovalley",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "47355498"
+    },
+    {
+        "id": "PGD-045",
+        "name": "Needle Ceiling",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "38411870"
+    },
+    {
+        "id": "PGD-048",
+        "name": "Needle Wall",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "38299233"
+    },
+    {
+        "id": "PGD-057",
+        "name": "Newdoria",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "4335645"
+    },
+    {
+        "id": "PGD-077",
+        "name": "Nightmare Horse",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "59290628"
+    },
+    {
+        "id": "PGD-106",
+        "name": "Nightmare Wheel",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "54704216"
+    },
+    {
+        "id": "PGD-101",
+        "name": "Non Aggression Area",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "76848240"
+    },
+    {
+        "id": "PGD-042",
+        "name": "Ordeal of a Traveler",
+        "type": "Trap Card",
+        "rarity": "Short Print",
+        "imgId": "39537362"
+    },
+    {
+        "id": "PGD-052",
+        "name": "Pharaoh's Treasure",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "63571750"
+    },
+    {
+        "id": "PGD-016",
+        "name": "Poison Mummy",
+        "type": "Flip Effect Monster",
+        "rarity": "Common",
+        "imgId": "43716289"
+    },
+    {
+        "id": "PGD-040",
+        "name": "Pyramid Energy",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "76754619"
+    },
+    {
+        "id": "PGD-026",
+        "name": "Pyramid Turtle",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "77044671"
+    },
+    {
+        "id": "PGD-050",
+        "name": "Pyro Clock of Destiny",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "1082946"
+    },
+    {
+        "id": "PGD-104",
+        "name": "Question",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "38723936"
+    },
+    {
+        "id": "PGD-096",
+        "name": "Raigeki Break",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "4178474"
+    },
+    {
+        "id": "PGD-078",
+        "name": "Reaper on the Nightmare",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "85684223"
+    },
+    {
+        "id": "PGD-081",
+        "name": "Reasoning",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "58577036"
+    },
+    {
+        "id": "PGD-051",
+        "name": "Reckless Greed",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "37576645"
+    },
+    {
+        "id": "PGD-092",
+        "name": "Reversal Quiz",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "5990062"
+    },
+    {
+        "id": "PGD-000",
+        "name": "Ring of Destruction",
+        "type": "Trap Card",
+        "rarity": "Secret Rare",
+        "imgId": "83555666"
+    },
+    {
+        "id": "PGD-100",
+        "name": "Rite of Spirit",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "30450531"
+    },
+    {
+        "id": "PGD-105",
+        "name": "Rope of Life",
+        "type": "Trap Card",
+        "rarity": "Ultra Rare",
+        "imgId": "93382620"
+    },
+    {
+        "id": "PGD-018",
+        "name": "Royal Keeper",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "16509093"
+    },
+    {
+        "id": "PGD-091",
+        "name": "Royal Tribute",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "72405967"
+    },
+    {
+        "id": "PGD-015",
+        "name": "Sasuke Samurai",
+        "type": "Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "16222645"
+    },
+    {
+        "id": "PGD-037",
+        "name": "Secret Pass to the Treasures",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "77876207"
+    },
+    {
+        "id": "PGD-012",
+        "name": "Servant of Catabolism",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "2792265"
+    },
+    {
+        "id": "PGD-002",
+        "name": "Shapesnatch",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "4035199"
+    },
+    {
+        "id": "PGD-003",
+        "name": "Souleater",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "31242786"
+    },
+    {
+        "id": "PGD-076",
+        "name": "Spirit Reaper",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "23205979"
+    },
+    {
+        "id": "PGD-046",
+        "name": "Statue of the Wicked",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "65810489"
+    },
+    {
+        "id": "PGD-022",
+        "name": "Swarm of Locusts",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "41872150"
+    },
+    {
+        "id": "PGD-021",
+        "name": "Swarm of Scarabs",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "15383415"
+    },
+    {
+        "id": "PGD-088",
+        "name": "Terraforming",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "73628505"
+    },
+    {
+        "id": "PGD-010",
+        "name": "Timeater",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "44913552"
+    },
+    {
+        "id": "PGD-039",
+        "name": "Timidity",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "40350910"
+    },
+    {
+        "id": "PGD-049",
+        "name": "Trap Dustshoot",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "64697231"
+    },
+    {
+        "id": "PGD-099",
+        "name": "Trap of Board Eraser",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "3055837"
+    },
+    {
+        "id": "PGD-041",
+        "name": "Tutan Mask",
+        "type": "Trap Card",
+        "rarity": "Common",
+        "imgId": "3149764"
+    },
+    {
+        "id": "PGD-019",
+        "name": "Wandering Mummy",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "42994702"
+    },
+    {
+        "id": "PGD-072",
+        "name": "Winged Sage Falcos",
+        "type": "Effect Monster",
+        "rarity": "Rare",
+        "imgId": "87523462"
+    },
+    {
+        "id": "PGD-071",
+        "name": "Yomi Ship",
+        "type": "Effect Monster",
+        "rarity": "Common",
+        "imgId": "51534754"
+    }
+]

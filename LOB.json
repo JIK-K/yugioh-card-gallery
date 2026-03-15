@@ -1,0 +1,884 @@
+[
+    {
+        "id": "LOB-027",
+        "name": "Aqua Madoor",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "85639257"
+    },
+    {
+        "id": "LOB-079",
+        "name": "Armaill",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "53153481"
+    },
+    {
+        "id": "LOB-106",
+        "name": "Armed Ninja",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "9076207"
+    },
+    {
+        "id": "LOB-116",
+        "name": "Armored Starfish",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "17535588"
+    },
+    {
+        "id": "LOB-008",
+        "name": "Basic Insect",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "89091579"
+    },
+    {
+        "id": "LOB-041",
+        "name": "Beast Fangs",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "46009906"
+    },
+    {
+        "id": "LOB-064",
+        "name": "Beaver Warrior",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "32452818"
+    },
+    {
+        "id": "LOB-001",
+        "name": "Blue-Eyes White Dragon",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "89631139"
+    },
+    {
+        "id": "LOB-043",
+        "name": "Book of Secret Arts",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "91595718"
+    },
+    {
+        "id": "LOB-007",
+        "name": "Celtic Guardian",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "91152256"
+    },
+    {
+        "id": "LOB-015",
+        "name": "Charubin the Fire Knight",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "37421579"
+    },
+    {
+        "id": "LOB-066",
+        "name": "Curse of Dragon",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "28279543"
+    },
+    {
+        "id": "LOB-088",
+        "name": "Dark Energy",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "4614116"
+    },
+    {
+        "id": "LOB-011",
+        "name": "Dark Gray",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "9159938"
+    },
+    {
+        "id": "LOB-052",
+        "name": "Dark Hole",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "53129443"
+    },
+    {
+        "id": "LOB-020",
+        "name": "Dark King of the Abyss",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "53375573"
+    },
+    {
+        "id": "LOB-005",
+        "name": "Dark Magician",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "46986414"
+    },
+    {
+        "id": "LOB-019",
+        "name": "Darkfire Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "17881964"
+    },
+    {
+        "id": "LOB-114",
+        "name": "Darkworld Thorns",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "43500484"
+    },
+    {
+        "id": "LOB-031",
+        "name": "Dissolverock",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "40826495"
+    },
+    {
+        "id": "LOB-045",
+        "name": "Dragon Capture Jar",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "50045299"
+    },
+    {
+        "id": "LOB-092",
+        "name": "Dragon Treasure",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "1435851"
+    },
+    {
+        "id": "LOB-086",
+        "name": "Dragoness the Wicked Knight",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "70681994"
+    },
+    {
+        "id": "LOB-115",
+        "name": "Drooling Lizard",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "16353197"
+    },
+    {
+        "id": "LOB-093",
+        "name": "Electro-Whip",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "37820550"
+    },
+    {
+        "id": "LOB-084",
+        "name": "Enchanting Mermaid",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "75376965"
+    },
+    {
+        "id": "LOB-124",
+        "name": "Exodia the Forbidden One",
+        "type": "Effect Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "33396948"
+    },
+    {
+        "id": "LOB-021",
+        "name": "Fiend Reflection #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "2863439"
+    },
+    {
+        "id": "LOB-100",
+        "name": "Final Flame",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "73134082"
+    },
+    {
+        "id": "LOB-018",
+        "name": "Firegrass",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "53293545"
+    },
+    {
+        "id": "LOB-085",
+        "name": "Fireyarou",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "71407486"
+    },
+    {
+        "id": "LOB-057",
+        "name": "Fissure",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "66788016"
+    },
+    {
+        "id": "LOB-029",
+        "name": "Flame Ghost",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "58528964"
+    },
+    {
+        "id": "LOB-016",
+        "name": "Flame Manipulator",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "34460851"
+    },
+    {
+        "id": "LOB-003",
+        "name": "Flame Swordsman",
+        "type": "Fusion Monster",
+        "rarity": "Super Rare",
+        "imgId": "45231177"
+    },
+    {
+        "id": "LOB-107",
+        "name": "Flower Wolf",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "95952802"
+    },
+    {
+        "id": "LOB-098",
+        "name": "Follow Wind",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "98252586"
+    },
+    {
+        "id": "LOB-046",
+        "name": "Forest",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "87430998"
+    },
+    {
+        "id": "LOB-081",
+        "name": "Frenzied Panda",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "98818516"
+    },
+    {
+        "id": "LOB-022",
+        "name": "Fusionist",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "1641882"
+    },
+    {
+        "id": "LOB-125",
+        "name": "Gaia the Dragon Champion",
+        "type": "Fusion Monster",
+        "rarity": "Secret Rare",
+        "imgId": "66889139"
+    },
+    {
+        "id": "LOB-006",
+        "name": "Gaia The Fierce Knight",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "6368038"
+    },
+    {
+        "id": "LOB-068",
+        "name": "Giant Soldier of Stone",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "13039848"
+    },
+    {
+        "id": "LOB-099",
+        "name": "Goblin's Secret Remedy",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "11868825"
+    },
+    {
+        "id": "LOB-065",
+        "name": "Gravedigger Ghoul",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "82542267"
+    },
+    {
+        "id": "LOB-034",
+        "name": "Green Phantom King",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "22910685"
+    },
+    {
+        "id": "LOB-110",
+        "name": "Hane-Hane",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "7089711"
+    },
+    {
+        "id": "LOB-074",
+        "name": "Hard Armor",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "20060230"
+    },
+    {
+        "id": "LOB-056",
+        "name": "Hinotama",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "46130346"
+    },
+    {
+        "id": "LOB-026",
+        "name": "Hinotama Soul",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "96851799"
+    },
+    {
+        "id": "LOB-002",
+        "name": "Hitotsu-Me Giant",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "76184692"
+    },
+    {
+        "id": "LOB-028",
+        "name": "Kagemusha of the Blue Flame",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "15401633"
+    },
+    {
+        "id": "LOB-067",
+        "name": "Karbonala Warrior",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "54541900"
+    },
+    {
+        "id": "LOB-036",
+        "name": "King Fog",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "84686841"
+    },
+    {
+        "id": "LOB-082",
+        "name": "Kumootoko",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "56283725"
+    },
+    {
+        "id": "LOB-039",
+        "name": "Kurama",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "85705804"
+    },
+    {
+        "id": "LOB-073",
+        "name": "Larvas",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "94675535"
+    },
+    {
+        "id": "LOB-089",
+        "name": "Laser Cannon Armor",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "77007920"
+    },
+    {
+        "id": "LOB-123",
+        "name": "Left Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "7902349"
+    },
+    {
+        "id": "LOB-121",
+        "name": "Left Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "44519536"
+    },
+    {
+        "id": "LOB-040",
+        "name": "Legendary Sword",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "61854111"
+    },
+    {
+        "id": "LOB-113",
+        "name": "Lesser Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "55444629"
+    },
+    {
+        "id": "LOB-076",
+        "name": "M-Warrior #1",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "56342351"
+    },
+    {
+        "id": "LOB-077",
+        "name": "M-Warrior #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "92731455"
+    },
+    {
+        "id": "LOB-096",
+        "name": "Machine Conversion Factory",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "25769732"
+    },
+    {
+        "id": "LOB-009",
+        "name": "Mammoth Graveyard",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "40374923"
+    },
+    {
+        "id": "LOB-075",
+        "name": "Man Eater",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "93553943"
+    },
+    {
+        "id": "LOB-108",
+        "name": "Man-Eater Bug",
+        "type": "Flip Effect Monster",
+        "rarity": "Super Rare",
+        "imgId": "54652250"
+    },
+    {
+        "id": "LOB-038",
+        "name": "Masaki the Legendary Swordsman",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "44287299"
+    },
+    {
+        "id": "LOB-083",
+        "name": "Meda Bat",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "76211194"
+    },
+    {
+        "id": "LOB-102",
+        "name": "Metal Dragon",
+        "type": "Fusion Monster",
+        "rarity": "Rare",
+        "imgId": "9293977"
+    },
+    {
+        "id": "LOB-111",
+        "name": "Misairuzame",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "33178416"
+    },
+    {
+        "id": "LOB-017",
+        "name": "Monster Egg",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "36121917"
+    },
+    {
+        "id": "LOB-118",
+        "name": "Monster Reborn",
+        "type": "Spell Card",
+        "rarity": "Ultra Rare",
+        "imgId": "83764719"
+    },
+    {
+        "id": "LOB-048",
+        "name": "Mountain",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "50913601"
+    },
+    {
+        "id": "LOB-062",
+        "name": "Mystical Elf",
+        "type": "Normal Monster",
+        "rarity": "Super Rare",
+        "imgId": "15025844"
+    },
+    {
+        "id": "LOB-094",
+        "name": "Mystical Moon",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "36607978"
+    },
+    {
+        "id": "LOB-037",
+        "name": "Mystical Sheep #2",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "83464209"
+    },
+    {
+        "id": "LOB-013",
+        "name": "Nemuriko",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "90963488"
+    },
+    {
+        "id": "LOB-087",
+        "name": "One-Eyed Shield Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "33064647"
+    },
+    {
+        "id": "LOB-025",
+        "name": "Petit Angel",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "38142739"
+    },
+    {
+        "id": "LOB-024",
+        "name": "Petit Dragon",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "75356564"
+    },
+    {
+        "id": "LOB-059",
+        "name": "Polymerization",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "24094653"
+    },
+    {
+        "id": "LOB-119",
+        "name": "Pot of Greed",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "55144522"
+    },
+    {
+        "id": "LOB-044",
+        "name": "Power of Kaishin",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "77027445"
+    },
+    {
+        "id": "LOB-053",
+        "name": "Raigeki",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "12580477"
+    },
+    {
+        "id": "LOB-097",
+        "name": "Raise Body Heat",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "51267887"
+    },
+    {
+        "id": "LOB-035",
+        "name": "Ray & Temperature",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "85309439"
+    },
+    {
+        "id": "LOB-071",
+        "name": "Reaper of the Cards",
+        "type": "Flip Effect Monster",
+        "rarity": "Rare",
+        "imgId": "33066139"
+    },
+    {
+        "id": "LOB-054",
+        "name": "Red Medicine",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "38199696"
+    },
+    {
+        "id": "LOB-070",
+        "name": "Red-Eyes Black Dragon",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "74677422"
+    },
+    {
+        "id": "LOB-060",
+        "name": "Remove Trap",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "51482758"
+    },
+    {
+        "id": "LOB-122",
+        "name": "Right Arm of the Forbidden One",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "70903634"
+    },
+    {
+        "id": "LOB-120",
+        "name": "Right Leg of the Forbidden One",
+        "type": "Normal Monster",
+        "rarity": "Ultra Rare",
+        "imgId": "8124921"
+    },
+    {
+        "id": "LOB-032",
+        "name": "Root Water",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "39004808"
+    },
+    {
+        "id": "LOB-109",
+        "name": "Sand Stone",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "73051941"
+    },
+    {
+        "id": "LOB-091",
+        "name": "Silver Bow and Arrow",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "1557499"
+    },
+    {
+        "id": "LOB-010",
+        "name": "Silver Fang",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "90357090"
+    },
+    {
+        "id": "LOB-105",
+        "name": "Skull Red Bird",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "10202894"
+    },
+    {
+        "id": "LOB-004",
+        "name": "Skull Servant",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "32274490"
+    },
+    {
+        "id": "LOB-049",
+        "name": "Sogen",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "86318356"
+    },
+    {
+        "id": "LOB-055",
+        "name": "Sparks",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "76103675"
+    },
+    {
+        "id": "LOB-103",
+        "name": "Spike Seadra",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "85326399"
+    },
+    {
+        "id": "LOB-078",
+        "name": "Spirit of the Harp",
+        "type": "Normal Monster",
+        "rarity": "Rare",
+        "imgId": "80770678"
+    },
+    {
+        "id": "LOB-112",
+        "name": "Steel Ogre Grotto #1",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "29172562"
+    },
+    {
+        "id": "LOB-095",
+        "name": "Stop Defense",
+        "type": "Spell Card",
+        "rarity": "Rare",
+        "imgId": "63102017"
+    },
+    {
+        "id": "LOB-117",
+        "name": "Succubus Knight",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "55291359"
+    },
+    {
+        "id": "LOB-101",
+        "name": "Swords of Revealing Light",
+        "type": "Spell Card",
+        "rarity": "Super Rare",
+        "imgId": "72302403"
+    },
+    {
+        "id": "LOB-080",
+        "name": "Terra the Terrible",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "63308047"
+    },
+    {
+        "id": "LOB-014",
+        "name": "The 13th Grave",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "32864"
+    },
+    {
+        "id": "LOB-033",
+        "name": "The Furious Sea King",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "18710707"
+    },
+    {
+        "id": "LOB-058",
+        "name": "Trap Hole",
+        "type": "Trap Card",
+        "rarity": "Super Rare",
+        "imgId": "4206964"
+    },
+    {
+        "id": "LOB-000",
+        "name": "Tri-Horned Dragon",
+        "type": "Normal Monster",
+        "rarity": "Secret Rare",
+        "imgId": "39111158"
+    },
+    {
+        "id": "LOB-012",
+        "name": "Trial of Nightmare",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "77827521"
+    },
+    {
+        "id": "LOB-104",
+        "name": "Tripwire Beast",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "45042329"
+    },
+    {
+        "id": "LOB-023",
+        "name": "Turtle Tiger",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "37313348"
+    },
+    {
+        "id": "LOB-030",
+        "name": "Two-Mouth Darkruler",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "57305373"
+    },
+    {
+        "id": "LOB-061",
+        "name": "Two-Pronged Attack",
+        "type": "Trap Card",
+        "rarity": "Rare",
+        "imgId": "83887306"
+    },
+    {
+        "id": "LOB-063",
+        "name": "Tyhone",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "72842870"
+    },
+    {
+        "id": "LOB-050",
+        "name": "Umi",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "22702055"
+    },
+    {
+        "id": "LOB-069",
+        "name": "Uraby",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "1784619"
+    },
+    {
+        "id": "LOB-090",
+        "name": "Vile Germs",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "39774685"
+    },
+    {
+        "id": "LOB-042",
+        "name": "Violet Crystal",
+        "type": "Spell Card",
+        "rarity": "Short Print",
+        "imgId": "15052462"
+    },
+    {
+        "id": "LOB-047",
+        "name": "Wasteland",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "23424603"
+    },
+    {
+        "id": "LOB-072",
+        "name": "Witty Phantom",
+        "type": "Normal Monster",
+        "rarity": "Common",
+        "imgId": "36304921"
+    },
+    {
+        "id": "LOB-051",
+        "name": "Yami",
+        "type": "Spell Card",
+        "rarity": "Common",
+        "imgId": "59197169"
+    }
+]
