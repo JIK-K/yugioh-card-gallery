@@ -13,9 +13,7 @@
     0 0 0 1px rgba(80, 80, 80, 0.35);
 }
 
-[data-rarity="Common"] .card__shine,
 [data-rarity="Common"] .card-shine,
-[data-rarity="Short Print"] .card__shine,
 [data-rarity="Short Print"] .card-shine {
   opacity: calc(var(--card-opacity) * 0.45);
   transition:
@@ -23,9 +21,7 @@
     background-position 0.1s;
 }
 
-[data-rarity="Common"] .card__glare,
 [data-rarity="Common"] .card-glare,
-[data-rarity="Short Print"] .card__glare,
 [data-rarity="Short Print"] .card-glare {
   background-image: radial-gradient(
     farthest-corner circle at var(--pointer-x) var(--pointer-y),

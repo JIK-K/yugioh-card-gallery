@@ -18,7 +18,6 @@
    SHINE
    ══════════════════════════════════════════════════════════ */
 
-[data-rarity="Rare"] .card__shine,
 [data-rarity="Rare"] .card-shine {
 
   --space: 5%;
@@ -53,7 +52,6 @@
 
 /* ── shine ::after — sunpillar saturation ── */
 
-[data-rarity="Rare"] .card__shine::after,
 [data-rarity="Rare"] .card-shine::after {
   content: "";
   position: absolute;
@@ -83,7 +81,6 @@
 
 /* ── shine ::before — 마우스 위치 불빛 ── */
 
-[data-rarity="Rare"] .card__shine::before,
 [data-rarity="Rare"] .card-shine::before {
   content: "";
   position: absolute;
@@ -108,7 +105,6 @@
    GLARE
    ══════════════════════════════════════════════════════════ */
 
-[data-rarity="Rare"] .card__glare,
 [data-rarity="Rare"] .card-glare {
   background-image: radial-gradient(
     farthest-corner circle at var(--pointer-x) var(--pointer-y),
