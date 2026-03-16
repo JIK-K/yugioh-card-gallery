@@ -1,728 +1,728 @@
 [
     {
         "id": "PSV-088",
-        "name": "4-Starred Ladybug of Doom",
+        "name": "죽음의 4성 무당벌레",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "83994646"
     },
     {
         "id": "PSV-004",
-        "name": "7 Completed",
+        "name": "7 카드",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "86198326"
     },
     {
         "id": "PSV-024",
-        "name": "Appropriate",
+        "name": "편승",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "48539234"
     },
     {
         "id": "PSV-019",
-        "name": "Armored Glass",
+        "name": "유리 갑옷",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "36868108"
     },
     {
         "id": "PSV-054",
-        "name": "Attack and Receive",
+        "name": "백병전",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "63689843"
     },
     {
         "id": "PSV-028",
-        "name": "Backup Soldier",
+        "name": "보충 요원",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "36280194"
     },
     {
         "id": "PSV-103",
-        "name": "Beast of Talwar",
+        "name": "탈와르 데몬",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "11761845"
     },
     {
         "id": "PSV-080",
-        "name": "Bite Shoes",
+        "name": "빨간 구두",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "50122883"
     },
     {
         "id": "PSV-087",
-        "name": "Bombardment Beetle",
+        "name": "폭탄 벌레",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "57409948"
     },
     {
         "id": "PSV-057",
-        "name": "Bubonic Vermin",
+        "name": "데스 햄스터",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "6104968"
     },
     {
         "id": "PSV-061",
-        "name": "Burning Land",
+        "name": "불타오르는 대지",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "24294108"
     },
     {
         "id": "PSV-050",
-        "name": "Buster Blader",
+        "name": "버스터 블레이더",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "78193831"
     },
     {
         "id": "PSV-012",
-        "name": "Call of the Haunted",
+        "name": "리빙 데드가 부르는 소리",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "97077563"
     },
     {
         "id": "PSV-030",
-        "name": "Ceasefire",
+        "name": "정전 협정",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "36468556"
     },
     {
         "id": "PSV-006",
-        "name": "Chain Destruction",
+        "name": "연쇄 파괴",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "1248895"
     },
     {
         "id": "PSV-062",
-        "name": "Cold Wave",
+        "name": "대 한파",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "60682203"
     },
     {
         "id": "PSV-047",
-        "name": "Cyber Falcon",
+        "name": "메카 팔콘",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "30655537"
     },
     {
         "id": "PSV-058",
-        "name": "Dark Bat",
+        "name": "다크 베트",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "67049542"
     },
     {
         "id": "PSV-043",
-        "name": "Darkfire Soldier #1",
+        "name": "버닝 솔저",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "5388481"
     },
     {
         "id": "PSV-045",
-        "name": "Darkfire Soldier #2",
+        "name": "화염의 검객",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "78861134"
     },
     {
         "id": "PSV-079",
-        "name": "Deepsea Warrior",
+        "name": "심해의 전사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "24128274"
     },
     {
         "id": "PSV-069",
-        "name": "Dimensionhole",
+        "name": "웜홀",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "22959079"
     },
     {
         "id": "PSV-026",
-        "name": "DNA Surgery",
+        "name": "DNA 개조 수술",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "74701381"
     },
     {
         "id": "PSV-099",
-        "name": "Dokuroyaiba",
+        "name": "사신 부메랑",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "30325729"
     },
     {
         "id": "PSV-078",
-        "name": "Drill Bug",
+        "name": "천공충",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "88733579"
     },
     {
         "id": "PSV-018",
-        "name": "Driving Snow",
+        "name": "폭설",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "473469"
     },
     {
         "id": "PSV-011",
-        "name": "Dust Tornado",
+        "name": "더스트 토네이도",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "60082869"
     },
     {
         "id": "PSV-014",
-        "name": "Earthshaker",
+        "name": "지각 변동",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "60866277"
     },
     {
         "id": "PSV-015",
-        "name": "Enchanted Javelin",
+        "name": "홀리 자베린",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "96355986"
     },
     {
         "id": "PSV-063",
-        "name": "Fairy Meteor Crush",
+        "name": "메테오 스트라이크",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "97687912"
     },
     {
         "id": "PSV-041",
-        "name": "Flame Champion",
+        "name": "화염의 킬러",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "42599677"
     },
     {
         "id": "PSV-048",
-        "name": "Flying Kamakiri #2",
+        "name": "플라잉 사마귀",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "3134241"
     },
     {
         "id": "PSV-025",
-        "name": "Forced Requisition",
+        "name": "강제 접수",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "74923978"
     },
     {
         "id": "PSV-053",
-        "name": "Gamble",
+        "name": "겜블",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "37313786"
     },
     {
         "id": "PSV-101",
-        "name": "Gearfried the Iron Knight",
+        "name": "철의 기사 기어프리드",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "423705"
     },
     {
         "id": "PSV-009",
-        "name": "Gift of The Mystical Elf",
+        "name": "홀리 엘프의 축복",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "98299011"
     },
     {
         "id": "PSV-085",
-        "name": "Girochin Kuwagata",
+        "name": "기요틴 투구벌레",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "84620194"
     },
     {
         "id": "PSV-094",
-        "name": "Goblin Attack Force",
+        "name": "고블린의 돌격 부대",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "78658564"
     },
     {
         "id": "PSV-089",
-        "name": "Gradius",
+        "name": "초시공 전투기 빅 바이퍼",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "10992251"
     },
     {
         "id": "PSV-008",
-        "name": "Graverobber",
+        "name": "도굴꾼",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "61705417"
     },
     {
         "id": "PSV-073",
-        "name": "Gravity Bind",
+        "name": "그레비티 바인드",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "85742772"
     },
     {
         "id": "PSV-070",
-        "name": "Ground Collapse",
+        "name": "지반 침식",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "90502999"
     },
     {
         "id": "PSV-017",
-        "name": "Gust",
+        "name": "돌풍",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "73079365"
     },
     {
         "id": "PSV-086",
-        "name": "Hayabusa Knight",
+        "name": "매의 기사",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "21015833"
     },
     {
         "id": "PSV-104",
-        "name": "Imperial Order",
+        "name": "왕궁의 칙명",
         "type": "Trap Card",
         "rarity": "Secret Rare",
         "imgId": "61740673"
     },
     {
         "id": "PSV-072",
-        "name": "Infinite Dismissal",
+        "name": "메시아의 개미지옥",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "54109233"
     },
     {
         "id": "PSV-102",
-        "name": "Insect Barrier",
+        "name": "인섹트 베리어",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "23615409"
     },
     {
         "id": "PSV-068",
-        "name": "Insect Imitation",
+        "name": "부화",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "96965364"
     },
     {
         "id": "PSV-038",
-        "name": "Inspection",
+        "name": "검열",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "16227556"
     },
     {
         "id": "PSV-082",
-        "name": "Invitation to a Dark Sleep",
+        "name": "암흑 수면으로의 초대",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "52675689"
     },
     {
         "id": "PSV-095",
-        "name": "Island Turtle",
+        "name": "아일랜드 터틀",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "4042268"
     },
     {
         "id": "PSV-000",
-        "name": "Jinzo",
+        "name": "인조인간 -사이코 쇼커-",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "77585513"
     },
     {
         "id": "PSV-046",
-        "name": "Kiseitai",
+        "name": "정신 기생체",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "4266839"
     },
     {
         "id": "PSV-031",
-        "name": "Light of Intervention",
+        "name": "성스러운 빛",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "62867251"
     },
     {
         "id": "PSV-005",
-        "name": "Lightforce Sword",
+        "name": "빛의 봉쇄검",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "49587034"
     },
     {
         "id": "PSV-064",
-        "name": "Limiter Removal",
+        "name": "리미터 해제",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "23171610"
     },
     {
         "id": "PSV-091",
-        "name": "Mad Sword Beast",
+        "name": "맹진하는 검뿔소",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "79870141"
     },
     {
         "id": "PSV-071",
-        "name": "Magic Drain",
+        "name": "매직 드레인",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "59344077"
     },
     {
         "id": "PSV-033",
-        "name": "Magical Hats",
+        "name": "매지컬 실크햇",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "81210420"
     },
     {
         "id": "PSV-029",
-        "name": "Major Riot",
+        "name": "대소동",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "9074847"
     },
     {
         "id": "PSV-022",
-        "name": "Metal Detector",
+        "name": "금속 탐지기",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "75646520"
     },
     {
         "id": "PSV-051",
-        "name": "Michizure",
+        "name": "동반",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "37580756"
     },
     {
         "id": "PSV-052",
-        "name": "Minor Goblin Official",
+        "name": "고블린의 관리인",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "1918087"
     },
     {
         "id": "PSV-016",
-        "name": "Mirror Wall",
+        "name": "은막의 거울벽",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "22359980"
     },
     {
         "id": "PSV-066",
-        "name": "Monster Recovery",
+        "name": "몬스터 회수",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "93108433"
     },
     {
         "id": "PSV-040",
-        "name": "Morphing Jar #2",
+        "name": "카오스 포드",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "79106360"
     },
     {
         "id": "PSV-044",
-        "name": "Mr. Volcano",
+        "name": "미스터 볼케이노",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "31477025"
     },
     {
         "id": "PSV-021",
-        "name": "Mystic Probe",
+        "name": "마법 탐사의 석판",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "49251811"
     },
     {
         "id": "PSV-034",
-        "name": "Nobleman of Crossout",
+        "name": "말살의 사도",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "71044499"
     },
     {
         "id": "PSV-035",
-        "name": "Nobleman of Extermination",
+        "name": "박멸의 사도",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "17449108"
     },
     {
         "id": "PSV-023",
-        "name": "Numinous Healer",
+        "name": "백의의 천사",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "2130625"
     },
     {
         "id": "PSV-059",
-        "name": "Oni Tank T-34",
+        "name": "도깨비 탱크 T-34",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "66927994"
     },
     {
         "id": "PSV-060",
-        "name": "Overdrive",
+        "name": "개틀링 버기",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "2311603"
     },
     {
         "id": "PSV-003",
-        "name": "Parasite Paracide",
+        "name": "기생충 파라사이드",
         "type": "Flip Effect Monster",
         "rarity": "Super Rare",
         "imgId": "27911549"
     },
     {
         "id": "PSV-037",
-        "name": "Premature Burial",
+        "name": "성급한 매장",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "70828912"
     },
     {
         "id": "PSV-039",
-        "name": "Prohibition",
+        "name": "금지령",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "43711255"
     },
     {
         "id": "PSV-065",
-        "name": "Rain of Mercy",
+        "name": "은혜의 단비",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "66719324"
     },
     {
         "id": "PSV-032",
-        "name": "Respect Play",
+        "name": "정정 당당",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "8951260"
     },
     {
         "id": "PSV-097",
-        "name": "Science Soldier",
+        "name": "과학 특수병",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "67532912"
     },
     {
         "id": "PSV-075",
-        "name": "Shadow of Eyes",
+        "name": "유혹의 섀도우",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "58621589"
     },
     {
         "id": "PSV-067",
-        "name": "Shift",
+        "name": "시프트 체인지",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "59560625"
     },
     {
         "id": "PSV-056",
-        "name": "Skull Invitation",
+        "name": "사령의 권유",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "98139712"
     },
     {
         "id": "PSV-092",
-        "name": "Skull Mariner",
+        "name": "해적선 스컬 블러드호",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "5265750"
     },
     {
         "id": "PSV-055",
-        "name": "Solemn Wishes",
+        "name": "신의 은총",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "35346968"
     },
     {
         "id": "PSV-013",
-        "name": "Solomon's Lawbook",
+        "name": "솔로몬의 율법서",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "23471572"
     },
     {
         "id": "PSV-098",
-        "name": "Souls of the Forgotten",
+        "name": "원혼 집합체",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "4920010"
     },
     {
         "id": "PSV-081",
-        "name": "Spikebot",
+        "name": "스파이크 헤드",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "87511987"
     },
     {
         "id": "PSV-001",
-        "name": "Steel Ogre Grotto #2",
+        "name": "철완 골렘",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "90908427"
     },
     {
         "id": "PSV-077",
-        "name": "Sword Hunter",
+        "name": "스워드 헌터",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "51345461"
     },
     {
         "id": "PSV-093",
-        "name": "The All-Seeing White Tiger",
+        "name": "애꾸눈의 화이트 타이거",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "32269855"
     },
     {
         "id": "PSV-010",
-        "name": "The Eye of Truth",
+        "name": "진실의 눈",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "34694160"
     },
     {
         "id": "PSV-100",
-        "name": "The Fiend Megacyber",
+        "name": "마도 기가 사이버",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "66362965"
     },
     {
         "id": "PSV-076",
-        "name": "The Legendary Fisherman",
+        "name": "전설의 어부",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "3643300"
     },
     {
         "id": "PSV-027",
-        "name": "The Regulation of Tribe",
+        "name": "일족의 법도",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "296499"
     },
     {
         "id": "PSV-036",
-        "name": "The Shallow Grave",
+        "name": "얕은 무덤",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "43434803"
     },
     {
         "id": "PSV-083",
-        "name": "Thousand-Eyes Idol",
+        "name": "천개의 눈을 가진 사교신",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "27125110"
     },
     {
         "id": "PSV-084",
-        "name": "Thousand-Eyes Restrict",
+        "name": "사우전드 아이즈 새크리파이스",
         "type": "Fusion Monster",
         "rarity": "Ultra Rare",
         "imgId": "63519819"
     },
     {
         "id": "PSV-002",
-        "name": "Three-Headed Geedo",
+        "name": "삼두 괴수 기도",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "78423643"
     },
     {
         "id": "PSV-007",
-        "name": "Time Seal",
+        "name": "시간봉인",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "35316708"
     },
     {
         "id": "PSV-042",
-        "name": "Twin-Headed Fire Dragon",
+        "name": "빅뱅 드래곤",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "78984772"
     },
     {
         "id": "PSV-074",
-        "name": "Type Zero Magic Crusher",
+        "name": "영식 마법 분쇄기",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "21237481"
     },
     {
         "id": "PSV-090",
-        "name": "Vampire Baby",
+        "name": "뱀파이어 베이비",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "56387350"
     },
     {
         "id": "PSV-096",
-        "name": "Wingweaver",
+        "name": "날개를 짜는 천사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "31447217"
     },
     {
         "id": "PSV-020",
-        "name": "World Suppression",
+        "name": "세계 평정",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "12253117"

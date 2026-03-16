@@ -1,756 +1,756 @@
 [
     {
         "id": "MFC-050",
-        "name": "Adhesion Trap Hole",
+        "name": "끈끈이 함정 속으로",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "62325062"
     },
     {
         "id": "MFC-056",
-        "name": "Aitsu",
+        "name": "아이츠",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "48202661"
     },
     {
         "id": "MFC-096",
-        "name": "Amazoness Archers",
+        "name": "아마조네스의 궁수대",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "67987611"
     },
     {
         "id": "MFC-062",
-        "name": "Amazoness Blowpiper",
+        "name": "아마조네스의 취관병",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "73574678"
     },
     {
         "id": "MFC-060",
-        "name": "Amazoness Fighter",
+        "name": "아마조네스의 격투전사",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "55821894"
     },
     {
         "id": "MFC-059",
-        "name": "Amazoness Paladin",
+        "name": "아마조네스의 성전사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "47480070"
     },
     {
         "id": "MFC-084",
-        "name": "Amazoness Spellcaster",
+        "name": "아마조네스의 주술사",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "81325903"
     },
     {
         "id": "MFC-061",
-        "name": "Amazoness Swords Woman",
+        "name": "아마조네스의 검사",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "94004268"
     },
     {
         "id": "MFC-063",
-        "name": "Amazoness Tiger",
+        "name": "아마조네스의 애완호랑이",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "10979723"
     },
     {
         "id": "MFC-034",
-        "name": "Ante",
+        "name": "앤티 승부",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "34236961"
     },
     {
         "id": "MFC-103",
-        "name": "Anti-Spell",
+        "name": "대항 마술",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "53112492"
     },
     {
         "id": "MFC-066",
-        "name": "Apprentice Magician",
+        "name": "견습 마술사",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "9156135"
     },
     {
         "id": "MFC-075",
-        "name": "Armor Exe",
+        "name": "마도 아머 에그제",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "7180418"
     },
     {
         "id": "MFC-032",
-        "name": "Autonomous Action Unit",
+        "name": "자율행동 유닛",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "71453557"
     },
     {
         "id": "MFC-086",
-        "name": "Big Bang Shot",
+        "name": "빅뱅 슛",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "61127349"
     },
     {
         "id": "MFC-071",
-        "name": "Breaker the Magical Warrior",
+        "name": "마도전사 브레이커",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "71413901"
     },
     {
         "id": "MFC-016",
-        "name": "Burning Beast",
+        "name": "작암마수",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "59364406"
     },
     {
         "id": "MFC-081",
-        "name": "Cat's Ear Tribe",
+        "name": "고양이귀족",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "95841282"
     },
     {
         "id": "MFC-068",
-        "name": "Chaos Command Magician",
+        "name": "카오스 매지션",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "72630549"
     },
     {
         "id": "MFC-030",
-        "name": "Combination Attack",
+        "name": "콤비네이션 어택",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "8964854"
     },
     {
         "id": "MFC-085",
-        "name": "Continuous Destruction Punch",
+        "name": "카운터 머신건 펀치",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "68057622"
     },
     {
         "id": "MFC-019",
-        "name": "D.D. Crazy Beast",
+        "name": "이차원의 야수",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "48148828"
     },
     {
         "id": "MFC-007",
-        "name": "Dark Blade",
+        "name": "암흑 마계의 전사 다크 스워드",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "11321183"
     },
     {
         "id": "MFC-083",
-        "name": "Dark Cat with White Tail",
+        "name": "흰꼬리의 검은 고양이",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "8634636"
     },
     {
         "id": "MFC-035",
-        "name": "Dark Core",
+        "name": "블랙 코어",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "70231910"
     },
     {
         "id": "MFC-000",
-        "name": "Dark Magician Girl",
+        "name": "블랙 매지션 걸",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "38033121"
     },
     {
         "id": "MFC-105",
-        "name": "Dark Paladin",
+        "name": "초마도검사 블랙 파라딘",
         "type": "Fusion Monster",
         "rarity": "Ultra Rare",
         "imgId": "98502113"
     },
     {
         "id": "MFC-078",
-        "name": "Dark Scorpion - Cliff the Trap Remover",
+        "name": "전갈-함정 해제의 클리프",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "6967870"
     },
     {
         "id": "MFC-010",
-        "name": "Decayed Commander",
+        "name": "부패한 무장",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "10209545"
     },
     {
         "id": "MFC-029",
-        "name": "Demotion",
+        "name": "강격처분",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "72575145"
     },
     {
         "id": "MFC-015",
-        "name": "Des Dendle",
+        "name": "데스 덴들",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "12965761"
     },
     {
         "id": "MFC-077",
-        "name": "Des Koala",
+        "name": "데스 코알라",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "69579761"
     },
     {
         "id": "MFC-107",
-        "name": "Diffusion Wave-Motion",
+        "name": "확산하는 파동",
         "type": "Spell Card",
         "rarity": "Secret Rare",
         "imgId": "87880531"
     },
     {
         "id": "MFC-023",
-        "name": "Dimension Jar",
+        "name": "디멘션 포드",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "73414375"
     },
     {
         "id": "MFC-102",
-        "name": "Disarmament",
+        "name": "무장 해제",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "20727787"
     },
     {
         "id": "MFC-106",
-        "name": "Double Spell",
+        "name": "이중마법",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "24096228"
     },
     {
         "id": "MFC-097",
-        "name": "Dramatic Rescue",
+        "name": "구출극",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "80193355"
     },
     {
         "id": "MFC-090",
-        "name": "Emblem of Dragon Destroyer",
+        "name": "용파괴의 상징",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "6390406"
     },
     {
         "id": "MFC-098",
-        "name": "Exhausting Spell",
+        "name": "마력고갈",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "95451366"
     },
     {
         "id": "MFC-049",
-        "name": "Formation Union",
+        "name": "포메이션 유니온",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "26931058"
     },
     {
         "id": "MFC-017",
-        "name": "Freezing Beast",
+        "name": "빙암마수",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "85359414"
     },
     {
         "id": "MFC-028",
-        "name": "Frontline Base",
+        "name": "전선기지",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "46181000"
     },
     {
         "id": "MFC-087",
-        "name": "Gather Your Mind",
+        "name": "정신통일",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "7512044"
     },
     {
         "id": "MFC-012",
-        "name": "Giant Orc",
+        "name": "자이언트 오크",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "73698349"
     },
     {
         "id": "MFC-055",
-        "name": "Great Angus",
+        "name": "그레이트 앵거스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "11813953"
     },
     {
         "id": "MFC-024",
-        "name": "Great Phantom Thief",
+        "name": "세기의 대도둑",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "10809984"
     },
     {
         "id": "MFC-022",
-        "name": "Helping Robo for Combat",
+        "name": "백병전형 심부름 로봇",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "47025270"
     },
     {
         "id": "MFC-099",
-        "name": "Hidden Spellbook",
+        "name": "숨겨진 마도서",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "21840375"
     },
     {
         "id": "MFC-041",
-        "name": "Huge Revolution",
+        "name": "대혁명",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "65396880"
     },
     {
         "id": "MFC-091",
-        "name": "Jar Robber",
+        "name": "항아리 도둑",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "33784505"
     },
     {
         "id": "MFC-031",
-        "name": "Kaiser Colosseum",
+        "name": "카이저 콜로세움",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "35059553"
     },
     {
         "id": "MFC-009",
-        "name": "Kiryu",
+        "name": "기사용",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "84814897"
     },
     {
         "id": "MFC-038",
-        "name": "Kishido Spirit",
+        "name": "기사도정신",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "60519422"
     },
     {
         "id": "MFC-080",
-        "name": "Koitsu",
+        "name": "코이츠",
         "type": "Union Effect Monster",
         "rarity": "Short Print",
         "imgId": "69456283"
     },
     {
         "id": "MFC-058",
-        "name": "Luster Dragon",
+        "name": "사파이어 드래곤",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "11091375"
     },
     {
         "id": "MFC-069",
-        "name": "Magical Marionette",
+        "name": "마법의 꼭두각시 인형",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "8034697"
     },
     {
         "id": "MFC-079",
-        "name": "Magical Merchant",
+        "name": "마도 잡화상인",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "32362575"
     },
     {
         "id": "MFC-072",
-        "name": "Magical Plant Mandragola",
+        "name": "마법초 만드라고라",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "7802006"
     },
     {
         "id": "MFC-073",
-        "name": "Magical Scientist",
+        "name": "마도 사이언티스트",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "34206604"
     },
     {
         "id": "MFC-088",
-        "name": "Mass Driver",
+        "name": "매스 드라이버",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "34906152"
     },
     {
         "id": "MFC-094",
-        "name": "Mega Ton Magical Cannon",
+        "name": "메가톤 마도 캐논",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "32062913"
     },
     {
         "id": "MFC-037",
-        "name": "Metalsilver Armor",
+        "name": "메탈실버 아머",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "33114323"
     },
     {
         "id": "MFC-044",
-        "name": "Meteorain",
+        "name": "메테오 레인",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "64274292"
     },
     {
         "id": "MFC-100",
-        "name": "Miracle Restoring",
+        "name": "기적의 부활",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "68334074"
     },
     {
         "id": "MFC-092",
-        "name": "My Body as a Shield",
+        "name": "내몸을 방패로",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "69279219"
     },
     {
         "id": "MFC-021",
-        "name": "Neko Mane King",
+        "name": "고양이 마네킹",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "11021521"
     },
     {
         "id": "MFC-067",
-        "name": "Old Vindictive Magician",
+        "name": "집념의 노마술사",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "45141844"
     },
     {
         "id": "MFC-002",
-        "name": "Oppressed People",
+        "name": "탄압받는 시민",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "58538870"
     },
     {
         "id": "MFC-026",
-        "name": "Paladin of White Dragon",
+        "name": "나이트 오브 화이트 드래곤",
         "type": "Ritual Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "73398797"
     },
     {
         "id": "MFC-001",
-        "name": "People Running About",
+        "name": "도망가는 시민",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "12143771"
     },
     {
         "id": "MFC-047",
-        "name": "Physical Double",
+        "name": "물리분신",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "63442604"
     },
     {
         "id": "MFC-045",
-        "name": "Pineapple Blast",
+        "name": "파인애플 폭탄",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "90669991"
     },
     {
         "id": "MFC-095",
-        "name": "Pitch-Black Power Stone",
+        "name": "칠흑의 파워 스톤",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "34029630"
     },
     {
         "id": "MFC-008",
-        "name": "Pitch-Dark Dragon",
+        "name": "칠흑의 전투용",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "47415292"
     },
     {
         "id": "MFC-070",
-        "name": "Pixie Knight",
+        "name": "픽시 나이트",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "35429292"
     },
     {
         "id": "MFC-033",
-        "name": "Poison of the Old Man",
+        "name": "노인의 맹독약",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "8842266"
     },
     {
         "id": "MFC-036",
-        "name": "Raregold Armor",
+        "name": "레어골드 아머",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "7625614"
     },
     {
         "id": "MFC-101",
-        "name": "Remove Brainwashing",
+        "name": "세뇌 해제",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "94739788"
     },
     {
         "id": "MFC-048",
-        "name": "Rivalry of Warlords",
+        "name": "군웅할거",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "90846359"
     },
     {
         "id": "MFC-025",
-        "name": "Roulette Barrel",
+        "name": "룰렛 폭탄",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "46303688"
     },
     {
         "id": "MFC-074",
-        "name": "Royal Magical Library",
+        "name": "왕립 마법도서관",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "70791313"
     },
     {
         "id": "MFC-013",
-        "name": "Second Goblin",
+        "name": "세컨드 고블린",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "19086954"
     },
     {
         "id": "MFC-046",
-        "name": "Secret Barrel",
+        "name": "비밀병기 머신건",
         "type": "Trap Card",
         "rarity": "Super Short Print",
         "imgId": "27053506"
     },
     {
         "id": "MFC-089",
-        "name": "Senri Eye",
+        "name": "천리안",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "60391791"
     },
     {
         "id": "MFC-065",
-        "name": "Skilled Dark Magician",
+        "name": "숙련된 흑마술사",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "73752131"
     },
     {
         "id": "MFC-064",
-        "name": "Skilled White Magician",
+        "name": "숙련된 백마도사",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "46363422"
     },
     {
         "id": "MFC-057",
-        "name": "Sonic Duck",
+        "name": "음속 덕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "84696266"
     },
     {
         "id": "MFC-020",
-        "name": "Spell Canceller",
+        "name": "매직 캔슬러",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "84636823"
     },
     {
         "id": "MFC-043",
-        "name": "Spell Shield Type-8",
+        "name": "8식대 마법다중결계",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "38275183"
     },
     {
         "id": "MFC-093",
-        "name": "Spellbook Organization",
+        "name": "마도서 정리",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "96677818"
     },
     {
         "id": "MFC-104",
-        "name": "The Spell Absorbing Life",
+        "name": "생명력 흡수 마술",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "99517131"
     },
     {
         "id": "MFC-042",
-        "name": "Thunder of Ruler",
+        "name": "지배자의 일괄",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "91781589"
     },
     {
         "id": "MFC-076",
-        "name": "Tribe-Infecting Virus",
+        "name": "동족 감염 바이러스",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "33184167"
     },
     {
         "id": "MFC-039",
-        "name": "Tribute Doll",
+        "name": "제물 인형",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "2903036"
     },
     {
         "id": "MFC-082",
-        "name": "Ultimate Obedient Fiend",
+        "name": "절대복종 마인",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "32240937"
     },
     {
         "id": "MFC-018",
-        "name": "Union Rider",
+        "name": "유니온 라이더",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "11743119"
     },
     {
         "id": "MFC-003",
-        "name": "United Resistance",
+        "name": "단결하는 레지스탕스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "85936485"
     },
     {
         "id": "MFC-014",
-        "name": "Vampiric Orchis",
+        "name": "블러드 오키스",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "46571052"
     },
     {
         "id": "MFC-040",
-        "name": "Wave-Motion Cannon",
+        "name": "파동 캐논",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "38992735"
     },
     {
         "id": "MFC-027",
-        "name": "White Dragon Ritual",
+        "name": "백룡강림",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "9786492"
     },
     {
         "id": "MFC-004",
-        "name": "X-Head Cannon",
+        "name": "X-헤드 캐논",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "62651957"
     },
     {
         "id": "MFC-051",
-        "name": "XY-Dragon Cannon",
+        "name": "XY-드래곤 캐논",
         "type": "Fusion Monster",
         "rarity": "Ultra Rare",
         "imgId": "2111707"
     },
     {
         "id": "MFC-052",
-        "name": "XYZ-Dragon Cannon",
+        "name": "XYZ-드래곤 캐논",
         "type": "Fusion Monster",
         "rarity": "Ultra Rare",
         "imgId": "91998119"
     },
     {
         "id": "MFC-053",
-        "name": "XZ-Tank Cannon",
+        "name": "XZ-캐터필러 캐논",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "99724761"
     },
     {
         "id": "MFC-005",
-        "name": "Y-Dragon Head",
+        "name": "Y-드래곤 헤드",
         "type": "Union Effect Monster",
         "rarity": "Super Rare",
         "imgId": "65622692"
     },
     {
         "id": "MFC-054",
-        "name": "YZ-Tank Dragon",
+        "name": "YZ-캐터필러 드래곤",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "25119460"
     },
     {
         "id": "MFC-006",
-        "name": "Z-Metal Tank",
+        "name": "Z-메탈 캐터필러",
         "type": "Union Effect Monster",
         "rarity": "Super Rare",
         "imgId": "64500000"
     },
     {
         "id": "MFC-011",
-        "name": "Zombie Tiger",
+        "name": "좀비 타이거",
         "type": "Union Effect Monster",
         "rarity": "Common",
         "imgId": "47693640"

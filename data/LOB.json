@@ -1,882 +1,882 @@
 [
     {
         "id": "LOB-027",
-        "name": "Aqua Madoor",
+        "name": "물의 조종자",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "85639257"
     },
     {
         "id": "LOB-079",
-        "name": "Armaill",
+        "name": "아메일",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "53153481"
     },
     {
         "id": "LOB-106",
-        "name": "Armed Ninja",
+        "name": "푸른 첩자",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "9076207"
     },
     {
         "id": "LOB-116",
-        "name": "Armored Starfish",
+        "name": "무장한 불가사리",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "17535588"
     },
     {
         "id": "LOB-008",
-        "name": "Basic Insect",
+        "name": "곤충 인간",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "89091579"
     },
     {
         "id": "LOB-041",
-        "name": "Beast Fangs",
+        "name": "맹수의 이빨",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "46009906"
     },
     {
         "id": "LOB-064",
-        "name": "Beaver Warrior",
+        "name": "루이즈",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "32452818"
     },
     {
         "id": "LOB-001",
-        "name": "Blue-Eyes White Dragon",
+        "name": "푸른 눈의 백룡",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "89631139"
     },
     {
         "id": "LOB-043",
-        "name": "Book of Secret Arts",
+        "name": "비술서",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "91595718"
     },
     {
         "id": "LOB-007",
-        "name": "Celtic Guardian",
+        "name": "엘프 검사",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "91152256"
     },
     {
         "id": "LOB-015",
-        "name": "Charubin the Fire Knight",
+        "name": "화염의 기사",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "37421579"
     },
     {
         "id": "LOB-066",
-        "name": "Curse of Dragon",
+        "name": "커스 오브 드래곤",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "28279543"
     },
     {
         "id": "LOB-088",
-        "name": "Dark Energy",
+        "name": "어둠의 에너지",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "4614116"
     },
     {
         "id": "LOB-011",
-        "name": "Dark Gray",
+        "name": "다크 그레이",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "9159938"
     },
     {
         "id": "LOB-052",
-        "name": "Dark Hole",
+        "name": "블랙홀",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "53129443"
     },
     {
         "id": "LOB-020",
-        "name": "Dark King of the Abyss",
+        "name": "심연의 명왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "53375573"
     },
     {
         "id": "LOB-005",
-        "name": "Dark Magician",
+        "name": "블랙 매지션",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "46986414"
     },
     {
         "id": "LOB-019",
-        "name": "Darkfire Dragon",
+        "name": "암흑의 화염룡",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "17881964"
     },
     {
         "id": "LOB-114",
-        "name": "Darkworld Thorns",
+        "name": "마계의 가시나무",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "43500484"
     },
     {
         "id": "LOB-031",
-        "name": "Dissolverock",
+        "name": "마그맨",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "40826495"
     },
     {
         "id": "LOB-045",
-        "name": "Dragon Capture Jar",
+        "name": "드래곤족 봉인항아리",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "50045299"
     },
     {
         "id": "LOB-092",
-        "name": "Dragon Treasure",
+        "name": "드래곤의 보물",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "1435851"
     },
     {
         "id": "LOB-086",
-        "name": "Dragoness the Wicked Knight",
+        "name": "악의 기사 드라고네스",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "70681994"
     },
     {
         "id": "LOB-115",
-        "name": "Drooling Lizard",
+        "name": "먹이를 찾는 도마뱀",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "16353197"
     },
     {
         "id": "LOB-093",
-        "name": "Electro-Whip",
+        "name": "전기 채찍",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "37820550"
     },
     {
         "id": "LOB-084",
-        "name": "Enchanting Mermaid",
+        "name": "황홀한 인어",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "75376965"
     },
     {
         "id": "LOB-124",
-        "name": "Exodia the Forbidden One",
+        "name": "봉인된 엑조디아",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "33396948"
     },
     {
         "id": "LOB-021",
-        "name": "Fiend Reflection #2",
+        "name": "마경 소환",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "2863439"
     },
     {
         "id": "LOB-100",
-        "name": "Final Flame",
+        "name": "화형",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "73134082"
     },
     {
         "id": "LOB-018",
-        "name": "Firegrass",
+        "name": "화염초",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "53293545"
     },
     {
         "id": "LOB-085",
-        "name": "Fireyarou",
+        "name": "화염의 마신",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "71407486"
     },
     {
         "id": "LOB-057",
-        "name": "Fissure",
+        "name": "갈라진 대지",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "66788016"
     },
     {
         "id": "LOB-029",
-        "name": "Flame Ghost",
+        "name": "프레임 고스트",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "58528964"
     },
     {
         "id": "LOB-016",
-        "name": "Flame Manipulator",
+        "name": "화염의 조종자",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "34460851"
     },
     {
         "id": "LOB-003",
-        "name": "Flame Swordsman",
+        "name": "화염의 검사",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "45231177"
     },
     {
         "id": "LOB-107",
-        "name": "Flower Wolf",
+        "name": "플라워 울프",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "95952802"
     },
     {
         "id": "LOB-098",
-        "name": "Follow Wind",
+        "name": "팔로우 윈드",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "98252586"
     },
     {
         "id": "LOB-046",
-        "name": "Forest",
+        "name": "숲",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "87430998"
     },
     {
         "id": "LOB-081",
-        "name": "Frenzied Panda",
+        "name": "킬러 팬더",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "98818516"
     },
     {
         "id": "LOB-022",
-        "name": "Fusionist",
+        "name": "퓨저니스트",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "1641882"
     },
     {
         "id": "LOB-125",
-        "name": "Gaia the Dragon Champion",
+        "name": "용기사 가이아",
         "type": "Fusion Monster",
         "rarity": "Secret Rare",
         "imgId": "66889139"
     },
     {
         "id": "LOB-006",
-        "name": "Gaia The Fierce Knight",
+        "name": "암흑 기사 가이아",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "6368038"
     },
     {
         "id": "LOB-068",
-        "name": "Giant Soldier of Stone",
+        "name": "암석 거인",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "13039848"
     },
     {
         "id": "LOB-099",
-        "name": "Goblin's Secret Remedy",
+        "name": "고블린의 비약",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "11868825"
     },
     {
         "id": "LOB-065",
-        "name": "Gravedigger Ghoul",
+        "name": "도굴꾼 구울",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "82542267"
     },
     {
         "id": "LOB-034",
-        "name": "Green Phantom King",
+        "name": "숲의 영혼왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "22910685"
     },
     {
         "id": "LOB-110",
-        "name": "Hane-Hane",
+        "name": "하늘하늘",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "7089711"
     },
     {
         "id": "LOB-074",
-        "name": "Hard Armor",
+        "name": "견고한 갑옷",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "20060230"
     },
     {
         "id": "LOB-056",
-        "name": "Hinotama",
+        "name": "파이어 볼",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "46130346"
     },
     {
         "id": "LOB-026",
-        "name": "Hinotama Soul",
+        "name": "불의 영혼",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "96851799"
     },
     {
         "id": "LOB-002",
-        "name": "Hitotsu-Me Giant",
+        "name": "외눈 거인",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "76184692"
     },
     {
         "id": "LOB-028",
-        "name": "Kagemusha of the Blue Flame",
+        "name": "시엔의 무사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "15401633"
     },
     {
         "id": "LOB-067",
-        "name": "Karbonala Warrior",
+        "name": "카르보나라 전사",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "54541900"
     },
     {
         "id": "LOB-036",
-        "name": "King Fog",
+        "name": "안개왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "84686841"
     },
     {
         "id": "LOB-082",
-        "name": "Kumootoko",
+        "name": "거미 인간",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "56283725"
     },
     {
         "id": "LOB-039",
-        "name": "Kurama",
+        "name": "드레이크",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "85705804"
     },
     {
         "id": "LOB-073",
-        "name": "Larvas",
+        "name": "라바스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "94675535"
     },
     {
         "id": "LOB-089",
-        "name": "Laser Cannon Armor",
+        "name": "레이저 캐논 아머",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "77007920"
     },
     {
         "id": "LOB-123",
-        "name": "Left Arm of the Forbidden One",
+        "name": "봉인된 자의 왼쪽 팔",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "7902349"
     },
     {
         "id": "LOB-121",
-        "name": "Left Leg of the Forbidden One",
+        "name": "봉인된 자의 왼쪽 다리",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "44519536"
     },
     {
         "id": "LOB-040",
-        "name": "Legendary Sword",
+        "name": "전설의 검",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "61854111"
     },
     {
         "id": "LOB-113",
-        "name": "Lesser Dragon",
+        "name": "레서 드래곤",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "55444629"
     },
     {
         "id": "LOB-076",
-        "name": "M-Warrior #1",
+        "name": "마그넷 1호",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "56342351"
     },
     {
         "id": "LOB-077",
-        "name": "M-Warrior #2",
+        "name": "마그넷 2호",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "92731455"
     },
     {
         "id": "LOB-096",
-        "name": "Machine Conversion Factory",
+        "name": "기계 개조 공장",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "25769732"
     },
     {
         "id": "LOB-009",
-        "name": "Mammoth Graveyard",
+        "name": "맘모스의 무덤",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "40374923"
     },
     {
         "id": "LOB-075",
-        "name": "Man Eater",
+        "name": "식인꽃",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "93553943"
     },
     {
         "id": "LOB-108",
-        "name": "Man-Eater Bug",
+        "name": "식인 곤충",
         "type": "Flip Effect Monster",
         "rarity": "Super Rare",
         "imgId": "54652250"
     },
     {
         "id": "LOB-038",
-        "name": "Masaki the Legendary Swordsman",
+        "name": "전설의 검객 마사키",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "44287299"
     },
     {
         "id": "LOB-083",
-        "name": "Meda Bat",
+        "name": "다크 나폴레옹",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "76211194"
     },
     {
         "id": "LOB-102",
-        "name": "Metal Dragon",
+        "name": "메탈 드래곤",
         "type": "Fusion Monster",
         "rarity": "Rare",
         "imgId": "9293977"
     },
     {
         "id": "LOB-111",
-        "name": "Misairuzame",
+        "name": "나일",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "33178416"
     },
     {
         "id": "LOB-017",
-        "name": "Monster Egg",
+        "name": "몬스터 에그",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "36121917"
     },
     {
         "id": "LOB-118",
-        "name": "Monster Reborn",
+        "name": "죽은 자의 소생",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "83764719"
     },
     {
         "id": "LOB-048",
-        "name": "Mountain",
+        "name": "산",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "50913601"
     },
     {
         "id": "LOB-062",
-        "name": "Mystical Elf",
+        "name": "홀리 엘프",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "15025844"
     },
     {
         "id": "LOB-094",
-        "name": "Mystical Moon",
+        "name": "마성의 달",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "36607978"
     },
     {
         "id": "LOB-037",
-        "name": "Mystical Sheep #2",
+        "name": "영험한 양",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "83464209"
     },
     {
         "id": "LOB-013",
-        "name": "Nemuriko",
+        "name": "잠자는 아이",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "90963488"
     },
     {
         "id": "LOB-087",
-        "name": "One-Eyed Shield Dragon",
+        "name": "외눈의 방패용",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "33064647"
     },
     {
         "id": "LOB-025",
-        "name": "Petit Angel",
+        "name": "꼬마천사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "38142739"
     },
     {
         "id": "LOB-024",
-        "name": "Petit Dragon",
+        "name": "꼬마용",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "75356564"
     },
     {
         "id": "LOB-059",
-        "name": "Polymerization",
+        "name": "융합",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "24094653"
     },
     {
         "id": "LOB-119",
-        "name": "Pot of Greed",
+        "name": "욕망의 항아리",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "55144522"
     },
     {
         "id": "LOB-044",
-        "name": "Power of Kaishin",
+        "name": "포세이돈의 힘",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "77027445"
     },
     {
         "id": "LOB-053",
-        "name": "Raigeki",
+        "name": "번개",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "12580477"
     },
     {
         "id": "LOB-097",
-        "name": "Raise Body Heat",
+        "name": "체온 상승",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "51267887"
     },
     {
         "id": "LOB-035",
-        "name": "Ray & Temperature",
+        "name": "북풍과 태양",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "85309439"
     },
     {
         "id": "LOB-071",
-        "name": "Reaper of the Cards",
+        "name": "카드의 사신",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "33066139"
     },
     {
         "id": "LOB-054",
-        "name": "Red Medicine",
+        "name": "레드 포선",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "38199696"
     },
     {
         "id": "LOB-070",
-        "name": "Red-Eyes Black Dragon",
+        "name": "붉은 눈의 흑룡",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "74677422"
     },
     {
         "id": "LOB-060",
-        "name": "Remove Trap",
+        "name": "함정 해제",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "51482758"
     },
     {
         "id": "LOB-122",
-        "name": "Right Arm of the Forbidden One",
+        "name": "봉인된 자의 오른쪽 팔",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "70903634"
     },
     {
         "id": "LOB-120",
-        "name": "Right Leg of the Forbidden One",
+        "name": "봉인된 자의 오른쪽 다리",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "8124921"
     },
     {
         "id": "LOB-032",
-        "name": "Root Water",
+        "name": "루트 워터",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "39004808"
     },
     {
         "id": "LOB-109",
-        "name": "Sand Stone",
+        "name": "모래 폭풍",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "73051941"
     },
     {
         "id": "LOB-091",
-        "name": "Silver Bow and Arrow",
+        "name": "은화살",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "1557499"
     },
     {
         "id": "LOB-010",
-        "name": "Silver Fang",
+        "name": "실버 팽",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "90357090"
     },
     {
         "id": "LOB-105",
-        "name": "Skull Red Bird",
+        "name": "스카이 헌터",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "10202894"
     },
     {
         "id": "LOB-004",
-        "name": "Skull Servant",
+        "name": "저주받은 하인",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "32274490"
     },
     {
         "id": "LOB-049",
-        "name": "Sogen",
+        "name": "초원",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "86318356"
     },
     {
         "id": "LOB-055",
-        "name": "Sparks",
+        "name": "스파크",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "76103675"
     },
     {
         "id": "LOB-103",
-        "name": "Spike Seadra",
+        "name": "스파이크 시드라",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "85326399"
     },
     {
         "id": "LOB-078",
-        "name": "Spirit of the Harp",
+        "name": "하프의 정령",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "80770678"
     },
     {
         "id": "LOB-112",
-        "name": "Steel Ogre Grotto #1",
+        "name": "강철의 거신상",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "29172562"
     },
     {
         "id": "LOB-095",
-        "name": "Stop Defense",
+        "name": "수비봉인",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "63102017"
     },
     {
         "id": "LOB-117",
-        "name": "Succubus Knight",
+        "name": "악령의 여전사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "55291359"
     },
     {
         "id": "LOB-101",
-        "name": "Swords of Revealing Light",
+        "name": "빛의 봉인검",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "72302403"
     },
     {
         "id": "LOB-080",
-        "name": "Terra the Terrible",
+        "name": "마인 테라",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "63308047"
     },
     {
         "id": "LOB-014",
-        "name": "The 13th Grave",
+        "name": "13번째 매장자",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "32864"
     },
     {
         "id": "LOB-033",
-        "name": "The Furious Sea King",
+        "name": "분노의 해왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "18710707"
     },
     {
         "id": "LOB-058",
-        "name": "Trap Hole",
+        "name": "함정 속으로",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "4206964"
     },
     {
         "id": "LOB-000",
-        "name": "Tri-Horned Dragon",
+        "name": "트라이혼 드래곤",
         "type": "Normal Monster",
         "rarity": "Secret Rare",
         "imgId": "39111158"
     },
     {
         "id": "LOB-012",
-        "name": "Trial of Nightmare",
+        "name": "지옥의 심판",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "77827521"
     },
     {
         "id": "LOB-104",
-        "name": "Tripwire Beast",
+        "name": "지뢰야수",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "45042329"
     },
     {
         "id": "LOB-023",
-        "name": "Turtle Tiger",
+        "name": "터틀 타이거",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "37313348"
     },
     {
         "id": "LOB-030",
-        "name": "Two-Mouth Darkruler",
+        "name": "두개의 입을 가진 다크룰러",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "57305373"
     },
     {
         "id": "LOB-061",
-        "name": "Two-Pronged Attack",
+        "name": "협공",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "83887306"
     },
     {
         "id": "LOB-063",
-        "name": "Tyhone",
+        "name": "타이혼",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "72842870"
     },
     {
         "id": "LOB-050",
-        "name": "Umi",
+        "name": "바다",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "22702055"
     },
     {
         "id": "LOB-069",
-        "name": "Uraby",
+        "name": "와일드 랩터",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "1784619"
     },
     {
         "id": "LOB-090",
-        "name": "Vile Germs",
+        "name": "악마균",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "39774685"
     },
     {
         "id": "LOB-042",
-        "name": "Violet Crystal",
+        "name": "자수정",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "15052462"
     },
     {
         "id": "LOB-047",
-        "name": "Wasteland",
+        "name": "황야",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "23424603"
     },
     {
         "id": "LOB-072",
-        "name": "Witty Phantom",
+        "name": "데스 사탄",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "36304921"
     },
     {
         "id": "LOB-051",
-        "name": "Yami",
+        "name": "어둠",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "59197169"

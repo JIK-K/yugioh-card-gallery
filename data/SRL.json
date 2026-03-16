@@ -1,728 +1,728 @@
 [
     {
         "id": "SRL-010",
-        "name": "Ameba",
+        "name": "아메바",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "95174353"
     },
     {
         "id": "SRL-018",
-        "name": "Ancient One of the Deep Forest",
+        "name": "깊은 숲의 장로",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "14015067"
     },
     {
         "id": "SRL-002",
-        "name": "Axe of Despair",
+        "name": "데몬의 도끼",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "40619825"
     },
     {
         "id": "SRL-078",
-        "name": "Banisher of the Light",
+        "name": "빛의 추방자",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "61528025"
     },
     {
         "id": "SRL-051",
-        "name": "Black Illusion Ritual",
+        "name": "환술의 의식",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "41426869"
     },
     {
         "id": "SRL-003",
-        "name": "Black Pendant",
+        "name": "검은 펜던트",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "65169794"
     },
     {
         "id": "SRL-000",
-        "name": "Blue-Eyes Toon Dragon",
+        "name": "푸른 눈의 툰 드래곤",
         "type": "Toon Monster",
         "rarity": "Secret Rare",
         "imgId": "53183600"
     },
     {
         "id": "SRL-089",
-        "name": "Boar Soldier",
+        "name": "멧돼지 병사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "21340051"
     },
     {
         "id": "SRL-092",
-        "name": "Ceremonial Bell",
+        "name": "세레모니 벨",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "20228463"
     },
     {
         "id": "SRL-046",
-        "name": "Chain Energy",
+        "name": "마력의 족쇄",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "79323590"
     },
     {
         "id": "SRL-037",
-        "name": "Chorus of Sanctuary",
+        "name": "성역의 노랫소리",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "81380218"
     },
     {
         "id": "SRL-062",
-        "name": "Commencement Dance",
+        "name": "댄스의 유혹",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "43417563"
     },
     {
         "id": "SRL-038",
-        "name": "Confiscation",
+        "name": "압수",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "17375316"
     },
     {
         "id": "SRL-069",
-        "name": "Crab Turtle",
+        "name": "크랩 터틀",
         "type": "Ritual Monster",
         "rarity": "Common",
         "imgId": "91782219"
     },
     {
         "id": "SRL-032",
-        "name": "Curse of Fiend",
+        "name": "사악한 의식",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "12470447"
     },
     {
         "id": "SRL-077",
-        "name": "Cyber Jar",
+        "name": "사이버 포드",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "34124316"
     },
     {
         "id": "SRL-019",
-        "name": "Dark Witch",
+        "name": "발키리",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "35565537"
     },
     {
         "id": "SRL-084",
-        "name": "Dark Zebra",
+        "name": "다크 제브라",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "59784896"
     },
     {
         "id": "SRL-040",
-        "name": "Darkness Approaches",
+        "name": "어둠의 엄습",
         "type": "Spell Card",
         "rarity": "Super Short Print",
         "imgId": "80168720"
     },
     {
         "id": "SRL-039",
-        "name": "Delinquent Duo",
+        "name": "짓궂은 쌍둥이 악마",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "44763025"
     },
     {
         "id": "SRL-065",
-        "name": "Eatgaboon",
+        "name": "쥐덫",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "42578427"
     },
     {
         "id": "SRL-008",
-        "name": "Electric Snake",
+        "name": "엘렉트릭 스네이크",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "11324436"
     },
     {
         "id": "SRL-060",
-        "name": "Eternal Rest",
+        "name": "성불",
         "type": "Spell Card",
         "rarity": "Super Short Print",
         "imgId": "95051344"
     },
     {
         "id": "SRL-041",
-        "name": "Fairy's Hand Mirror",
+        "name": "천사의 손거울",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "17653779"
     },
     {
         "id": "SRL-035",
-        "name": "Final Destiny",
+        "name": "마지막 전쟁",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "18591904"
     },
     {
         "id": "SRL-014",
-        "name": "Fire Kraken",
+        "name": "파이어 크라켄",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "46534755"
     },
     {
         "id": "SRL-082",
-        "name": "Flash Assailant",
+        "name": "초스피드 암살자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "96890582"
     },
     {
         "id": "SRL-091",
-        "name": "Flying Kamakiri #1",
+        "name": "드래곤 플라이",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "84834865"
     },
     {
         "id": "SRL-096",
-        "name": "Gaia Power",
+        "name": "가이아 파워",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "56594520"
     },
     {
         "id": "SRL-085",
-        "name": "Giant Germ",
+        "name": "자이언트 바이러스",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "95178994"
     },
     {
         "id": "SRL-079",
-        "name": "Giant Rat",
+        "name": "거대쥐",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "97017120"
     },
     {
         "id": "SRL-048",
-        "name": "Giant Trunade",
+        "name": "허리케인",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "42703248"
     },
     {
         "id": "SRL-022",
-        "name": "Giant Turtle Who Feeds on Flames",
+        "name": "화염을 삼키는 거대 거북",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "96981563"
     },
     {
         "id": "SRL-031",
-        "name": "Gravekeeper's Servant",
+        "name": "묘지기의 마법",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "16762927"
     },
     {
         "id": "SRL-016",
-        "name": "Griggle",
+        "name": "그리글",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "95744531"
     },
     {
         "id": "SRL-013",
-        "name": "Guardian of the Throne Room",
+        "name": "왕실의 가디언",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "47879985"
     },
     {
         "id": "SRL-063",
-        "name": "Hamburger Recipe",
+        "name": "햄버거 요리법",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "80811661"
     },
     {
         "id": "SRL-025",
-        "name": "High Tide Gyojin",
+        "name": "만조의 어류인",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "54579801"
     },
     {
         "id": "SRL-024",
-        "name": "Hiro's Shadow Scout",
+        "name": "악마의 정찰자",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "81863068"
     },
     {
         "id": "SRL-004",
-        "name": "Horn of Light",
+        "name": "빛의 뿔",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "38552107"
     },
     {
         "id": "SRL-054",
-        "name": "Horn of the Unicorn",
+        "name": "유니콘의 뿔",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "64047146"
     },
     {
         "id": "SRL-064",
-        "name": "House of Adhesive Tape",
+        "name": "끈끈이 집",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "15083728"
     },
     {
         "id": "SRL-068",
-        "name": "Hungry Burger",
+        "name": "헝그리 버거",
         "type": "Ritual Monster",
         "rarity": "Common",
         "imgId": "30243636"
     },
     {
         "id": "SRL-075",
-        "name": "Hyozanryu",
+        "name": "다이아몬드 드래곤",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "62397231"
     },
     {
         "id": "SRL-026",
-        "name": "Invader of the Throne",
+        "name": "왕좌의 침략자",
         "type": "Flip Effect Monster",
         "rarity": "Super Rare",
         "imgId": "3056267"
     },
     {
         "id": "SRL-074",
-        "name": "Jigen Bakudan",
+        "name": "시한폭탄",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "90020065"
     },
     {
         "id": "SRL-083",
-        "name": "Karate Man",
+        "name": "당수",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "23289281"
     },
     {
         "id": "SRL-095",
-        "name": "Kotodama",
+        "name": "영력",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "19406822"
     },
     {
         "id": "SRL-055",
-        "name": "Labyrinth Wall",
+        "name": "미궁출현-래버린스 월-",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "67284908"
     },
     {
         "id": "SRL-023",
-        "name": "Liquid Beast",
+        "name": "액체 괴물",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "93108297"
     },
     {
         "id": "SRL-100",
-        "name": "Luminous Spark",
+        "name": "샤인 스파크",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "81777047"
     },
     {
         "id": "SRL-059",
-        "name": "Magical Labyrinth",
+        "name": "미궁 변화",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "64389297"
     },
     {
         "id": "SRL-012",
-        "name": "Maha Vailo",
+        "name": "마하 바일로",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "93013676"
     },
     {
         "id": "SRL-005",
-        "name": "Malevolent Nuzzler",
+        "name": "악마의 키스",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "99597615"
     },
     {
         "id": "SRL-071",
-        "name": "Manga Ryu-Ran",
+        "name": "툰 드래곤 에그",
         "type": "Toon Monster",
         "rarity": "Rare",
         "imgId": "38369349"
     },
     {
         "id": "SRL-021",
-        "name": "Mechanical Snail",
+        "name": "기계 달팽이",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "34442949"
     },
     {
         "id": "SRL-061",
-        "name": "Megamorph",
+        "name": "거대화",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "22046459"
     },
     {
         "id": "SRL-102",
-        "name": "Messenger of Peace",
+        "name": "평화의 사자",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "44656491"
     },
     {
         "id": "SRL-007",
-        "name": "Metal Fish",
+        "name": "메탈 휘시",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "55998462"
     },
     {
         "id": "SRL-015",
-        "name": "Minar",
+        "name": "이비",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "32539892"
     },
     {
         "id": "SRL-098",
-        "name": "Molten Destruction",
+        "name": "버닝 블러드",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "19384334"
     },
     {
         "id": "SRL-090",
-        "name": "Mother Grizzly",
+        "name": "회색곰 마더",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "57839750"
     },
     {
         "id": "SRL-101",
-        "name": "Mystic Plasma Zone",
+        "name": "다크 존",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "18161786"
     },
     {
         "id": "SRL-094",
-        "name": "Mystic Tomato",
+        "name": "킬러 토마토",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "83011278"
     },
     {
         "id": "SRL-047",
-        "name": "Mystical Space Typhoon",
+        "name": "싸이크론",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "5318639"
     },
     {
         "id": "SRL-086",
-        "name": "Nimble Momonga",
+        "name": "재빠른 날다람쥐",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "22567609"
     },
     {
         "id": "SRL-052",
-        "name": "Octoberser",
+        "name": "문어인어",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "74637266"
     },
     {
         "id": "SRL-049",
-        "name": "Painful Choice",
+        "name": "고통의 선택",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "74191942"
     },
     {
         "id": "SRL-011",
-        "name": "Peacock",
+        "name": "공작",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "20624263"
     },
     {
         "id": "SRL-001",
-        "name": "Penguin Knight",
+        "name": "펭귄 기사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "36039163"
     },
     {
         "id": "SRL-067",
-        "name": "Performance of Sword",
+        "name": "댄싱 솔저",
         "type": "Ritual Monster",
         "rarity": "Common",
         "imgId": "4849037"
     },
     {
         "id": "SRL-053",
-        "name": "Psychic Kappa",
+        "name": "사이코 갑파",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "7892180"
     },
     {
         "id": "SRL-009",
-        "name": "Queen Bird",
+        "name": "퀸 버드",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "73081602"
     },
     {
         "id": "SRL-030",
-        "name": "Red Archery Girl",
+        "name": "활을 쏘는 인어",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "65570596"
     },
     {
         "id": "SRL-029",
-        "name": "Relinquished",
+        "name": "새크리파이스",
         "type": "Ritual Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "64631466"
     },
     {
         "id": "SRL-099",
-        "name": "Rising Air Current",
+        "name": "데저트 스톰",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "45778932"
     },
     {
         "id": "SRL-043",
-        "name": "Rush Recklessly",
+        "name": "돌진",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "70046172"
     },
     {
         "id": "SRL-070",
-        "name": "Ryu-Ran",
+        "name": "드래곤 에그",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "2964201"
     },
     {
         "id": "SRL-080",
-        "name": "Senju of the Thousand Hands",
+        "name": "천수의 신",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "23401839"
     },
     {
         "id": "SRL-103",
-        "name": "Serpent Night Dragon",
+        "name": "이블 나이트 드래곤",
         "type": "Normal Monster",
         "rarity": "Secret Rare",
         "imgId": "66516792"
     },
     {
         "id": "SRL-088",
-        "name": "Shining Angel",
+        "name": "샤이닝 엔젤",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "95956346"
     },
     {
         "id": "SRL-028",
-        "name": "Slot Machine",
+        "name": "슬롯머신 AM-7",
         "type": "Normal Monster",
         "rarity": "Super Short Print",
         "imgId": "3797883"
     },
     {
         "id": "SRL-050",
-        "name": "Snake Fang",
+        "name": "독사의 이",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "596051"
     },
     {
         "id": "SRL-036",
-        "name": "Snatch Steal",
+        "name": "강탈",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "45986603"
     },
     {
         "id": "SRL-093",
-        "name": "Sonic Bird",
+        "name": "소닉 버드",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "57617178"
     },
     {
         "id": "SRL-087",
-        "name": "Spear Cretin",
+        "name": "다크 패밀리어",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "58551308"
     },
     {
         "id": "SRL-006",
-        "name": "Spellbinding Circle",
+        "name": "육망성의 저주",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "18807109"
     },
     {
         "id": "SRL-058",
-        "name": "Stone Ogre Grotto",
+        "name": "스톤 자이언트",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "15023985"
     },
     {
         "id": "SRL-042",
-        "name": "Tailor of the Fickle",
+        "name": "변덕스런 재단사",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "43641473"
     },
     {
         "id": "SRL-045",
-        "name": "The Forceful Sentry",
+        "name": "강인한 파수병",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "42829885"
     },
     {
         "id": "SRL-044",
-        "name": "The Reliable Guardian",
+        "name": "듬직한 수호자",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "16430187"
     },
     {
         "id": "SRL-034",
-        "name": "Toll",
+        "name": "통행세",
         "type": "Spell Card",
         "rarity": "Super Short Print",
         "imgId": "82003859"
     },
     {
         "id": "SRL-072",
-        "name": "Toon Mermaid",
+        "name": "툰 인어",
         "type": "Toon Monster",
         "rarity": "Ultra Rare",
         "imgId": "65458948"
     },
     {
         "id": "SRL-073",
-        "name": "Toon Summoned Skull",
+        "name": "툰 데몬",
         "type": "Toon Monster",
         "rarity": "Ultra Rare",
         "imgId": "91842653"
     },
     {
         "id": "SRL-076",
-        "name": "Toon World",
+        "name": "툰 월드",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "15259703"
     },
     {
         "id": "SRL-066",
-        "name": "Turtle Oath",
+        "name": "거북이의 맹세",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "76806714"
     },
     {
         "id": "SRL-057",
-        "name": "Twin Long Rods #2",
+        "name": "트윈 테일",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "29692206"
     },
     {
         "id": "SRL-017",
-        "name": "Tyhone #2",
+        "name": "타이혼 #2",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "56789759"
     },
     {
         "id": "SRL-081",
-        "name": "UFO Turtle",
+        "name": "UFO 터틀",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "60806437"
     },
     {
         "id": "SRL-097",
-        "name": "Umiiruka",
+        "name": "워터 월드",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "82999629"
     },
     {
         "id": "SRL-033",
-        "name": "Upstart Goblin",
+        "name": "갑부 고블린",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "70368879"
     },
     {
         "id": "SRL-056",
-        "name": "Wall Shadow",
+        "name": "월 섀도우",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "63162310"
     },
     {
         "id": "SRL-020",
-        "name": "Weather Report",
+        "name": "일기 예보",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "72053645"
     },
     {
         "id": "SRL-027",
-        "name": "Whiptail Crow",
+        "name": "채찍 꼬리의 가고일",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "91996584"

@@ -1,1008 +1,1008 @@
 [
     {
         "id": "MRD-098",
-        "name": "7 Colored Fish",
+        "name": "레인보우 휘시",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "23771716"
     },
     {
         "id": "MRD-082",
-        "name": "Ancient Brain",
+        "name": "마천도사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "42431843"
     },
     {
         "id": "MRD-037",
-        "name": "Ancient Elf",
+        "name": "고대 엘프",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "93221206"
     },
     {
         "id": "MRD-050",
-        "name": "Ancient Lizard Warrior",
+        "name": "고대의 도마뱀 전사",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "43230671"
     },
     {
         "id": "MRD-005",
-        "name": "Armored Lizard",
+        "name": "아머 리저드",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "15480588"
     },
     {
         "id": "MRD-013",
-        "name": "Armored Zombie",
+        "name": "갑옷 무사 좀비",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "20277860"
     },
     {
         "id": "MRD-061",
-        "name": "Baby Dragon",
+        "name": "베이비 드래곤",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "88819587"
     },
     {
         "id": "MRD-126",
-        "name": "Barrel Dragon",
+        "name": "속사포 드래곤",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "81480461"
     },
     {
         "id": "MRD-064",
-        "name": "Battle Steer",
+        "name": "황소마인",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "18246479"
     },
     {
         "id": "MRD-093",
-        "name": "Bickuribox",
+        "name": "데블 박스",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "25655502"
     },
     {
         "id": "MRD-017",
-        "name": "Big Eye",
+        "name": "빅 아이",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "16768387"
     },
     {
         "id": "MRD-018",
-        "name": "Black Skull Dragon",
+        "name": "블랙 데몬즈 드래곤",
         "type": "Fusion Monster",
         "rarity": "Ultra Rare",
         "imgId": "11901678"
     },
     {
         "id": "MRD-062",
-        "name": "Blackland Fire Dragon",
+        "name": "암흑의 드래곤왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "87564352"
     },
     {
         "id": "MRD-118",
-        "name": "Bladefly",
+        "name": "브레이드 플라이",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "28470714"
     },
     {
         "id": "MRD-034",
-        "name": "Blast Juggler",
+        "name": "미스터 폭탄",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "70138455"
     },
     {
         "id": "MRD-133",
-        "name": "Block Attack",
+        "name": "공격봉인",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "25880422"
     },
     {
         "id": "MRD-122",
-        "name": "Blue-Winged Crown",
+        "name": "블루 윙",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "41396436"
     },
     {
         "id": "MRD-039",
-        "name": "Bottom Dweller",
+        "name": "어신",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "81386177"
     },
     {
         "id": "MRD-106",
-        "name": "Cannon Soldier",
+        "name": "캐논 솔저",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "11384280"
     },
     {
         "id": "MRD-073",
-        "name": "Castle of Dark Illusions",
+        "name": "암흑의 성",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "62121"
     },
     {
         "id": "MRD-075",
-        "name": "Catapult Turtle",
+        "name": "중장갑 거북",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "95727991"
     },
     {
         "id": "MRD-060",
-        "name": "Change of Heart",
+        "name": "마음의 변화",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "4031928"
     },
     {
         "id": "MRD-011",
-        "name": "Cocoon of Evolution",
+        "name": "진화의 고치",
         "type": "Effect Monster",
         "rarity": "Super Short Print",
         "imgId": "40240595"
     },
     {
         "id": "MRD-078",
-        "name": "Crass Clown",
+        "name": "머더 서커스",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "93889755"
     },
     {
         "id": "MRD-012",
-        "name": "Crawling Dragon",
+        "name": "땅을 기는 드래곤",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "67494157"
     },
     {
         "id": "MRD-105",
-        "name": "Cyber Saurus",
+        "name": "메카 사우루스",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "89112729"
     },
     {
         "id": "MRD-113",
-        "name": "Dark Elf",
+        "name": "다크 엘프",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "21417692"
     },
     {
         "id": "MRD-038",
-        "name": "Deepsea Shark",
+        "name": "심해 상어",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "28593363"
     },
     {
         "id": "MRD-040",
-        "name": "Destroyer Golem",
+        "name": "파괴자 골렘",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "73481154"
     },
     {
         "id": "MRD-053",
-        "name": "Disk Magician",
+        "name": "디스크 매지션",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "76446915"
     },
     {
         "id": "MRD-015",
-        "name": "Doma The Angel of Silence",
+        "name": "죽음의 침묵천사 도마",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "16972957"
     },
     {
         "id": "MRD-067",
-        "name": "Dragon Piper",
+        "name": "항아리 마인",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "55763552"
     },
     {
         "id": "MRD-080",
-        "name": "Dream Clown",
+        "name": "드림 삐에로",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "13215230"
     },
     {
         "id": "MRD-048",
-        "name": "Electric Lizard",
+        "name": "전기 도마뱀",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "55875323"
     },
     {
         "id": "MRD-024",
-        "name": "Elegant Egotist",
+        "name": "만화경 -화려한 분신-",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "90219263"
     },
     {
         "id": "MRD-046",
-        "name": "Empress Judge",
+        "name": "심판의 여왕",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "15237615"
     },
     {
         "id": "MRD-056",
-        "name": "Fake Trap",
+        "name": "가짜 함정",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "3027001"
     },
     {
         "id": "MRD-001",
-        "name": "Feral Imp",
+        "name": "그렘린",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "41392891"
     },
     {
         "id": "MRD-111",
-        "name": "Flame Cerebrus",
+        "name": "화염의 케로베로스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "60862676"
     },
     {
         "id": "MRD-125",
-        "name": "Garnecia Elefantis",
+        "name": "가네시아 코끼리",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "49888191"
     },
     {
         "id": "MRD-000",
-        "name": "Gate Guardian",
+        "name": "게이트 가디언",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "25833572"
     },
     {
         "id": "MRD-124",
-        "name": "Gazelle the King of Mythical Beasts",
+        "name": "환상수왕 가젤",
         "type": "Normal Monster",
         "rarity": "Super Short Print",
         "imgId": "5818798"
     },
     {
         "id": "MRD-136",
-        "name": "Germ Infection",
+        "name": "세균감염",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "24668830"
     },
     {
         "id": "MRD-096",
-        "name": "Giga-Tech Wolf",
+        "name": "기가테크 울프",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "8471389"
     },
     {
         "id": "MRD-094",
-        "name": "Giltia the D. Knight",
+        "name": "마법 기사 길티어",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "51828629"
     },
     {
         "id": "MRD-070",
-        "name": "Great Moth",
+        "name": "그레이트 모스",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "14141448"
     },
     {
         "id": "MRD-022",
-        "name": "Ground Attacker Bugroth",
+        "name": "지상전투형 버그로스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "58314394"
     },
     {
         "id": "MRD-083",
-        "name": "Guardian of the Labyrinth",
+        "name": "명계의 수호자",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "89272878"
     },
     {
         "id": "MRD-008",
-        "name": "Harpie Lady",
+        "name": "해피 레이디",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "76812113"
     },
     {
         "id": "MRD-009",
-        "name": "Harpie Lady Sisters",
+        "name": "해피 레이디 세자매",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "12206212"
     },
     {
         "id": "MRD-142",
-        "name": "Heavy Storm",
+        "name": "태풍",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "19613556"
     },
     {
         "id": "MRD-055",
-        "name": "Hibikime",
+        "name": "음향녀",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "64501875"
     },
     {
         "id": "MRD-130",
-        "name": "Horn of Heaven",
+        "name": "승천의 뿔피리",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "98069388"
     },
     {
         "id": "MRD-102",
-        "name": "Hoshiningen",
+        "name": "슈퍼 스타",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "67629977"
     },
     {
         "id": "MRD-049",
-        "name": "Hunter Spider",
+        "name": "사냥 거미",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "80141480"
     },
     {
         "id": "MRD-054",
-        "name": "Hyosube",
+        "name": "효스베",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "2118022"
     },
     {
         "id": "MRD-068",
-        "name": "Illusionist Faceless Mage",
+        "name": "환술사 노페이스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "28546905"
     },
     {
         "id": "MRD-101",
-        "name": "Insect Soldiers of the Sky",
+        "name": "하늘의 곤충병",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "7019529"
     },
     {
         "id": "MRD-072",
-        "name": "Jellyfish",
+        "name": "해파리",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "14851496"
     },
     {
         "id": "MRD-035",
-        "name": "Jinzo #7",
+        "name": "인조인간 7호",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "32809211"
     },
     {
         "id": "MRD-089",
-        "name": "Jirai Gumo",
+        "name": "지뢰거미",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "94773007"
     },
     {
         "id": "MRD-041",
-        "name": "Kaminari Attack",
+        "name": "번개신의 분노",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "9653271"
     },
     {
         "id": "MRD-026",
-        "name": "Kazejin",
+        "name": "풍 마신-휴가",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "62340868"
     },
     {
         "id": "MRD-006",
-        "name": "Killer Needle",
+        "name": "킬러비",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "88979991"
     },
     {
         "id": "MRD-074",
-        "name": "King of Yamimakai",
+        "name": "암흑 마계의 패왕",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "69455834"
     },
     {
         "id": "MRD-010",
-        "name": "Kojikocy",
+        "name": "마물 사냥꾼",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "1184620"
     },
     {
         "id": "MRD-071",
-        "name": "Kuriboh",
+        "name": "크리보",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "40640057"
     },
     {
         "id": "MRD-091",
-        "name": "Labyrinth Tank",
+        "name": "미궁의 마전차",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "99551425"
     },
     {
         "id": "MRD-119",
-        "name": "Lady of Faith",
+        "name": "하이 프리스티스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "17358176"
     },
     {
         "id": "MRD-007",
-        "name": "Larvae Moth",
+        "name": "라바모스",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "87756343"
     },
     {
         "id": "MRD-095",
-        "name": "Launcher Spider",
+        "name": "TM-1 런처 스파이더",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "87322377"
     },
     {
         "id": "MRD-115",
-        "name": "Lava Battleguard",
+        "name": "바바리안 1호",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "20394040"
     },
     {
         "id": "MRD-031",
-        "name": "Leghul",
+        "name": "레글",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "12472242"
     },
     {
         "id": "MRD-033",
-        "name": "Leogun",
+        "name": "레오군",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "10538007"
     },
     {
         "id": "MRD-117",
-        "name": "Little Chimera",
+        "name": "리틀 키메라",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "68658728"
     },
     {
         "id": "MRD-128",
-        "name": "Magic Jammer",
+        "name": "매직 재머",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "77414722"
     },
     {
         "id": "MRD-036",
-        "name": "Magician of Faith",
+        "name": "성스러운 마술사",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "31560081"
     },
     {
         "id": "MRD-014",
-        "name": "Mask of Darkness",
+        "name": "암흑의 가면",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "28933734"
     },
     {
         "id": "MRD-019",
-        "name": "Masked Sorcerer",
+        "name": "가면마도사",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "10189126"
     },
     {
         "id": "MRD-044",
-        "name": "Mega Thunderball",
+        "name": "메가 썬더볼",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "21817254"
     },
     {
         "id": "MRD-110",
-        "name": "Milus Radiant",
+        "name": "미리스 레디언트",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "7489323"
     },
     {
         "id": "MRD-138",
-        "name": "Mirror Force",
+        "name": "성스러운 방어막 거울의 힘",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "44095762"
     },
     {
         "id": "MRD-043",
-        "name": "Morinphen",
+        "name": "모린팬",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "55784832"
     },
     {
         "id": "MRD-107",
-        "name": "Muka Muka",
+        "name": "무카무카",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "46657337"
     },
     {
         "id": "MRD-114",
-        "name": "Mushroom Man #2",
+        "name": "머슈맨",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "93900406"
     },
     {
         "id": "MRD-103",
-        "name": "Musician King",
+        "name": "음악의 제왕",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "56907389"
     },
     {
         "id": "MRD-076",
-        "name": "Mystic Horseman",
+        "name": "켄타우로스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "68516705"
     },
     {
         "id": "MRD-028",
-        "name": "Mystic Lamp",
+        "name": "마법의 램프",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "98049915"
     },
     {
         "id": "MRD-112",
-        "name": "Niwatori",
+        "name": "코댁",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "7805359"
     },
     {
         "id": "MRD-030",
-        "name": "Ocubeam",
+        "name": "천사의 귀",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "86088138"
     },
     {
         "id": "MRD-032",
-        "name": "Ooguchi",
+        "name": "빅 마우스",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "58861941"
     },
     {
         "id": "MRD-047",
-        "name": "Pale Beast",
+        "name": "창백한 야수",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "21263083"
     },
     {
         "id": "MRD-137",
-        "name": "Paralyzing Potion",
+        "name": "마비약",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "50152549"
     },
     {
         "id": "MRD-023",
-        "name": "Petit Moth",
+        "name": "꼬마 모스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "58192742"
     },
     {
         "id": "MRD-084",
-        "name": "Prevent Rat",
+        "name": "갑옷 쥐",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "549481"
     },
     {
         "id": "MRD-086",
-        "name": "Princess of Tsurugi",
+        "name": "검의 여왕",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "51371017"
     },
     {
         "id": "MRD-087",
-        "name": "Protector of the Throne",
+        "name": "왕좌의 수호자",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "10071456"
     },
     {
         "id": "MRD-079",
-        "name": "Pumpking the King of Ghosts",
+        "name": "고스트 왕 펌프킹",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "29155212"
     },
     {
         "id": "MRD-100",
-        "name": "Punished Eagle",
+        "name": "심판의 매",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "74703140"
     },
     {
         "id": "MRD-051",
-        "name": "Queen's Double",
+        "name": "여왕의 무사",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "5901497"
     },
     {
         "id": "MRD-077",
-        "name": "Rabid Horseman",
+        "name": "미노켄타우로스",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "94905343"
     },
     {
         "id": "MRD-042",
-        "name": "Rainbow Flower",
+        "name": "레인보우 플라워",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "21347810"
     },
     {
         "id": "MRD-139",
-        "name": "Ring of Magnetism",
+        "name": "자력의 반지",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "20436034"
     },
     {
         "id": "MRD-020",
-        "name": "Roaring Ocean Snake",
+        "name": "포효하는 바다뱀",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "19066538"
     },
     {
         "id": "MRD-135",
-        "name": "Robbin' Goblin",
+        "name": "로빈 고블린",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "88279736"
     },
     {
         "id": "MRD-004",
-        "name": "Rock Ogre Grotto #1",
+        "name": "바위 마신 오우거록",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "68846917"
     },
     {
         "id": "MRD-092",
-        "name": "Ryu-Kishin Powered",
+        "name": "마력을 얻은 가고일",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "24611934"
     },
     {
         "id": "MRD-066",
-        "name": "Saggi the Dark Clown",
+        "name": "어둠의 어릿광대 사기",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "66602787"
     },
     {
         "id": "MRD-025",
-        "name": "Sanga of the Thunder",
+        "name": "번개 마신-썬가",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "25955164"
     },
     {
         "id": "MRD-069",
-        "name": "Sangan",
+        "name": "크리터",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "26202165"
     },
     {
         "id": "MRD-129",
-        "name": "Seven Tools of the Bandit",
+        "name": "도적의 7가지 도구",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "3819470"
     },
     {
         "id": "MRD-090",
-        "name": "Shadow Ghoul",
+        "name": "섀도우 구울",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "30778711"
     },
     {
         "id": "MRD-140",
-        "name": "Share the Pain",
+        "name": "고통 분담",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "56830749"
     },
     {
         "id": "MRD-131",
-        "name": "Shield & Sword",
+        "name": "오른손엔 방패 왼손엔 검",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "52097679"
     },
     {
         "id": "MRD-123",
-        "name": "Skull Knight",
+        "name": "스컬 비숍",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "2504891"
     },
     {
         "id": "MRD-127",
-        "name": "Solemn Judgment",
+        "name": "신의 심판",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "41420027"
     },
     {
         "id": "MRD-058",
-        "name": "Soul Release",
+        "name": "영혼의 해방",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "5758500"
     },
     {
         "id": "MRD-109",
-        "name": "Star Boy",
+        "name": "스타 보이",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "8201910"
     },
     {
         "id": "MRD-029",
-        "name": "Steel Scorpion",
+        "name": "강철의 스콜피온",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "13599884"
     },
     {
         "id": "MRD-141",
-        "name": "Stim-Pack",
+        "name": "스팀팩",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "83225447"
     },
     {
         "id": "MRD-027",
-        "name": "Suijin",
+        "name": "수 마신-스가",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "98434877"
     },
     {
         "id": "MRD-003",
-        "name": "Summoned Skull",
+        "name": "데몬 소환",
         "type": "Normal Monster",
         "rarity": "Ultra Rare",
         "imgId": "70781052"
     },
     {
         "id": "MRD-063",
-        "name": "Swamp Battleguard",
+        "name": "바바리안 2호",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "40453765"
     },
     {
         "id": "MRD-132",
-        "name": "Sword of Deep-Seated",
+        "name": "집념의 검",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "98495314"
     },
     {
         "id": "MRD-081",
-        "name": "Tainted Wisdom",
+        "name": "악마의 지혜",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "28725004"
     },
     {
         "id": "MRD-108",
-        "name": "The Bistro Butcher",
+        "name": "악마의 조리사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "71107816"
     },
     {
         "id": "MRD-059",
-        "name": "The Cheerful Coffin",
+        "name": "유쾌한 장의사",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "41142615"
     },
     {
         "id": "MRD-099",
-        "name": "The Immortal of Thunder",
+        "name": "번개 신선",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "84926738"
     },
     {
         "id": "MRD-085",
-        "name": "The Little Swordsman of Aile",
+        "name": "아일의 꼬마검사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "25109950"
     },
     {
         "id": "MRD-134",
-        "name": "The Unhappy Maiden",
+        "name": "불행한 소녀",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "51275027"
     },
     {
         "id": "MRD-143",
-        "name": "Thousand Dragon",
+        "name": "사우전드 드래곤",
         "type": "Fusion Monster",
         "rarity": "Secret Rare",
         "imgId": "41462083"
     },
     {
         "id": "MRD-097",
-        "name": "Thunder Dragon",
+        "name": "썬더 드래곤",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "31786629"
     },
     {
         "id": "MRD-065",
-        "name": "Time Wizard",
+        "name": "시간의 마술사",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "71625222"
     },
     {
         "id": "MRD-045",
-        "name": "Tongyo",
+        "name": "설어",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "69572024"
     },
     {
         "id": "MRD-088",
-        "name": "Tremendous Fire",
+        "name": "화염 지옥",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "46918794"
     },
     {
         "id": "MRD-052",
-        "name": "Trent",
+        "name": "트렌트",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "78780140"
     },
     {
         "id": "MRD-057",
-        "name": "Tribute to the Doomed",
+        "name": "죽은 자에게 흔드는 손",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "79759861"
     },
     {
         "id": "MRD-120",
-        "name": "Twin-Headed Thunder Dragon",
+        "name": "두 머리의 썬더 드래곤",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "54752875"
     },
     {
         "id": "MRD-021",
-        "name": "Water Omotics",
+        "name": "물의 무희",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "2483611"
     },
     {
         "id": "MRD-016",
-        "name": "White Magical Hat",
+        "name": "흰 도둑",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "15150365"
     },
     {
         "id": "MRD-002",
-        "name": "Winged Dragon, Guardian of the Fortress #1",
+        "name": "요새를 지키는 익룡",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "87796900"
     },
     {
         "id": "MRD-116",
-        "name": "Witch of the Black Forest",
+        "name": "검은 숲의 마녀",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "78010363"
     },
     {
         "id": "MRD-121",
-        "name": "Witch's Apprentice",
+        "name": "견습 마녀",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "80741828"
     },
     {
         "id": "MRD-104",
-        "name": "Yado Karu",
+        "name": "집게 카루",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "29380133"

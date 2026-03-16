@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>YUGIOH CARD GALLERY</title>
     <link rel="stylesheet" href="css/layout.css" />
-    <link rel="stylesheet" href="css/card.css" />
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="icon" href="img/favicon.ico"/>
   </head>
   <body>
     <aside class="sidebar">
@@ -31,9 +32,9 @@
 
     <main class="main-container">
       <div class="content-area">
-        <section class="content-header">
+        <header class="content-header">
           <h3>클릭하여 카드를 구경해보세요</h3>
-        </section>
+        </header>
         <div class="card-display-area">
           <div class="card-list" id="cardList"></div>
         </div>
@@ -99,7 +100,6 @@
         "Super Rare",
         "Ultra Rare",
         "Secret Rare",
-        "Ultimate Rare",
       ];
 
       function sortByRarity(cards) {

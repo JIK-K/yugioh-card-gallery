@@ -1,7 +1,7 @@
 [
     {
         "id": "AST-070",
-        "name": "3-Hump Lacooda",
+        "name": "삼봉 낙타",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "86988864"
@@ -15,770 +15,770 @@
     },
     {
         "id": "AST-072",
-        "name": "Absorbing Kid from the Sky",
+        "name": "흡수천아",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "49771608"
     },
     {
         "id": "AST-040",
-        "name": "Amplifier",
+        "name": "전뇌증폭기",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "303660"
     },
     {
         "id": "AST-029",
-        "name": "Arcane Archer of the Forest",
+        "name": "심록의 마궁수",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "55001420"
     },
     {
         "id": "AST-034",
-        "name": "Archlord Zerato",
+        "name": "대천사 제라토",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "18378582"
     },
     {
         "id": "AST-055",
-        "name": "Armor Break",
+        "name": "아머 브레이크",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "79649195"
     },
     {
         "id": "AST-064",
-        "name": "Aswan Apparition",
+        "name": "아스완의 망령",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "88236094"
     },
     {
         "id": "AST-024",
-        "name": "Atomic Firefly",
+        "name": "원자 반딧불",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "87340664"
     },
     {
         "id": "AST-016",
-        "name": "Avatar of The Pot",
+        "name": "항아리 마신",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "99284890"
     },
     {
         "id": "AST-046",
-        "name": "Backfire",
+        "name": "백파이어",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "82705573"
     },
     {
         "id": "AST-053",
-        "name": "Beckoning Light",
+        "name": "빛의 소집",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "16255442"
     },
     {
         "id": "AST-090",
-        "name": "Blessings of the Nile",
+        "name": "나일의 은혜",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "30653113"
     },
     {
         "id": "AST-022",
-        "name": "Blowback Dragon",
+        "name": "블로백 드래곤",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "25551951"
     },
     {
         "id": "AST-038",
-        "name": "Burst Stream of Destruction",
+        "name": "멸망의 폭렬질풍탄",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "17655904"
     },
     {
         "id": "AST-105",
-        "name": "Curse of Anubis",
+        "name": "아누비스의 저주",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "66742250"
     },
     {
         "id": "AST-095",
-        "name": "Dark Magic Attack",
+        "name": "흑·마·도",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "2314238"
     },
     {
         "id": "AST-096",
-        "name": "Delta Attacker",
+        "name": "델타 어태커",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "39719977"
     },
     {
         "id": "AST-107",
-        "name": "Des Counterblow",
+        "name": "데스 카운터",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "39131963"
     },
     {
         "id": "AST-106",
-        "name": "Desert Sunlight",
+        "name": "사막의 빛",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "93747864"
     },
     {
         "id": "AST-068",
-        "name": "Desertapir",
+        "name": "사막 맥",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "13409151"
     },
     {
         "id": "AST-028",
-        "name": "Disc Fighter",
+        "name": "원반투사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "19612721"
     },
     {
         "id": "AST-102",
-        "name": "Dora of Fate",
+        "name": "운명의 징",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "67464807"
     },
     {
         "id": "AST-078",
-        "name": "Double Coston",
+        "name": "더블 코스톤",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "44436472"
     },
     {
         "id": "AST-054",
-        "name": "Draining Shield",
+        "name": "드레인 실드",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "43250041"
     },
     {
         "id": "AST-087",
-        "name": "Dust Barrier",
+        "name": "모래 먼지의 결계",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "31476755"
     },
     {
         "id": "AST-043",
-        "name": "Earthquake",
+        "name": "어스퀘이크",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "82828051"
     },
     {
         "id": "AST-073",
-        "name": "Elephant Statue of Blessing",
+        "name": "은혜의 코끼리상",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "85166216"
     },
     {
         "id": "AST-074",
-        "name": "Elephant Statue of Disaster",
+        "name": "재앙의 코끼리상",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "12160911"
     },
     {
         "id": "AST-076",
-        "name": "Emissary of the Afterlife",
+        "name": "명계의 사자",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "75043725"
     },
     {
         "id": "AST-083",
-        "name": "Emissary of the Oasis",
+        "name": "오아시스의 사자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "6103294"
     },
     {
         "id": "AST-093",
-        "name": "Enchanting Fitting Room",
+        "name": "마의 탈의실",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "30531525"
     },
     {
         "id": "AST-037",
-        "name": "Enemy Controller",
+        "name": "에너미 컨트롤러",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "98045062"
     },
     {
         "id": "AST-059",
-        "name": "Fiend Scorpion",
+        "name": "데블 스콜피온",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "26566878"
     },
     {
         "id": "AST-018",
-        "name": "Gear Golem the Moving Fortress",
+        "name": "기동요새의 기어 골렘",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "30190809"
     },
     {
         "id": "AST-071",
-        "name": "Ghost Knight of Jackal",
+        "name": "자칼의 영기사",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "13386503"
     },
     {
         "id": "AST-056",
-        "name": "Gigobyte",
+        "name": "기고바이트",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "53776525"
     },
     {
         "id": "AST-031",
-        "name": "Goblin King",
+        "name": "킹 고블린",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "18590133"
     },
     {
         "id": "AST-045",
-        "name": "Goblin Thief",
+        "name": "도둑 고블린",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "45311864"
     },
     {
         "id": "AST-001",
-        "name": "Gogiga Gagagigo",
+        "name": "고기가 가가기고",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "39674352"
     },
     {
         "id": "AST-077",
-        "name": "Grave Protector",
+        "name": "그레이브 키퍼",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "11448373"
     },
     {
         "id": "AST-104",
-        "name": "Human-Wave Tactics",
+        "name": "인해전술",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "30353551"
     },
     {
         "id": "AST-103",
-        "name": "Judgment of the Desert",
+        "name": "사막의 심판",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "4869446"
     },
     {
         "id": "AST-019",
-        "name": "KA-2 Des Scissors",
+        "name": "KA-2 데스 시저스",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "52768103"
     },
     {
         "id": "AST-082",
-        "name": "King of the Swamp",
+        "name": "늪지의 마신왕",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "79109599"
     },
     {
         "id": "AST-058",
-        "name": "Kozaky",
+        "name": "코잣키",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "99171160"
     },
     {
         "id": "AST-108",
-        "name": "Labyrinth of Nightmare",
+        "name": "악몽의 미궁",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "66526672"
     },
     {
         "id": "AST-030",
-        "name": "Lady Ninja Yae",
+        "name": "여첩자 야에",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "82005435"
     },
     {
         "id": "AST-067",
-        "name": "Legacy Hunter",
+        "name": "레거시 헌터",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "87010442"
     },
     {
         "id": "AST-017",
-        "name": "Legendary Jujitsu Master",
+        "name": "전설의 유술가",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "25773409"
     },
     {
         "id": "AST-092",
-        "name": "Level Limit - Area B",
+        "name": "레벨 제한 B구역",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "3136426"
     },
     {
         "id": "AST-048",
-        "name": "Light of Judgment",
+        "name": "심판의 빛",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "44595286"
     },
     {
         "id": "AST-081",
-        "name": "Man-Thro' Tro'",
+        "name": "투인 트롤",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "43714890"
     },
     {
         "id": "AST-111",
-        "name": "Mazera DeVille",
+        "name": "데블 마제라",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "6133894"
     },
     {
         "id": "AST-025",
-        "name": "Mermaid Knight",
+        "name": "인어 나이트",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "24435369"
     },
     {
         "id": "AST-005",
-        "name": "Metal Armored Bug",
+        "name": "철강 장갑충",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "65957473"
     },
     {
         "id": "AST-047",
-        "name": "Micro Ray",
+        "name": "마이크로 광선",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "18190572"
     },
     {
         "id": "AST-057",
-        "name": "Mokey Mokey",
+        "name": "모케모케",
         "type": "Normal Monster",
         "rarity": "Super Short Print",
         "imgId": "27288416"
     },
     {
         "id": "AST-039",
-        "name": "Monster Gate",
+        "name": "몬스터 게이트",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "43040603"
     },
     {
         "id": "AST-004",
-        "name": "Mystical Shine Ball",
+        "name": "신성한 구체",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "39552864"
     },
     {
         "id": "AST-036",
-        "name": "Mystik Wok",
+        "name": "신비의 중화냄비",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "80161395"
     },
     {
         "id": "AST-020",
-        "name": "Needle Burrower",
+        "name": "니들 벙커",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "98162242"
     },
     {
         "id": "AST-080",
-        "name": "Night Assailant",
+        "name": "심연의 암살자",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "16226786"
     },
     {
         "id": "AST-052",
-        "name": "Ninjitsu Art of Transformation",
+        "name": "인법 변신술",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "70861343"
     },
     {
         "id": "AST-066",
-        "name": "Nubian Guard",
+        "name": "누비아 가드",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "51616747"
     },
     {
         "id": "AST-035",
-        "name": "Opti-Camouflage Armor",
+        "name": "광학위장 아머",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "44762290"
     },
     {
         "id": "AST-085",
-        "name": "Order to Charge",
+        "name": "돌격지령",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "78986941"
     },
     {
         "id": "AST-110",
-        "name": "Order to Smash",
+        "name": "옥쇄지령",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "39019325"
     },
     {
         "id": "AST-060",
-        "name": "Pharaoh's Servant",
+        "name": "파라오의 사도",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "52550973"
     },
     {
         "id": "AST-061",
-        "name": "Pharaonic Protector",
+        "name": "왕가의 수호자",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "89959682"
     },
     {
         "id": "AST-026",
-        "name": "Piranha Army",
+        "name": "군대 피라냐",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "50823978"
     },
     {
         "id": "AST-065",
-        "name": "Protector of the Sanctuary",
+        "name": "신전의 수호자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "24221739"
     },
     {
         "id": "AST-079",
-        "name": "Regenerating Mummy",
+        "name": "재생 미라",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "70821187"
     },
     {
         "id": "AST-015",
-        "name": "Rocket Jumper",
+        "name": "로켓 점퍼",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "53890795"
     },
     {
         "id": "AST-069",
-        "name": "Sand Gambler",
+        "name": "샌드 갬블러",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "50593156"
     },
     {
         "id": "AST-003",
-        "name": "Sealmaster Meisei",
+        "name": "봉인사 메이세이",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "2468169"
     },
     {
         "id": "AST-032",
-        "name": "Solar Flare Dragon",
+        "name": "프로미넌스 드래곤",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "45985838"
     },
     {
         "id": "AST-051",
-        "name": "Solar Ray",
+        "name": "솔라 레이",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "44472639"
     },
     {
         "id": "AST-021",
-        "name": "Sonic Jammer",
+        "name": "소닉 재머",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "84550200"
     },
     {
         "id": "AST-109",
-        "name": "Soul Resurrection",
+        "name": "소생 혼",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "92924317"
     },
     {
         "id": "AST-088",
-        "name": "Soul Reversal",
+        "name": "리버스 소울",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "78864369"
     },
     {
         "id": "AST-011",
-        "name": "Soul-Absorbing Bone Tower",
+        "name": "정기를 흡수하는 골탑",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "63012333"
     },
     {
         "id": "AST-084",
-        "name": "Special Hurricane",
+        "name": "스페셜 허리케인",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "42598242"
     },
     {
         "id": "AST-089",
-        "name": "Spell Economics",
+        "name": "마력 절약술",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "4259068"
     },
     {
         "id": "AST-075",
-        "name": "Spirit Caller",
+        "name": "혼을 부르는 자",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "48659020"
     },
     {
         "id": "AST-062",
-        "name": "Spirit of the Pharaoh",
+        "name": "스피릿 오브 파라오",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "25343280"
     },
     {
         "id": "AST-014",
-        "name": "Stone Statue of the Aztecs",
+        "name": "아즈텍의 석상",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "31812496"
     },
     {
         "id": "AST-086",
-        "name": "Sword of the Soul-Eater",
+        "name": "영혼 흡수자의 마도",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "5371656"
     },
     {
         "id": "AST-049",
-        "name": "Talisman of Spell Sealing",
+        "name": "마법 봉인의 부적",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "71983925"
     },
     {
         "id": "AST-044",
-        "name": "Talisman of Trap Sealing",
+        "name": "함정 봉인의 부적",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "19312169"
     },
     {
         "id": "AST-008",
-        "name": "The Agent of Creation - Venus",
+        "name": "창조의 대행자 비너스",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "64734921"
     },
     {
         "id": "AST-009",
-        "name": "The Agent of Force - Mars",
+        "name": "힘의 대행자 마르스",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "91123920"
     },
     {
         "id": "AST-006",
-        "name": "The Agent of Judgment - Saturn",
+        "name": "심판의 대행자 새턴",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "91345518"
     },
     {
         "id": "AST-007",
-        "name": "The Agent of Wisdom - Mercury",
+        "name": "영화의 대행자 머큐리",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "38730226"
     },
     {
         "id": "AST-000",
-        "name": "The End of Anubis",
+        "name": "엔드 오브 아누비스",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "65403020"
     },
     {
         "id": "AST-101",
-        "name": "The First Sarcophagus",
+        "name": "제일의 관",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "31076103"
     },
     {
         "id": "AST-012",
-        "name": "The Kick Man",
+        "name": "더 킥맨",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "90407382"
     },
     {
         "id": "AST-094",
-        "name": "The Law of the Normal",
+        "name": "약육일색",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "66926224"
     },
     {
         "id": "AST-042",
-        "name": "The Sanctuary in the Sky",
+        "name": "천공의 성역",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "56433456"
     },
     {
         "id": "AST-100",
-        "name": "The Second Sarcophagus",
+        "name": "제이의 관",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "4081094"
     },
     {
         "id": "AST-099",
-        "name": "The Third Sarcophagus",
+        "name": "제삼의 관",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "78697395"
     },
     {
         "id": "AST-010",
-        "name": "The Unhappy Girl",
+        "name": "불행한 걸",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "27618634"
     },
     {
         "id": "AST-063",
-        "name": "Theban Nightmare",
+        "name": "나이트메어 테베",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "51838385"
     },
     {
         "id": "AST-097",
-        "name": "Thousand Energy",
+        "name": "사우전드 에너지",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "5703682"
     },
     {
         "id": "AST-098",
-        "name": "Triangle Power",
+        "name": "트라이앵글 파워",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "32298781"
     },
     {
         "id": "AST-027",
-        "name": "Two Thousand Needles",
+        "name": "이천개가시 고슴도치",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "83228073"
     },
     {
         "id": "AST-013",
-        "name": "Vampire Lady",
+        "name": "뱀파이어 레이디",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "26495087"
     },
     {
         "id": "AST-050",
-        "name": "Wall of Revealing Light",
+        "name": "빛의 봉인벽",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "17078030"
     },
     {
         "id": "AST-002",
-        "name": "Warrior of Zera",
+        "name": "제라의 전사",
         "type": "Normal Monster",
         "rarity": "Short Print",
         "imgId": "66073051"
     },
     {
         "id": "AST-041",
-        "name": "Weapon Change",
+        "name": "웨폰 체인지",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "10035717"
     },
     {
         "id": "AST-033",
-        "name": "White Magician Pikeru",
+        "name": "백마도사 피켈",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "81383947"
     },
     {
         "id": "AST-023",
-        "name": "Zaborg the Thunder Monarch",
+        "name": "번개 제왕 자보르그",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "51945556"

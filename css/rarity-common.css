@@ -1,0 +1,53 @@
+/* ═══════════════════════════════════════════════════════════
+   RARITY — COMMON & SHORT PRINT
+   ═══════════════════════════════════════════════════════════ */
+
+/* ══════════════════════════════════════════════════════════
+   COMMON & SHORT PRINT — 동일한 효과
+   ══════════════════════════════════════════════════════════ */
+
+[data-rarity="Common"] .card-3d,
+[data-rarity="Short Print"] .card-3d {
+  box-shadow:
+    0 2px 8px rgba(0, 0, 0, 0.6),
+    0 0 0 1px rgba(80, 80, 80, 0.35);
+}
+
+[data-rarity="Common"] .card__shine,
+[data-rarity="Common"] .card-shine,
+[data-rarity="Short Print"] .card__shine,
+[data-rarity="Short Print"] .card-shine {
+  opacity: calc(var(--card-opacity) * 0.45);
+  transition:
+    opacity 0.4s,
+    background-position 0.1s;
+}
+
+[data-rarity="Common"] .card__glare,
+[data-rarity="Common"] .card-glare,
+[data-rarity="Short Print"] .card__glare,
+[data-rarity="Short Print"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(0, 0%, 75%)       5%,
+    hsl(200, 5%, 35%)    60%,
+    hsl(320, 40%, 10%)  150%
+  );
+  background-size: 120% 150%;
+  background-position: center center;
+
+  mix-blend-mode: hard-light;
+  filter: brightness(1) contrast(1.2) saturate(1);
+  opacity: calc(var(--card-opacity) * 0.35);
+  transition:
+    opacity 0.3s,
+    background-image 0.08s;
+}
+
+[data-rarity="Common"] .info-rarity {
+  color: #666;
+}
+
+[data-rarity="Short Print"] .info-rarity {
+  color: #9090b8;
+}

@@ -1,742 +1,742 @@
 [
     {
         "id": "DCR-030",
-        "name": "A Deal with Dark Ruler",
+        "name": "데몬과의 거래",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "6850209"
     },
     {
         "id": "DCR-003",
-        "name": "Acrobat Monkey",
+        "name": "애크러뱃 멍키",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "47372349"
     },
     {
         "id": "DCR-080",
-        "name": "Agido",
+        "name": "아기도",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "16135253"
     },
     {
         "id": "DCR-095",
-        "name": "Altar for Tribute",
+        "name": "제물의 제단",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "21070956"
     },
     {
         "id": "DCR-057",
-        "name": "Archfiend Soldier",
+        "name": "데몬 솔저",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "49881766"
     },
     {
         "id": "DCR-092",
-        "name": "Archfiend's Oath",
+        "name": "데몬의 선고",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "22796548"
     },
     {
         "id": "DCR-099",
-        "name": "Archfiend's Roar",
+        "name": "데몬의 포효",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "56246017"
     },
     {
         "id": "DCR-048",
-        "name": "Arsenal Robber",
+        "name": "무기창고 도굴꾼",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "55348096"
     },
     {
         "id": "DCR-004",
-        "name": "Arsenal Summoner",
+        "name": "웨폰 서머너",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "85489096"
     },
     {
         "id": "DCR-001",
-        "name": "Battle Footballer",
+        "name": "배틀 풋볼러",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "48094997"
     },
     {
         "id": "DCR-097",
-        "name": "Battle-Scarred",
+        "name": "혈의 각인",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "94463200"
     },
     {
         "id": "DCR-019",
-        "name": "Berserk Dragon",
+        "name": "버서크 데드 드래곤",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "85605684"
     },
     {
         "id": "DCR-104",
-        "name": "Blast Held by a Tribute",
+        "name": "제물이 감춘 폭탄",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "89041555"
     },
     {
         "id": "DCR-022",
-        "name": "Blindly Loyal Goblin",
+        "name": "맹신하는 고블린",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "35215622"
     },
     {
         "id": "DCR-032",
-        "name": "Butterfly Dagger - Elma",
+        "name": "나비의 단검-엘마",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "69243953"
     },
     {
         "id": "DCR-090",
-        "name": "Cestus of Dagla",
+        "name": "다그라의 검",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "28106077"
     },
     {
         "id": "DCR-089",
-        "name": "Checkmate",
+        "name": "디스커버드 어택",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "69313735"
     },
     {
         "id": "DCR-031",
-        "name": "Contract with Exodia",
+        "name": "엑조디아와의 계약",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "33244944"
     },
     {
         "id": "DCR-086",
-        "name": "Contract with the Abyss",
+        "name": "나락과의 계약",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "69035382"
     },
     {
         "id": "DCR-087",
-        "name": "Contract with the Dark Master",
+        "name": "어둠의 지배자와의 계약",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "96420087"
     },
     {
         "id": "DCR-053",
-        "name": "Cost Down",
+        "name": "코스트 다운",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "23265313"
     },
     {
         "id": "DCR-011",
-        "name": "Cyber Raider",
+        "name": "사이버 레이더",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "39978267"
     },
     {
         "id": "DCR-055",
-        "name": "D.D. Trainer",
+        "name": "이차원 트레이너",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "86498013"
     },
     {
         "id": "DCR-027",
-        "name": "D.D. Warrior Lady",
+        "name": "이차원의 여전사",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "7572887"
     },
     {
         "id": "DCR-017",
-        "name": "Dark Flare Knight",
+        "name": "블랙 플레어 나이트",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "13722870"
     },
     {
         "id": "DCR-082",
-        "name": "Dark Master - Zorc",
+        "name": "어둠의 지배자-조크",
         "type": "Ritual Effect Monster",
         "rarity": "Super Rare",
         "imgId": "97642679"
     },
     {
         "id": "DCR-026",
-        "name": "Dark Scorpion - Chick the Yellow",
+        "name": "전갈-도주하는 치크",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "61587183"
     },
     {
         "id": "DCR-060",
-        "name": "Dark Scorpion - Gorg the Strong",
+        "name": "전갈-강력한 고그",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "48768179"
     },
     {
         "id": "DCR-061",
-        "name": "Dark Scorpion - Meanae the Thorn",
+        "name": "전갈-가시의 미네",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "74153887"
     },
     {
         "id": "DCR-098",
-        "name": "Dark Scorpion Combination",
+        "name": "필살! 전갈 콤비네이션",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "20858318"
     },
     {
         "id": "DCR-069",
-        "name": "Darkbishop Archfiend",
+        "name": "다크 비숍 데몬",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "35798491"
     },
     {
         "id": "DCR-014",
-        "name": "Des Feral Imp",
+        "name": "데스 그렘린",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "81985784"
     },
     {
         "id": "DCR-023",
-        "name": "Despair from the Dark",
+        "name": "어둠에서 나온 절망",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "71200730"
     },
     {
         "id": "DCR-070",
-        "name": "Desrook Archfiend",
+        "name": "데스룩 데몬",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "72192100"
     },
     {
         "id": "DCR-100",
-        "name": "Dice Re-Roll",
+        "name": "리버스 다이스",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "83241722"
     },
     {
         "id": "DCR-015",
-        "name": "Different Dimension Dragon",
+        "name": "트와이라이트존 드래곤",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "50939127"
     },
     {
         "id": "DCR-044",
-        "name": "Different Dimension Gate",
+        "name": "이차원 격리 장치",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "56460688"
     },
     {
         "id": "DCR-084",
-        "name": "Dragged Down into the Grave",
+        "name": "무덤으로의 동반",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "16435215"
     },
     {
         "id": "DCR-020",
-        "name": "Exodia Necross",
+        "name": "엑조디아 네크로스",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "12600382"
     },
     {
         "id": "DCR-040",
-        "name": "Fairy of the Spring",
+        "name": "샘의 정령",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "20188127"
     },
     {
         "id": "DCR-088",
-        "name": "Falling Down",
+        "name": "타락",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "32919136"
     },
     {
         "id": "DCR-025",
-        "name": "Fear from the Dark",
+        "name": "어둠에서 오는 공포",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "34193084"
     },
     {
         "id": "DCR-045",
-        "name": "Final Attack Orders",
+        "name": "최후 돌격명령",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "52503575"
     },
     {
         "id": "DCR-091",
-        "name": "Final Countdown",
+        "name": "종언의 카운트 다운",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "95308449"
     },
     {
         "id": "DCR-096",
-        "name": "Frozen Soul",
+        "name": "영혼의 빙결",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "57069605"
     },
     {
         "id": "DCR-054",
-        "name": "Gagagigo",
+        "name": "가가기고",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "49003308"
     },
     {
         "id": "DCR-065",
-        "name": "Goblin of Greed",
+        "name": "욕망의 고블린",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "425934"
     },
     {
         "id": "DCR-034",
-        "name": "Gravity Axe - Grarl",
+        "name": "중력의 도끼-그랄",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "32022366"
     },
     {
         "id": "DCR-063",
-        "name": "Great Maju Garzett",
+        "name": "위대한 마수 가젯트",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "47942531"
     },
     {
         "id": "DCR-008",
-        "name": "Guardian Baou",
+        "name": "가디언 바오우",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "73544866"
     },
     {
         "id": "DCR-006",
-        "name": "Guardian Ceal",
+        "name": "가디언 실",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "10755153"
     },
     {
         "id": "DCR-005",
-        "name": "Guardian Elma",
+        "name": "가디언 엘마",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "74367458"
     },
     {
         "id": "DCR-007",
-        "name": "Guardian Grarl",
+        "name": "가디언 그랄",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "47150851"
     },
     {
         "id": "DCR-009",
-        "name": "Guardian Kay'est",
+        "name": "가디언 케이스트",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "9633505"
     },
     {
         "id": "DCR-010",
-        "name": "Guardian Tryce",
+        "name": "가디언 트라이스",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "46037213"
     },
     {
         "id": "DCR-021",
-        "name": "Gyaku-Gire Panda",
+        "name": "분노 팬더",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "9817927"
     },
     {
         "id": "DCR-085",
-        "name": "Incandescent Ordeal",
+        "name": "작열의 시련",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "33031674"
     },
     {
         "id": "DCR-071",
-        "name": "Infernalqueen Archfiend",
+        "name": "인페르노퀸 데몬",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "8581705"
     },
     {
         "id": "DCR-052",
-        "name": "Interdimensional Matter Transporter",
+        "name": "아공간 물질 전송장치",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "36261276"
     },
     {
         "id": "DCR-064",
-        "name": "Iron Blacksmith Kotetsu",
+        "name": "명공 호철",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "73431236"
     },
     {
         "id": "DCR-105",
-        "name": "Judgment of Anubis",
+        "name": "아누비스의 심판",
         "type": "Trap Card",
         "rarity": "Secret Rare",
         "imgId": "55256016"
     },
     {
         "id": "DCR-051",
-        "name": "Kaiser Glider",
+        "name": "카이저 글라이더",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "52824910"
     },
     {
         "id": "DCR-078",
-        "name": "Kelbek",
+        "name": "켈벡",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "54878498"
     },
     {
         "id": "DCR-077",
-        "name": "Keldo",
+        "name": "켈도",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "80441106"
     },
     {
         "id": "DCR-081",
-        "name": "Legendary Flame Lord",
+        "name": "전설의 폭염사",
         "type": "Ritual Effect Monster",
         "rarity": "Rare",
         "imgId": "60258960"
     },
     {
         "id": "DCR-013",
-        "name": "Little-Winguard",
+        "name": "리틀 윈가드",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "90790253"
     },
     {
         "id": "DCR-024",
-        "name": "Maju Garzett",
+        "name": "합성마수 가젯트",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "8794435"
     },
     {
         "id": "DCR-066",
-        "name": "Mefist the Infernal General",
+        "name": "지옥장군 메피스트",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "46820049"
     },
     {
         "id": "DCR-074",
-        "name": "Metallizing Parasite - Lunatite",
+        "name": "메탈화 기생생물-루나타이트",
         "type": "Union Effect Monster",
         "rarity": "Rare",
         "imgId": "7369217"
     },
     {
         "id": "DCR-018",
-        "name": "Mirage Knight",
+        "name": "미라지 나이트",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "49217579"
     },
     {
         "id": "DCR-042",
-        "name": "Morale Boost",
+        "name": "사기고양",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "93671934"
     },
     {
         "id": "DCR-076",
-        "name": "Mudora",
+        "name": "무도라",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "82108372"
     },
     {
         "id": "DCR-093",
-        "name": "Mustering of the Dark Scorpions",
+        "name": "전갈단 소집",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "68191243"
     },
     {
         "id": "DCR-002",
-        "name": "Nin-Ken Dog",
+        "name": "닌자견 원더독",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "11987744"
     },
     {
         "id": "DCR-043",
-        "name": "Non-Spellcasting Area",
+        "name": "절대 마법 금지구역",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "20065549"
     },
     {
         "id": "DCR-056",
-        "name": "Ojama Green",
+        "name": "방해꾼 그린",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "12482652"
     },
     {
         "id": "DCR-047",
-        "name": "Ojama Trio",
+        "name": "방해꾼 트리오",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "29843091"
     },
     {
         "id": "DCR-062",
-        "name": "Outstanding Dog Marron",
+        "name": "미아견 마론",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "11548522"
     },
     {
         "id": "DCR-094",
-        "name": "Pandemonium",
+        "name": "팬더모니엄-악마의 소굴-",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "94585852"
     },
     {
         "id": "DCR-058",
-        "name": "Pandemonium Watchbear",
+        "name": "지옥의 파수곰",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "75375465"
     },
     {
         "id": "DCR-038",
-        "name": "Precious Cards from Beyond",
+        "name": "명계의 패",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "68304813"
     },
     {
         "id": "DCR-103",
-        "name": "Ray of Hope",
+        "name": "희망의 빛",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "82529174"
     },
     {
         "id": "DCR-050",
-        "name": "Really Eternal Rest",
+        "name": "대성불",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "28121403"
     },
     {
         "id": "DCR-012",
-        "name": "Reflect Bounder",
+        "name": "마경도사 리플렉트 바운더",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "2851070"
     },
     {
         "id": "DCR-036",
-        "name": "Rod of Silence - Kay'est",
+        "name": "정적의 로드-케이스트",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "95515060"
     },
     {
         "id": "DCR-039",
-        "name": "Rod of the Mind's Eye",
+        "name": "심안의 지팡이",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "94793422"
     },
     {
         "id": "DCR-102",
-        "name": "Sakuretsu Armor",
+        "name": "작렬 장갑",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "56120475"
     },
     {
         "id": "DCR-059",
-        "name": "Sasuke Samurai #2",
+        "name": "언어도단 사무라이",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "11760174"
     },
     {
         "id": "DCR-068",
-        "name": "Shadowknight Archfiend",
+        "name": "섀도우 나이트 데몬",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "9603356"
     },
     {
         "id": "DCR-016",
-        "name": "Shinato, King of a Higher Plane",
+        "name": "천계왕 시나토",
         "type": "Ritual Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "86327225"
     },
     {
         "id": "DCR-029",
-        "name": "Shinato's Ark",
+        "name": "기적의 방주",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "60365591"
     },
     {
         "id": "DCR-033",
-        "name": "Shooting Star Bow - Ceal",
+        "name": "유성의 활-실",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "95638658"
     },
     {
         "id": "DCR-049",
-        "name": "Skill Drain",
+        "name": "스킬 드레인",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "82732705"
     },
     {
         "id": "DCR-073",
-        "name": "Skull Archfiend of Lightning",
+        "name": "신뢰의 마왕-스컬 데몬",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "61370518"
     },
     {
         "id": "DCR-083",
-        "name": "Spell Reproduction",
+        "name": "마법 재생",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "29228529"
     },
     {
         "id": "DCR-101",
-        "name": "Spell Vanishing",
+        "name": "주술 말소",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "29735721"
     },
     {
         "id": "DCR-046",
-        "name": "Staunch Defender",
+        "name": "가로막는 강적",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "92854392"
     },
     {
         "id": "DCR-072",
-        "name": "Terrorking Archfiend",
+        "name": "제노사이드킹 데몬",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "35975813"
     },
     {
         "id": "DCR-028",
-        "name": "Thousand Needles",
+        "name": "천개가시 고슴도치",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "33977496"
     },
     {
         "id": "DCR-041",
-        "name": "Token Thanksgiving",
+        "name": "토큰 수확축제",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "57182235"
     },
     {
         "id": "DCR-075",
-        "name": "Tsukuyomi",
+        "name": "쓰쿠요미",
         "type": "Spirit Monster",
         "rarity": "Rare",
         "imgId": "34853266"
     },
     {
         "id": "DCR-037",
-        "name": "Twin Swords of Flashing Light - Tryce",
+        "name": "섬광의 쌍검-트라이스",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "21900719"
     },
     {
         "id": "DCR-000",
-        "name": "Vampire Lord",
+        "name": "뱀파이어 로드",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "53839837"
     },
     {
         "id": "DCR-067",
-        "name": "Vilepawn Archfiend",
+        "name": "헬폰 데몬",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "73219648"
     },
     {
         "id": "DCR-035",
-        "name": "Wicked-Breaking Flamberge - Baou",
+        "name": "파사의 대검-바오우",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "68427465"
     },
     {
         "id": "DCR-079",
-        "name": "Zolga",
+        "name": "졸가",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "16268841"

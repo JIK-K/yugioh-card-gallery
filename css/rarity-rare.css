@@ -1,0 +1,135 @@
+/* ═══════════════════════════════════════════════════════════
+   RARITY — RARE
+   amazing-rare.css 기법 기반 (simeydotme "amazing rare" 재현)
+
+   필요한 이미지 파일:
+   ─ /img/glitter.png   글리터 텍스처  (card.css --glitter 변수)
+   ═══════════════════════════════════════════════════════════ */
+
+[data-rarity="Rare"] .card-3d {
+  box-shadow:
+    0 4px 18px rgba(0, 0, 0, 0.7),
+    0 0 0 1px rgba(190, 188, 215, 0.5),
+    0 0 12px rgba(160, 155, 210, 0.15);
+}
+
+
+/* ══════════════════════════════════════════════════════════
+   SHINE
+   ══════════════════════════════════════════════════════════ */
+
+[data-rarity="Rare"] .card__shine,
+[data-rarity="Rare"] .card-shine {
+
+  --space: 5%;
+  --angle: 133deg;
+
+  background-image:
+    var(--glitter, url("/img/glitter.png")),
+    var(--glitter, url("/img/glitter.png")),
+    radial-gradient(
+      farthest-corner circle at var(--pointer-x) var(--pointer-y),
+      hsla(150, 20%, 10%, 1)    10%,
+      hsla(177, 22%, 80%, 0.1)  50%,
+      hsla(0,   0%, 95%, 0.98)  90%
+    );
+
+  background-size:
+    var(--glittersize, 25%) var(--glittersize, 25%),
+    var(--glittersize, 25%) var(--glittersize, 25%),
+    cover;
+  background-position: 40% 45%, 55% 55%, center center;
+  background-blend-mode: soft-light, color-burn;
+
+  filter: brightness(1) contrast(1) saturate(.45);
+  mix-blend-mode: color-dodge;
+  opacity: calc(var(--card-opacity) * 0.5);
+  transition:
+    opacity 0.4s,
+    background-position 0.1s,
+    filter 0.1s;
+}
+
+
+/* ── shine ::after — sunpillar saturation ── */
+
+[data-rarity="Rare"] .card__shine::after,
+[data-rarity="Rare"] .card-shine::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+
+  background-image: repeating-linear-gradient(
+    var(--angle, 133deg),
+    var(--sunpillar-1) calc(var(--space, 5%) * 1),
+    var(--sunpillar-2) calc(var(--space, 5%) * 2),
+    var(--sunpillar-3) calc(var(--space, 5%) * 3),
+    var(--sunpillar-4) calc(var(--space, 5%) * 4),
+    var(--sunpillar-5) calc(var(--space, 5%) * 5),
+    var(--sunpillar-6) calc(var(--space, 5%) * 6),
+    var(--sunpillar-1) calc(var(--space, 5%) * 7)
+  );
+
+  background-size: 400% 800%;
+  background-position:
+    calc(50% + (50% - var(--background-x)) * 1.5)
+    calc(50% + (50% - var(--background-y)) * 1.5);
+
+  filter: brightness(calc(0.875 - (var(--pointer-from-center) * 0.25))) contrast(1) saturate(0.5);
+  mix-blend-mode: saturation;
+}
+
+
+/* ── shine ::before — 마우스 위치 불빛 ── */
+
+[data-rarity="Rare"] .card__shine::before,
+[data-rarity="Rare"] .card-shine::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  z-index: 1;
+
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(0, 0%, 100%)    0%,
+    hsla(0, 0%, 0%, 0) 40%
+  );
+  background-position: center;
+  background-size: cover;
+
+  mix-blend-mode: overlay;
+  opacity: calc(var(--card-opacity) * 0.6);
+}
+
+
+/* ══════════════════════════════════════════════════════════
+   GLARE
+   ══════════════════════════════════════════════════════════ */
+
+[data-rarity="Rare"] .card__glare,
+[data-rarity="Rare"] .card-glare {
+  background-image: radial-gradient(
+    farthest-corner circle at var(--pointer-x) var(--pointer-y),
+    hsl(0, 0%, 75%)       5%,
+    hsl(200, 5%, 35%)    60%,
+    hsl(320, 40%, 10%)  150%
+  );
+  background-size: 120% 150%;
+  background-position: center center;
+
+  mix-blend-mode: hard-light;
+  filter: brightness(1) contrast(1.2) saturate(1);
+  opacity: calc(var(--card-opacity) * 0.55);
+  transition:
+    opacity 0.3s,
+    background-image 0.08s;
+}
+
+/* ─── 레어리티 라벨 ─── */
+
+[data-rarity="Rare"] .info-rarity {
+  color: #b0b4cc;
+  text-shadow: 0 0 8px rgba(180, 185, 230, 0.6);
+}

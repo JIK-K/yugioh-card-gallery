@@ -1,707 +1,707 @@
 [
     {
         "id": "LOD-032",
-        "name": "A Feint Plan",
+        "name": "양동 작전",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "68170903"
     },
     {
         "id": "LOD-078",
-        "name": "A Legendary Ocean",
+        "name": "전설의 도시 아틀란티스",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "295517"
     },
     {
         "id": "LOD-044",
-        "name": "A Wingbeat of Giant Dragon",
+        "name": "거룡의 도약",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "28596933"
     },
     {
         "id": "LOD-086",
-        "name": "After the Struggle",
+        "name": "제노사이드 워",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "25345186"
     },
     {
         "id": "LOD-062",
-        "name": "Airknight Parshath",
+        "name": "천공기사 파샤스",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "18036057"
     },
     {
         "id": "LOD-029",
-        "name": "Array of Revealing Light",
+        "name": "빛의 호봉진",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "69296555"
     },
     {
         "id": "LOD-071",
-        "name": "Asura Priest",
+        "name": "아수라",
         "type": "Spirit Monster",
         "rarity": "Super Rare",
         "imgId": "2134346"
     },
     {
         "id": "LOD-093",
-        "name": "Bad Reaction to Simochi",
+        "name": "시모치의 부작용",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "40633297"
     },
     {
         "id": "LOD-010",
-        "name": "Bark of Dark Ruler",
+        "name": "명왕의 포효",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "41925941"
     },
     {
         "id": "LOD-088",
-        "name": "Blast with Chain",
+        "name": "쇠사슬 폭탄",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "98239899"
     },
     {
         "id": "LOD-092",
-        "name": "Bottomless Trap Hole",
+        "name": "나락의 함정 속으로",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "29401950"
     },
     {
         "id": "LOD-090",
-        "name": "Bubble Crash",
+        "name": "버블 크래시",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "61622107"
     },
     {
         "id": "LOD-049",
-        "name": "Burst Breath",
+        "name": "버스트 브레스",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "80163754"
     },
     {
         "id": "LOD-040",
-        "name": "Cave Dragon",
+        "name": "그랜드 드래곤",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "93220472"
     },
     {
         "id": "LOD-084",
-        "name": "Convulsion of Nature",
+        "name": "천재지변",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "62966332"
     },
     {
         "id": "LOD-081",
-        "name": "Creature Swap",
+        "name": "강제전이",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "31036355"
     },
     {
         "id": "LOD-002",
-        "name": "Dark Balter the Terrible",
+        "name": "마인 다크 벌터",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "80071763"
     },
     {
         "id": "LOD-001",
-        "name": "Dark Ruler Ha Des",
+        "name": "명계의 마왕 하데스",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "53982768"
     },
     {
         "id": "LOD-089",
-        "name": "Disappear",
+        "name": "로스트",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "24623598"
     },
     {
         "id": "LOD-015",
-        "name": "Double Snare",
+        "name": "더블 트랩",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "3682106"
     },
     {
         "id": "LOD-026",
-        "name": "Dragon Manipulator",
+        "name": "드래곤 라이더",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "63018132"
     },
     {
         "id": "LOD-045",
-        "name": "Dragon's Gunfire",
+        "name": "화룡의 화염탄",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "55991637"
     },
     {
         "id": "LOD-048",
-        "name": "Dragon's Rage",
+        "name": "용의 분노",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "54178050"
     },
     {
         "id": "LOD-097",
-        "name": "Drop Off",
+        "name": "드롭 오프",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "55773067"
     },
     {
         "id": "LOD-033",
-        "name": "Emergency Provisions",
+        "name": "비상 식량",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "53046408"
     },
     {
         "id": "LOD-023",
-        "name": "Exiled Force",
+        "name": "반란 용병 부대",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "74131780"
     },
     {
         "id": "LOD-011",
-        "name": "Fatal Abacus",
+        "name": "죽음의 주판",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "77910045"
     },
     {
         "id": "LOD-075",
-        "name": "Fengsheng Mirror",
+        "name": "봉신경",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "37406863"
     },
     {
         "id": "LOD-056",
-        "name": "Fiber Jar",
+        "name": "파이버 포드",
         "type": "Flip Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "78706415"
     },
     {
         "id": "LOD-098",
-        "name": "Fiend Comedian",
+        "name": "데블 코메디언",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "81172176"
     },
     {
         "id": "LOD-039",
-        "name": "Fiend Skull Dragon",
+        "name": "데스 데몬 드래곤",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "66235877"
     },
     {
         "id": "LOD-016",
-        "name": "Freed the Matchless General",
+        "name": "무적장군 프리드",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "49681811"
     },
     {
         "id": "LOD-022",
-        "name": "Frontier Wiseman",
+        "name": "변경의 대현자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "38742075"
     },
     {
         "id": "LOD-072",
-        "name": "Fushi No Tori",
+        "name": "불사조",
         "type": "Spirit Monster",
         "rarity": "Common",
         "imgId": "38538445"
     },
     {
         "id": "LOD-079",
-        "name": "Fusion Sword Murasame Blade",
+        "name": "융합무기 무라사메 검",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "37684215"
     },
     {
         "id": "LOD-060",
-        "name": "Gradius' Option",
+        "name": "옵션",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "14291024"
     },
     {
         "id": "LOD-041",
-        "name": "Gray Wing",
+        "name": "그레이 윙",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "29618570"
     },
     {
         "id": "LOD-068",
-        "name": "Great Long Nose",
+        "name": "위대한 탱구",
         "type": "Spirit Monster",
         "rarity": "Common",
         "imgId": "2356994"
     },
     {
         "id": "LOD-077",
-        "name": "Heart of Clear Water",
+        "name": "명경지수의 마음",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "64801562"
     },
     {
         "id": "LOD-070",
-        "name": "Hino-Kagu-Tsuchi",
+        "name": "화지가구토",
         "type": "Spirit Monster",
         "rarity": "Ultra Rare",
         "imgId": "75745607"
     },
     {
         "id": "LOD-065",
-        "name": "Inaba White Rabbit",
+        "name": "이나바의 백토",
         "type": "Spirit Monster",
         "rarity": "Short Print",
         "imgId": "77084837"
     },
     {
         "id": "LOD-100",
-        "name": "Injection Fairy Lily",
+        "name": "주사천사 리리",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "79575620"
     },
     {
         "id": "LOD-099",
-        "name": "Last Turn",
+        "name": "라스트 배틀!",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "28566710"
     },
     {
         "id": "LOD-003",
-        "name": "Lesser Fiend",
+        "name": "레서 데몬",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "16475472"
     },
     {
         "id": "LOD-012",
-        "name": "Life Absorbing Machine",
+        "name": "생명흡수장치",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "14318794"
     },
     {
         "id": "LOD-038",
-        "name": "Lizard Soldier",
+        "name": "리저드 솔저",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "20831168"
     },
     {
         "id": "LOD-050",
-        "name": "Luster Dragon #2",
+        "name": "에머랄드 드래곤",
         "type": "Normal Monster",
         "rarity": "Super Rare",
         "imgId": "17658803"
     },
     {
         "id": "LOD-087",
-        "name": "Magic Reflector",
+        "name": "매직 가드너",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "61844784"
     },
     {
         "id": "LOD-064",
-        "name": "Maharaghi",
+        "name": "마하라기",
         "type": "Spirit Monster",
         "rarity": "Short Print",
         "imgId": "40695128"
     },
     {
         "id": "LOD-018",
-        "name": "Marauding Captain",
+        "name": "선봉 대장",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "2460565"
     },
     {
         "id": "LOD-021",
-        "name": "Mysterious Guard",
+        "name": "성스러운 파수꾼",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "1347977"
     },
     {
         "id": "LOD-096",
-        "name": "Nutrient Z",
+        "name": "체력 증강제 슈퍼 Z",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "29389368"
     },
     {
         "id": "LOD-094",
-        "name": "Ominous Fortunetelling",
+        "name": "불길한 운세",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "56995655"
     },
     {
         "id": "LOD-009",
-        "name": "Opticlops",
+        "name": "붉은 외눈 거인",
         "type": "Normal Monster",
         "rarity": "Rare",
         "imgId": "14531242"
     },
     {
         "id": "LOD-069",
-        "name": "Otohime",
+        "name": "용궁지희",
         "type": "Spirit Monster",
         "rarity": "Super Short Print",
         "imgId": "39751094"
     },
     {
         "id": "LOD-058",
-        "name": "Patrician of Darkness",
+        "name": "노블 드 느와르",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "19153634"
     },
     {
         "id": "LOD-004",
-        "name": "Possessed Dark Soul",
+        "name": "빙의하는 블러드 소울",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "52860176"
     },
     {
         "id": "LOD-031",
-        "name": "Ready for Intercepting",
+        "name": "요격 준비",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "31785398"
     },
     {
         "id": "LOD-028",
-        "name": "Reinforcement of the Army",
+        "name": "증원",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "32807846"
     },
     {
         "id": "LOD-054",
-        "name": "Robolady",
+        "name": "레어메탈 레이디",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "92421852"
     },
     {
         "id": "LOD-051",
-        "name": "Robotic Knight",
+        "name": "기계 군조",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "44203504"
     },
     {
         "id": "LOD-055",
-        "name": "Roboyarou",
+        "name": "레어메탈 솔저",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "38916461"
     },
     {
         "id": "LOD-091",
-        "name": "Royal Oppression",
+        "name": "왕궁의 탄압",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "93016201"
     },
     {
         "id": "LOD-019",
-        "name": "Ryu Senshi",
+        "name": "드래곤 워리어",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "49868263"
     },
     {
         "id": "LOD-007",
-        "name": "Ryu-Kishin Clown",
+        "name": "가고일의 도화사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "42647539"
     },
     {
         "id": "LOD-083",
-        "name": "Second Coin Toss",
+        "name": "세컨드 찬스",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "36562627"
     },
     {
         "id": "LOD-057",
-        "name": "Serpentine Princess",
+        "name": "뱀공주",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "71829750"
     },
     {
         "id": "LOD-025",
-        "name": "Shadow Tamer",
+        "name": "데몬 테이머",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "37620434"
     },
     {
         "id": "LOD-006",
-        "name": "Skull Knight #2",
+        "name": "스컬 나이트",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "15653824"
     },
     {
         "id": "LOD-080",
-        "name": "Smoke Grenade of the Thief",
+        "name": "도둑의 연막탄",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "63789924"
     },
     {
         "id": "LOD-014",
-        "name": "Soul Demolition",
+        "name": "영혼 분쇄",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "76297408"
     },
     {
         "id": "LOD-035",
-        "name": "Spear Dragon",
+        "name": "스피어 드래곤",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "31553716"
     },
     {
         "id": "LOD-036",
-        "name": "Spirit Ryu",
+        "name": "스피릿 드래곤",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "67957315"
     },
     {
         "id": "LOD-095",
-        "name": "Spirit's Invitation",
+        "name": "스피릿의 권유",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "92394653"
     },
     {
         "id": "LOD-082",
-        "name": "Spiritual Energy Settle Machine",
+        "name": "영혼 에너지 고정장치",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "99173029"
     },
     {
         "id": "LOD-076",
-        "name": "Spring of Rebirth",
+        "name": "엘리멘트의 샘",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "94425169"
     },
     {
         "id": "LOD-046",
-        "name": "Stamping Destruction",
+        "name": "스탬핑 크러시",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "81385346"
     },
     {
         "id": "LOD-047",
-        "name": "Super Rejuvenation",
+        "name": "초재생능력",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "27770341"
     },
     {
         "id": "LOD-073",
-        "name": "Super Robolady",
+        "name": "레어메탈 발키리",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "75923050"
     },
     {
         "id": "LOD-074",
-        "name": "Super Roboyarou",
+        "name": "레어메탈 나이트",
         "type": "Fusion Monster",
         "rarity": "Common",
         "imgId": "1412158"
     },
     {
         "id": "LOD-066",
-        "name": "Susa Soldier",
+        "name": "뇌제신",
         "type": "Spirit Monster",
         "rarity": "Rare",
         "imgId": "40473581"
     },
     {
         "id": "LOD-027",
-        "name": "The A. Forces",
+        "name": "연합군",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "403847"
     },
     {
         "id": "LOD-037",
-        "name": "The Dragon Dwelling in the Cave",
+        "name": "동굴에 숨은 용",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "93346024"
     },
     {
         "id": "LOD-043",
-        "name": "The Dragon's Bead",
+        "name": "드래곤의 구슬",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "92408984"
     },
     {
         "id": "LOD-024",
-        "name": "The Hunter with 7 Weapons",
+        "name": "7가지 무기를 가진 헌터",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "1525329"
     },
     {
         "id": "LOD-053",
-        "name": "The Illusory Gentleman",
+        "name": "마도신사-J",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "83764996"
     },
     {
         "id": "LOD-013",
-        "name": "The Puppet Magic of Dark Ruler",
+        "name": "명계의 괴뢰술",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "40703393"
     },
     {
         "id": "LOD-085",
-        "name": "The Secret of the Bandit",
+        "name": "도적의 비밀",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "99351431"
     },
     {
         "id": "LOD-030",
-        "name": "The Warrior Returning Alive",
+        "name": "전사의 생환",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "95281259"
     },
     {
         "id": "LOD-017",
-        "name": "Throwstone Unit",
+        "name": "투석 부대",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "76075810"
     },
     {
         "id": "LOD-059",
-        "name": "Thunder Nyan Nyan",
+        "name": "번개낭랑",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "70797118"
     },
     {
         "id": "LOD-042",
-        "name": "Troop Dragon",
+        "name": "군대 드래곤",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "55013285"
     },
     {
         "id": "LOD-063",
-        "name": "Twin-Headed Behemoth",
+        "name": "돌도라",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "43586926"
     },
     {
         "id": "LOD-008",
-        "name": "Twin-Headed Wolf",
+        "name": "두 머리의 케로베로스",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "88132637"
     },
     {
         "id": "LOD-034",
-        "name": "Tyrant Dragon",
+        "name": "타이란트 드래곤",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "94568601"
     },
     {
         "id": "LOD-020",
-        "name": "Warrior Dai Grepher",
+        "name": "전사 다이 그레퍼",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "75953262"
     },
     {
         "id": "LOD-005",
-        "name": "Winged Minion",
+        "name": "하데스의 마법",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "89258225"
     },
     {
         "id": "LOD-052",
-        "name": "Wolf Axwielder",
+        "name": "베이어 울프",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "56369281"
     },
     {
         "id": "LOD-061",
-        "name": "Woodland Sprite",
+        "name": "잎의 요정",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "6979239"
     },
     {
         "id": "LOD-067",
-        "name": "Yamata Dragon",
+        "name": "야마타 드래곤",
         "type": "Spirit Monster",
         "rarity": "Ultra Rare",
         "imgId": "76862289"
     },
     {
         "id": "LOD-000",
-        "name": "Yata-Garasu",
+        "name": "야타 까마귀",
         "type": "Spirit Monster",
         "rarity": "Secret Rare",
         "imgId": "3078576"

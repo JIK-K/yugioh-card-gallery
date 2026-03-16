@@ -1,756 +1,756 @@
 [
     {
         "id": "PGD-024",
-        "name": "8-Claws Scorpion",
+        "name": "8쌍 다리 스콜피온",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "14261867"
     },
     {
         "id": "PGD-070",
-        "name": "A Cat of Ill Omen",
+        "name": "불행을 알리는 검은고양이",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "24140059"
     },
     {
         "id": "PGD-068",
-        "name": "A Man with Wdjat",
+        "name": "우자트의 눈을 가진 남자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "51351302"
     },
     {
         "id": "PGD-073",
-        "name": "An Owl of Luck",
+        "name": "행운을 알리는 올빼미",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "23927567"
     },
     {
         "id": "PGD-007",
-        "name": "Arsenal Bug",
+        "name": "아머드 플라이",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "42364374"
     },
     {
         "id": "PGD-089",
-        "name": "Banner of Courage",
+        "name": "용기의 깃발",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "10012614"
     },
     {
         "id": "PGD-095",
-        "name": "Barrel Behind the Door",
+        "name": "지옥문 저편의 총",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "78783370"
     },
     {
         "id": "PGD-005",
-        "name": "Birdface",
+        "name": "버드 페이스",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "45547649"
     },
     {
         "id": "PGD-033",
-        "name": "Book of Life",
+        "name": "생자의 서-금단의 주술-",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "2204140"
     },
     {
         "id": "PGD-035",
-        "name": "Book of Moon",
+        "name": "달의 서",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "14087893"
     },
     {
         "id": "PGD-034",
-        "name": "Book of Taiyou",
+        "name": "태양의 서",
         "type": "Spell Card",
         "rarity": "Short Print",
         "imgId": "38699854"
     },
     {
         "id": "PGD-043",
-        "name": "Bottomless Shifting Sand",
+        "name": "바닥없는 모래늪",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "76532077"
     },
     {
         "id": "PGD-085",
-        "name": "Buster Rancher",
+        "name": "버스터 런처",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "84740193"
     },
     {
         "id": "PGD-103",
-        "name": "Byser Shock",
+        "name": "바이서 쇼크",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "17597059"
     },
     {
         "id": "PGD-038",
-        "name": "Call of the Mummy",
+        "name": "미라가 부르는 소리",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "4861205"
     },
     {
         "id": "PGD-080",
-        "name": "Card Shuffle",
+        "name": "숏 건 셔플",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "12183332"
     },
     {
         "id": "PGD-074",
-        "name": "Charm of Shabti",
+        "name": "샤브티의 부적",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "50412166"
     },
     {
         "id": "PGD-075",
-        "name": "Cobra Jar",
+        "name": "스네이크 포트",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "86801871"
     },
     {
         "id": "PGD-032",
-        "name": "Cobraman Sakuzy",
+        "name": "코브라맨 사쿠지",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "75109441"
     },
     {
         "id": "PGD-093",
-        "name": "Coffin Seller",
+        "name": "관장수",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "65830223"
     },
     {
         "id": "PGD-094",
-        "name": "Curse of Aging",
+        "name": "노화의 저주",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "41398771"
     },
     {
         "id": "PGD-044",
-        "name": "Curse of Royal",
+        "name": "왕가의 저주",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "2926176"
     },
     {
         "id": "PGD-102",
-        "name": "D. Tribe",
+        "name": "용의 혈족",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "2833249"
     },
     {
         "id": "PGD-047",
-        "name": "Dark Coffin",
+        "name": "저주받은 관",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "1804528"
     },
     {
         "id": "PGD-079",
-        "name": "Dark Designator",
+        "name": "어둠의 지명자",
         "type": "Spell Card",
         "rarity": "Rare",
         "imgId": "78053598"
     },
     {
         "id": "PGD-017",
-        "name": "Dark Dust Spirit",
+        "name": "모래 먼지의 악령",
         "type": "Spirit Monster",
         "rarity": "Short Print",
         "imgId": "89111398"
     },
     {
         "id": "PGD-056",
-        "name": "Dark Jeroid",
+        "name": "다크 제로이드",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "90980792"
     },
     {
         "id": "PGD-082",
-        "name": "Dark Room of Nightmare",
+        "name": "악몽의 고문실",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "85562745"
     },
     {
         "id": "PGD-028",
-        "name": "Dark Scorpion Burglars",
+        "name": "전갈 도굴단",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "40933924"
     },
     {
         "id": "PGD-087",
-        "name": "Dark Snake Syndrome",
+        "name": "흑사병",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "47233801"
     },
     {
         "id": "PGD-030",
-        "name": "Des Lacooda",
+        "name": "데스 낙타",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "2326738"
     },
     {
         "id": "PGD-027",
-        "name": "Dice Jar",
+        "name": "다이스 포트",
         "type": "Flip Effect Monster",
         "rarity": "Short Print",
         "imgId": "3549275"
     },
     {
         "id": "PGD-083",
-        "name": "Different Dimension Capsule",
+        "name": "타임 캡슐",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "11961740"
     },
     {
         "id": "PGD-098",
-        "name": "Disturbance Strategy",
+        "name": "교란작전",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "77561728"
     },
     {
         "id": "PGD-029",
-        "name": "Don Zaloog",
+        "name": "돈 잘우그",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "76922029"
     },
     {
         "id": "PGD-031",
-        "name": "Fushioh Richie",
+        "name": "불사왕 리치",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "39711336"
     },
     {
         "id": "PGD-023",
-        "name": "Giant Axe Mummy",
+        "name": "자이언트 미라",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "78266168"
     },
     {
         "id": "PGD-014",
-        "name": "Gora Turtle",
+        "name": "고라 터틀",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "80233946"
     },
     {
         "id": "PGD-067",
-        "name": "Gravekeeper's Assailant",
+        "name": "묘지기의 암살자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "25262697"
     },
     {
         "id": "PGD-066",
-        "name": "Gravekeeper's Cannonholder",
+        "name": "묘지기의 대포병",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "99877698"
     },
     {
         "id": "PGD-065",
-        "name": "Gravekeeper's Chief",
+        "name": "묘지기의 장",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "62473983"
     },
     {
         "id": "PGD-060",
-        "name": "Gravekeeper's Curse",
+        "name": "묘지기의 주술사",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "50712728"
     },
     {
         "id": "PGD-061",
-        "name": "Gravekeeper's Guard",
+        "name": "묘지기의 파수병",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "37101832"
     },
     {
         "id": "PGD-062",
-        "name": "Gravekeeper's Spear Soldier",
+        "name": "묘지기의 창기병",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "63695531"
     },
     {
         "id": "PGD-059",
-        "name": "Gravekeeper's Spy",
+        "name": "묘지기의 정찰자",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "24317029"
     },
     {
         "id": "PGD-063",
-        "name": "Gravekeeper's Vassal",
+        "name": "묘지기의 추종자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "99690140"
     },
     {
         "id": "PGD-064",
-        "name": "Gravekeeper's Watcher",
+        "name": "묘지기의 감시자",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "26084285"
     },
     {
         "id": "PGD-020",
-        "name": "Great Dezard",
+        "name": "대신관 데자드",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "88989706"
     },
     {
         "id": "PGD-025",
-        "name": "Guardian Sphinx",
+        "name": "가디언 스핑크스",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "40659562"
     },
     {
         "id": "PGD-058",
-        "name": "Helpoemer",
+        "name": "지옥시인 헬포에머",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "76052811"
     },
     {
         "id": "PGD-086",
-        "name": "Hieroglyph Lithograph",
+        "name": "히에로글리프의 석판",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "10248192"
     },
     {
         "id": "PGD-055",
-        "name": "Inpachi",
+        "name": "대목인18",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "97923414"
     },
     {
         "id": "PGD-009",
-        "name": "Jowls of Dark Demise",
+        "name": "X·E·N·O",
         "type": "Flip Effect Monster",
         "rarity": "Rare",
         "imgId": "5257687"
     },
     {
         "id": "PGD-054",
-        "name": "Kabazauls",
+        "name": "재채기 하마사우루스",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "51934376"
     },
     {
         "id": "PGD-004",
-        "name": "King Tiger Wanghu",
+        "name": "왕호 왕후",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "83986578"
     },
     {
         "id": "PGD-006",
-        "name": "Kryuel",
+        "name": "크루엘",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "82642348"
     },
     {
         "id": "PGD-107",
-        "name": "Lava Golem",
+        "name": "용암 마신 라바 골렘",
         "type": "Effect Monster",
         "rarity": "Secret Rare",
         "imgId": "102380"
     },
     {
         "id": "PGD-008",
-        "name": "Maiden of the Aqua",
+        "name": "해신의 무녀",
         "type": "Effect Monster",
         "rarity": "Short Print",
         "imgId": "17214465"
     },
     {
         "id": "PGD-053",
-        "name": "Master Kyonshee",
+        "name": "달인 강시",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "24530661"
     },
     {
         "id": "PGD-090",
-        "name": "Metamorphosis",
+        "name": "돌연변이",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "46411259"
     },
     {
         "id": "PGD-036",
-        "name": "Mirage of Nightmare",
+        "name": "악몽의 신기루",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "41482598"
     },
     {
         "id": "PGD-013",
-        "name": "Moisture Creature",
+        "name": "모이스처 성인",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "75285069"
     },
     {
         "id": "PGD-001",
-        "name": "Molten Behemoth",
+        "name": "용암 대거인",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "17192817"
     },
     {
         "id": "PGD-011",
-        "name": "Mucus Yolk",
+        "name": "그럿지",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "70307656"
     },
     {
         "id": "PGD-069",
-        "name": "Mystical Knight of Jackal",
+        "name": "자칼의 성전사",
         "type": "Effect Monster",
         "rarity": "Ultra Rare",
         "imgId": "98745000"
     },
     {
         "id": "PGD-097",
-        "name": "Narrow Pass",
+        "name": "좁은 통로",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "40172183"
     },
     {
         "id": "PGD-084",
-        "name": "Necrovalley",
+        "name": "왕가의 골짜기-네크로밸리",
         "type": "Spell Card",
         "rarity": "Super Rare",
         "imgId": "47355498"
     },
     {
         "id": "PGD-045",
-        "name": "Needle Ceiling",
+        "name": "바늘 천장",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "38411870"
     },
     {
         "id": "PGD-048",
-        "name": "Needle Wall",
+        "name": "바늘 벽",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "38299233"
     },
     {
         "id": "PGD-057",
-        "name": "Newdoria",
+        "name": "뉴도리아",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "4335645"
     },
     {
         "id": "PGD-077",
-        "name": "Nightmare Horse",
+        "name": "나이트메어 호스",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "59290628"
     },
     {
         "id": "PGD-106",
-        "name": "Nightmare Wheel",
+        "name": "고문 바퀴",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "54704216"
     },
     {
         "id": "PGD-101",
-        "name": "Non Aggression Area",
+        "name": "절대 불가침 영역",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "76848240"
     },
     {
         "id": "PGD-042",
-        "name": "Ordeal of a Traveler",
+        "name": "여행자의 시련",
         "type": "Trap Card",
         "rarity": "Short Print",
         "imgId": "39537362"
     },
     {
         "id": "PGD-052",
-        "name": "Pharaoh's Treasure",
+        "name": "왕가의 보물",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "63571750"
     },
     {
         "id": "PGD-016",
-        "name": "Poison Mummy",
+        "name": "포이즌 미라",
         "type": "Flip Effect Monster",
         "rarity": "Common",
         "imgId": "43716289"
     },
     {
         "id": "PGD-040",
-        "name": "Pyramid Energy",
+        "name": "피라미드 파워",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "76754619"
     },
     {
         "id": "PGD-026",
-        "name": "Pyramid Turtle",
+        "name": "피라미드 터틀",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "77044671"
     },
     {
         "id": "PGD-050",
-        "name": "Pyro Clock of Destiny",
+        "name": "운명의 불시계",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "1082946"
     },
     {
         "id": "PGD-104",
-        "name": "Question",
+        "name": "퀴즈",
         "type": "Spell Card",
         "rarity": "Ultra Rare",
         "imgId": "38723936"
     },
     {
         "id": "PGD-096",
-        "name": "Raigeki Break",
+        "name": "썬더 브레이크",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "4178474"
     },
     {
         "id": "PGD-078",
-        "name": "Reaper on the Nightmare",
+        "name": "나이트메어를 쫓는 사령",
         "type": "Fusion Monster",
         "rarity": "Super Rare",
         "imgId": "85684223"
     },
     {
         "id": "PGD-081",
-        "name": "Reasoning",
+        "name": "명추리",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "58577036"
     },
     {
         "id": "PGD-051",
-        "name": "Reckless Greed",
+        "name": "무모한 욕심쟁이",
         "type": "Trap Card",
         "rarity": "Rare",
         "imgId": "37576645"
     },
     {
         "id": "PGD-092",
-        "name": "Reversal Quiz",
+        "name": "대역전 퀴즈",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "5990062"
     },
     {
         "id": "PGD-000",
-        "name": "Ring of Destruction",
+        "name": "파괴륜",
         "type": "Trap Card",
         "rarity": "Secret Rare",
         "imgId": "83555666"
     },
     {
         "id": "PGD-100",
-        "name": "Rite of Spirit",
+        "name": "강령의 의식",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "30450531"
     },
     {
         "id": "PGD-105",
-        "name": "Rope of Life",
+        "name": "생명의 줄",
         "type": "Trap Card",
         "rarity": "Ultra Rare",
         "imgId": "93382620"
     },
     {
         "id": "PGD-018",
-        "name": "Royal Keeper",
+        "name": "왕족친위대",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "16509093"
     },
     {
         "id": "PGD-091",
-        "name": "Royal Tribute",
+        "name": "왕가의 제물",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "72405967"
     },
     {
         "id": "PGD-015",
-        "name": "Sasuke Samurai",
+        "name": "일도양단 사무라이",
         "type": "Effect Monster",
         "rarity": "Super Rare",
         "imgId": "16222645"
     },
     {
         "id": "PGD-037",
-        "name": "Secret Pass to the Treasures",
+        "name": "보물로 가는 비밀통로",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "77876207"
     },
     {
         "id": "PGD-012",
-        "name": "Servant of Catabolism",
+        "name": "이형의 추종자",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "2792265"
     },
     {
         "id": "PGD-002",
-        "name": "Shapesnatch",
+        "name": "셰이프 스내치",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "4035199"
     },
     {
         "id": "PGD-003",
-        "name": "Souleater",
+        "name": "영혼 흡수자",
         "type": "Normal Monster",
         "rarity": "Common",
         "imgId": "31242786"
     },
     {
         "id": "PGD-076",
-        "name": "Spirit Reaper",
+        "name": "영혼을 깎는 사령",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "23205979"
     },
     {
         "id": "PGD-046",
-        "name": "Statue of the Wicked",
+        "name": "황금의 사신상",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "65810489"
     },
     {
         "id": "PGD-022",
-        "name": "Swarm of Locusts",
+        "name": "메뚜기 군세",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "41872150"
     },
     {
         "id": "PGD-021",
-        "name": "Swarm of Scarabs",
+        "name": "스캐럽 대군",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "15383415"
     },
     {
         "id": "PGD-088",
-        "name": "Terraforming",
+        "name": "테라포밍",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "73628505"
     },
     {
         "id": "PGD-010",
-        "name": "Timeater",
+        "name": "타임 이터",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "44913552"
     },
     {
         "id": "PGD-039",
-        "name": "Timidity",
+        "name": "겁쟁이",
         "type": "Spell Card",
         "rarity": "Common",
         "imgId": "40350910"
     },
     {
         "id": "PGD-049",
-        "name": "Trap Dustshoot",
+        "name": "더스트 슛",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "64697231"
     },
     {
         "id": "PGD-099",
-        "name": "Trap of Board Eraser",
+        "name": "칠판지우개의 함정",
         "type": "Trap Card",
         "rarity": "Super Rare",
         "imgId": "3055837"
     },
     {
         "id": "PGD-041",
-        "name": "Tutan Mask",
+        "name": "투탄 가면",
         "type": "Trap Card",
         "rarity": "Common",
         "imgId": "3149764"
     },
     {
         "id": "PGD-019",
-        "name": "Wandering Mummy",
+        "name": "방황하는 미라",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "42994702"
     },
     {
         "id": "PGD-072",
-        "name": "Winged Sage Falcos",
+        "name": "비행현자 팔코스",
         "type": "Effect Monster",
         "rarity": "Rare",
         "imgId": "87523462"
     },
     {
         "id": "PGD-071",
-        "name": "Yomi Ship",
+        "name": "황천으로 건너는 배",
         "type": "Effect Monster",
         "rarity": "Common",
         "imgId": "51534754"
