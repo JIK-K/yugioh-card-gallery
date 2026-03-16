@@ -22,7 +22,7 @@
 
   --space: 5%;
   --angle: 133deg;
-  --foil: url("/img/illusion.png");
+  --foil: url("../img/illusion.png");
   --imgsize: 33%;
 
   background-image:
@@ -82,7 +82,7 @@
   border-radius: 8px;
 
   background-image:
-    var(--foil, url("/img/illusion.png")),
+    var(--foil, url("../img/illusion.png")),
     repeating-linear-gradient(
       0deg,
       var(--sunpillar-1) calc(var(--space, 5%) * 1),

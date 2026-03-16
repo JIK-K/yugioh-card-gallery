@@ -25,8 +25,8 @@
   --angle: 133deg;
 
   background-image:
-    var(--glitter, url("/img/glitter.png")),
-    var(--glitter, url("/img/glitter.png")),
+    var(--glitter, url("../img/glitter.png")),
+    var(--glitter, url("../img/glitter.png")),
     radial-gradient(
       farthest-corner circle at var(--pointer-x) var(--pointer-y),
       hsla(150, 20%, 10%, 1)    10%,

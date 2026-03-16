@@ -24,7 +24,7 @@
 
   --barwidth: 1.2%;
   --space: 200px;
-  --foil: url("/img/trainerbg.png");
+  --foil: url("../img/trainerbg.png");
   --imgsize: 25% auto;
 
   background-image:
@@ -110,7 +110,7 @@
   border-radius: 8px;
 
   background-image:
-    var(--foil, url("/img/trainerbg.png")),
+    var(--foil, url("../img/trainerbg.png")),
     repeating-linear-gradient(
       55deg,
       hsl(3,   95%, 85%) calc(var(--space) * 1),
@@ -145,7 +145,7 @@
   border-radius: 8px;
 
   background-image:
-    var(--glitter, url("/img/glitter.png")),
+    var(--glitter, url("../img/glitter.png")),
     radial-gradient(
       farthest-corner ellipse
       at calc(((var(--pointer-x)) * 0.5) + 25%) calc(((var(--pointer-y)) * 0.5) + 25%),

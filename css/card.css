@@ -32,7 +32,7 @@
   --sunpillar-6: hsla(283, 100%, 73%, 1);
 
   /* glitter (Ultra Rare rainbow에서 사용) */
-  --glitter: url("/img/glitter.png");
+  --glitter: url("../img/glitter.png");
   --glittersize: 25%;
 
   position: relative;
