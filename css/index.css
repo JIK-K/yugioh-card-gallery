@@ -1,26 +1,5 @@
-/* ═══════════════════════════════════════════════════════════
-   YUGIOH CARD CSS — 파일 구조 (LOB 기준 5등급)
-
-   로드 순서를 반드시 지켜주세요.
-
-   ┌─ 기반 레이어 ──────────────────────────────────────────┐
-   │  base.css          CSS 변수, .card 공통 구조           │
-   │                    .card__shine / .card__glare 기본값  │
-   │  cards.css         clip, grain, glitter 커스텀 변수    │
-   │  global.css        페이지 레이아웃, 타이포그래피       │
-   └────────────────────────────────────────────────────────┘
-
-   ┌─ 레어리티 이펙트 (5등급) ──────────────────────────────┐
-   │  1. rarity-common.css       Common  · Short Print      │
-   │  2. rarity-rare.css         Rare                       │
-   │  3. rarity-super-rare.css   Super Rare                 │
-   │  4. rarity-ultra-rare.css   Ultra Rare                 │
-   │  5. rarity-secret-rare.css  Secret Rare                │
-   └────────────────────────────────────────────────────────┘
-   ═══════════════════════════════════════════════════════════ */
-
 /* ── 기반 레이어 ── */
-/* @import "./base.css"; */
+@import "./layout.css";
 @import "./card.css";
 
 /* ── 레어리티별 이펙트 ── */
